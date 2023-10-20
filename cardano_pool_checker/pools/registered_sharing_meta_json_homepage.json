@@ -1,18 +1,243 @@
 {
+    "https://stakepool.at": [
+        "pool1qqqqqdk4zhsjuxxd8jyvwncf5eucfskz0xjjj64fdmlgj735lr9",
+        "pool19w5khsnmu27au0kprw0kjm8jr7knneysj7lfkqvnu66hyz0jxsx"
+    ],
+    "https://cryptobounty.org": [
+        "pool1dmqzwuql5mylffvn7ln3pr9j7kh4gdsssrmma5wgx56f6rtyf42",
+        "pool190a9js7lk9lvmrngre7w268z9tz9xs9yz77audvw8ag4jerfdhx"
+    ],
+    "https://bluecheesestakehouse.com": [
+        "pool1qzlw7z5mutmd39ldyjnp8n650weqe55z5p8dl3fagac3ge0nx8l",
+        "pool1qzlwlpcsgflr9z3f24fg836tyq45p0kf5cnrp20s8v0psp6tdkx",
+        "pool1qzlwlyu92fsx94qu6u5nw3sy334f5yat3dv3jgx0grrsv0kp422",
+        "pool1qzlw72zfwhhc0ptvzdpld06szu39x9mlm6782efy6sluz932fx6",
+        "pool1qzlw7den2mlj0fmm65g0fnf46vyhzkhmdaf0f8v3s6skuue6rlk",
+        "pool1qzlw756y0z6ehg9jkerrfrydr7qlvzl5pgset33h3h2akst593a",
+        "pool1qzlw76zztkg02rywyypyw6s0gtkg2zpkaxhl6cq7eauqg8h9659"
+    ],
+    "https://cheapstaking.com": [
+        "pool1e556526sqwugxwnmeumt9lhj5jukklg8vv3ynk75xt9vs7adr5y",
+        "pool1uu35qfkmjyxwpm3pgptfgr0qga9j2fzkc0tsjplcx840x295xj9"
+    ],
+    "https://cardanians.io": [
+        "pool1vx9tzlkgafernd9vpjpxkenutx2gncj4yn88fpq69823qlwcqrt",
+        "pool1ukeqarukv9gxwy9pt8jkr4qvad2yf87758g3xzemmvmtk8lrynp",
+        "pool189lsf6c2upyhmrzddyvyfjxxkqnte9pw8aqx7f4cuf85sjxlm02",
+        "pool1kmsr376syqkluhxvv8k2axugqw7unjmlkwhfxjxtj7cw7qcn0jn",
+        "pool1a5jd3x2udlvpm9mt4gpau4jlags6qtth6jdsguryh2zy27f5ttj"
+    ],
+    "https://elitestakepool.com": [
+        "pool1qwa8x4u4a2pff0xdv0haxpgk3tyrvl5adl2lpf3ztcftqruhea0",
+        "pool1k6altfangsst2mmxg8a9wvg3dppyszu8ckfzd3uv6azgw3z2txy"
+    ],
+    "https://theswim.net": [
+        "pool1xxhs2zw5xa4g54d5p62j46nlqzwp8jklqvuv2agjlapwjx9qkg9",
+        "pool1l0pmgdsymmdntuyan4snj88q8nm9axemwefu5ymkuq2s6gr90cn"
+    ],
+    "https://garden-pool.com": [
+        "pool16kus5xvdysgmtjp0hhlwt72tsm0yn2zcn0a8wg9emc6c75lxvmc",
+        "pool103455uc7a3477q8pdmzvny884qtlv9vhm2csxvqx2cadwuk36sq",
+        "pool1c7jrfce3zxkk9s9enzpvwj8fuayvx3pdzc2k2es6mrw6gsfcjep",
+        "pool1cmaafeyy52ppz62jqmsm20c5p8nua7xx95lkkf96ktmqqj3w5td",
+        "pool142xwjhpcvtp7tahpmn8tlnek7smefp9wn66z67j8vjpmjxqdg56"
+    ],
+    "https://www.angelstakepool.net": [
+        "pool1qqqyv9pn9typyqwcxqk5ewpxy5p27g5j2ms58hpp2c2kuzs5z77",
+        "pool1qqq9tqyj69j9kygpxza3h82ynh8d0xlueucnu2yqum8nse8hj7y"
+    ],
+    "https://coinzzz.jp": [
+        "pool1vxz0deezj5c2950e7arpzfqxzq8zd9kawsullrzjw5rsq0yhxgr",
+        "pool1smy2r8jdvgna5ykhe8rrch7h4qalyfafyzyh0rmanmq0jxptww7",
+        "pool14mm59ntjqzphjr6chrww639cdr3yjce4qcwzc5jkk38y22u7uc6",
+        "pool1spus7k8cy5qcs82xhw60dwwk2d4vrfs0m5vr2zst04gtq700gjn",
+        "pool1jx4ss2zjage3cw0wht3450328y82yeprmq4fr3e2qtac2rhezkv"
+    ],
+    "https://tokyostaker.com": [
+        "pool19uynx6nxcdksmaqdcshjg487fap3rs3axyhrdqa7gdqgzgxss4y",
+        "pool1llxh8l0h8g9ghz3nrzh7ndvev4x43vnk72nsemzm795vxqs6dp8",
+        "pool1xrrrr8gldqz8pjxj6j8c638a9py04xuv66kfgn2dlsx9g52te0t",
+        "pool1k0xrqp03mn9u3q3sadndd6vu9udl5v38xpzyw0shm8sskuxw2av",
+        "pool1larpvn53yyufaf8fh89nrrpgruqcq8mgxrtdxp5y87cqse3yfg2"
+    ],
+    "https://popool.net": [
+        "pool1a600v0jd2z3yajazd80phln3exekumm7g56d9yvlrh6vx8dx2fc",
+        "pool19ejln2jcpg5dphc8m5nh8sya49sycsqj0v2cjxw6nku966cc8nu",
+        "pool1etfar35l4tf6vam3gvqf5dnaq7levz32vgw4p00jzk7q7twg2te",
+        "pool12lsfsh2s8yt8dvrt9m8kgrgr6ktntngvn2vad60xlqz7kxz9fxr"
+    ],
+    "https://katanapool.com": [
+        "pool1x2h98z6e5xvrg5zw3v3dlu8hqdtj6lhp6r3w5ge7rvcqcx3pafq",
+        "pool1q66d2n39uvln4hazyzv8fyq977mpqus78sjd2369qfn7cptdeyh",
+        "pool1pvu2zdexh8wr4ggmuz90jvqrua6an43qj9m9urs785p8kwjzqwl",
+        "pool1nl74emh67vuyt8cgv6gwhjnrctxgrpqlrdzznj4l3lh5j8lj3ah"
+    ],
+    "https://londonpool.co.uk": [
+        "pool1sx4e8rvx2xdxgkww2fpjtmvrnaftfrtfge29xcn72hh7kch5snf",
+        "pool18v9r8afalh50l4lstct2awdc3zspnvurcs7t45nv29uc2mnxc6c"
+    ],
+    "https://www.1percentpool.eu": [
+        "pool1supp67ypelmgzuzqqvarc6czgmg3ggwpnrnfr90xpfcqqf8h05t",
+        "pool1gclysx2h7fndj0jdajlmwvqr8q9tzu3rurjknacu0ff954fsg9a",
+        "pool1s3z5qsg75dar26ykyzcz2u8wc2swgq7pyp7f9sdh5n06qh3jhq2",
+        "pool1z7n2ruhmxmv77f6cqhd3wsy6774h2wuay77agxuf2y9mj8q55vw",
+        "pool12mmcc4rc2fzfv7gyv8h06nvnsrm3m7erzdv8x6gzvjxlu2lf09n",
+        "pool1vnsfv2qpt5gxte9prupjey8kw7ap7t6c8lc02ks4s3gtqplhgd3",
+        "pool1rkyc3ss904h066sffergss99r9p2kqa4k6ds0g4u5ud4x7yaajd",
+        "pool1ua0lx5ap5tj9f5l7tyjflp766ca5yu93djh5hqvm4e0kjgw5k7v",
+        "pool1w8ham64lthvzzxzn5hknq4yrj8xt2nark409s2xmntlwvt4ag3r",
+        "pool1ddgcpgjcyawxw95se9x8qnc8gxgwjr4fqrk4vk6v9x47s0ggpjp",
+        "pool1kkfkdces5mdcyc9dn2hgg3463jggjvw3h89nejjarkz25uavaqu",
+        "pool1qdjx5xeeu6288ftmhmdr0c6mazkua7m07cydmr78ymfhz7jj7g4",
+        "pool1g8y2gz4sk7xhyaj469jlj3njyu5dlvqa7t7v9c2gk0yc69879z8",
+        "pool1uzla0r73fvpnvxr07m98nfzlxcv3q26mkjz00cqjfh7uqsyjkju",
+        "pool1w4am4s9w4gkt8r0245km62vtnnv9hhq6j68exzh2pyaxxfaq0gc",
+        "pool1g0nq3m3fnvd245k4favcvutn09vce0yshg535f68d2xa54vy0cc",
+        "pool17qvfg2g843gw6lurru282kkex6vp3pyj6zwj99j4u6k7zvmva5a",
+        "pool1ayfjmnrv5vg6tfducvysn360re6qfwuv2rhc4ph6jk33ztuxlhq",
+        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca",
+        "pool18mege8wvzzdvh8cxx6ncnqyvacl4lxukw495c87xmz8qcdl6lj8",
+        "pool1e4tjrl3ve7dcqwa70pexds6f8llk0txx09gm3r4m472ej4p6473",
+        "pool1yl76e0fhq0kcfy2jqs2mt6hl9xeyrnesehqp0p4s896lwv7hrta",
+        "pool1zmtm8yef7725p9n7x433m50kvv9xpzjujnny9m5t960g5qm30ua",
+        "pool1258yqnsegc3k7raqcdkxu4893aqexxljflmg9g96yfha2qytayv",
+        "pool1dww6s8stvm7dl2n8740s3v5rnxmsuqcl8jcnu64g7cds5w29pft",
+        "pool15a04yc72q4tfkwaweu86l0764urswee8c3zxperyrdq4kx8nvua",
+        "pool15xgej4c7ns20y5pt7dc5vq6yj87ss5sl2ffucmh5j766j90ppur",
+        "pool1nyf8x2xrlmfqwy9shqrlx2csentnzyjmxr0r3w0ljuaqz5ek7qz"
+    ],
+    "https://masterstake.com": [
+        "pool1qqqq4md2rfdt75qvh3x9cgmkrgkl74ctcj3fnxpu3ylcudl22ex",
+        "pool1j3umdcuxcewcxz98wm3sx5xqwgxx0v7z376xyjfq4jgejpvv8fz"
+    ],
     "https://sunnyada.io": [
         "pool195gdnmj6smzuakm4etxsxw3fgh8asqc4awtcskpyfnkpcvh2v8t",
         "pool1p8fhygz7ga9hghhwmkr64p3ftn77lxu9nyddvsqszattcdyajc0"
     ],
+    "https://azureada.com": [
+        "pool108zdflss3ayqlm5c7vr6mtqj2uwl99vk28ur8dv4zswdzt6yauc",
+        "pool1hkklrx9ac7w57d79mnv76rxlgq4acg5ecwhyep7k3zn0u5cz2k9",
+        "pool1m4enp55hp80tf6xl7k6f6593wnyu3pr83xfvef9x3ktdw9m0em5"
+    ],
+    "https://www.kiwipool.org": [
+        "pool1vquhv3kh6xkklckaenl8alyuhfsld57ef5573aqauueyqacx4ak",
+        "pool1jgwu8lq3dqddnnx7prymcgcyrqy0fdlghg33he2hmw9t2gma3zd",
+        "pool1y53awxsm6cmksp8qht8qfq5f5c69t6mrgrdcresk5y0ecv2yj93"
+    ],
+    "https://stakepoolservice.com/": [
+        "pool155cu3s06js3llfh07vnzepatfuvt3s5s7uwldt9rzz55wz7pugt",
+        "pool10quq4wlghwrvmhdzc7geq22pyhzegccwj56ax2g8hx0cjfahufs",
+        "pool1lqucyxuvjktfmpf7fd28j54cfgamyrxed344vnwlm9wqkwjeqwk",
+        "pool1mqy259k253xryf4hvdq0n72n2uvadcgp34r0fxwpqzm0z5n0qp6",
+        "pool1xftlxx9slpz59thcgtwgdj3k9e0ntn3p4qnmzs3r84dkx0hccjc"
+    ],
+    "https://adaocean.com/": [
+        "pool1a2nh3ktswllhwf07fjahpdg5mpqyq7j950pyftq9765r6t4cefl",
+        "pool1ctzja2cdwyeqnvehmrlclc5wrn9w9acwklk3acn73jrx56d66vs",
+        "pool1vc8jp7uagxgh8trzx7r260ndcydz89ges8sws05cyv7jj8q8gqs",
+        "pool1ell3xjtspzzz4vtsatscan6rheltf7j3hh2s8qsam2h3jvcxzm9",
+        "pool1s0cfkzheywsftgwp0yz7sq4rt5gyf7t5kfwj5a269kpxvndjn6q",
+        "pool1zk6uxgptztrxxamzd0ugrtu84xg8mjymd2xcdvxqazpruqt9r3x",
+        "pool1ffrre548h22n68ln29xph3qezrag3z8ad0kg8yzu6epds3qr58k",
+        "pool1xaudqyen24fz02vhu9qa2ry44suzfk8z3lh7sc6qx7c3gpweww2"
+    ],
     "https://skylightpool.com": [
-        "pool1vafsg5t78rnx3qr3fv7ys9h50pnvxqhd4l8tj629l5zk7tc39ch",
         "pool1g5gmej3cj67td4pmvmacnls8nuq0gjld2pwfeg3jwpxujdx6lmu",
+        "pool1vafsg5t78rnx3qr3fv7ys9h50pnvxqhd4l8tj629l5zk7tc39ch",
         "pool1xn4kqt45xh3udf87kmtkdfz8xh9qn6trlqsf39eusk23ufmxhgr",
         "pool1cyq3v3v43hu7spwlfxdm6vq9djpsjjueerhlu5qr2rvd57vqk84",
         "pool14atewgzlv6nl2e8k3ndrzwt9y07sepuplj9vuxk3trzzj5lmg64"
     ],
-    "https://lucky-pool.com": [
-        "pool1r2249l40de8nlj77u77yzk8kxl3av4k09ztswcuqfexzcxwx3k8",
-        "pool1gx2pz27mgupdqynr54s57jrepc3n28yx0wlx0j5ypka55aan9qx"
+    "https://wavepool.digital": [
+        "pool1g5gmej3cj67td4pmvmacnls8nuq0gjld2pwfeg3jwpxujdx6lmu",
+        "pool1axzm26vduyuxgw0x9ddh4vkvn7q5hyd558l0t9c08p556lf2zaj",
+        "pool10kya8ug3wr6cwnzm0qdcppjtuwfwmnvusu2uenscz4dg7pl07qv",
+        "pool1u99x2rr6trfznwakv0959llmxmtgc2nvanc067uugl3ejuvvnc8",
+        "pool145dkdplkqke4g0unzkjljeh2wr797d08k2jv822rhmmc68xak38",
+        "pool1ksz6vfc4xqdxyhp06h4n7kckh60370cy2t6m3wfgdxtug7ph4x0",
+        "pool1840k62s50neuj7hdp4l2julx49dtm72z25p9hh68pjvqjhhw602",
+        "pool1af03lvsktpekmnnw333629hfuhtytcgyh8hmlweet4lxs6p56fq",
+        "pool1xn4kqt45xh3udf87kmtkdfz8xh9qn6trlqsf39eusk23ufmxhgr",
+        "pool1cyq3v3v43hu7spwlfxdm6vq9djpsjjueerhlu5qr2rvd57vqk84",
+        "pool1z0f60shmc83ppn5h4sdrjuauf0yaq0ma8yr9gkse0qhh56q49af",
+        "pool19hrn8me383w9atvmjwukjxqsdvr8udpmyxau956hdc53x669j8p",
+        "pool17jss6muzegagwnlju4t0mxsk875eu6r0uwr7mfamf2xcvrwk4tc"
+    ],
+    "https://xstakepool.com": [
+        "pool10zyf32q3w3n9x940j6yqgkwuegzn77p94wcmpku6gvmrqw8a97d",
+        "pool14fjmlppz76667ws3jl5luejf2wgztuhpsftulvh3ucc65anqgve"
+    ],
+    "https://cardanoland.com": [
+        "pool1pshqcksxywy68lt04lw6uf35f4yssekh5dx2mxqmyrukke2z5y3",
+        "pool1hht4pctn70tqdsd0zwuxv8d8cz6l5scjzaquty7vamyzy78eqvc",
+        "pool1pemnlylem2e94xguhd3fytj90848kpv4agvr6rthx2tp58z79ek",
+        "pool1tah22gjtc7ntrdezv49hysegcwpzafea35t6f4hn3wr2y4hz3vz"
+    ],
+    "https://www.stakecool.io": [
+        "pool1vxvdypctdecvc2j7xu9y8h2fdxvkpjy2pp8luwg2h6dx5jlv0nk",
+        "pool1pmrgd8snhv0nnj97xcg70nqqhg0v9g3d0e93jl8vn23wxtsxz53",
+        "pool1myvgx4ef424e6nw2strqq7dxcepav52plyyhxrk0avaw7y098l2",
+        "pool1ppqdq5yfkkllrcj0u47pakg9e4ha568pz3a9kkrr6w2kyw8gxv7",
+        "pool1w7pt822hfgw30xnkwpjzz0sr5psejksqdcdw4l0ms33lsgynp2e",
+        "pool1vdcu0y6ujrwmnv4u50j6upxkjug7cx7zsaynjvgkcm2ycmajelc"
+    ],
+    "https://digitalfortress.online": [
+        "pool1rvng7n968748udkc5rxy4h9zp9hms4s3jsfwuues76ft28uc056",
+        "pool1lvsa8e0dw6z8g2fkw7prnfa7627wuy5jjexaadck6w5sxw5xkvm",
+        "pool1ppznyu6qrvlw9uuqa3tslryjd40nh56jyvmaqw6kdf4kzq3y8kh",
+        "pool1jz5ljsnj4fzmk84j0wcw9ldy866dn07nzqg2ktyuyjvfvr3jgtq",
+        "pool1jql92je87mrx5gpjhmwr6a8a766cktcf5p0p8wd0wxq87nu80yf",
+        "pool13pt7us94nw782t5v4d89sz8zqn8hcn8r8r7hhph5mvxvvp3c76v"
+    ],
+    "https://twitter.com/cardanodan": [
+        "pool1nhls8e9swnyshldgjknku4npreax075nw0ltrkmrarh4w3skxt9",
+        "pool1ezh8sewqgzy7267yvy0jssz8q7amce37x3dhmfl22j8lwz6wjrd"
+    ],
+    "https://staking.cardanofun.com/": [
+        "pool1whk6lawmfz4zq5fw8zghglp23452gnm9zgs59nqafhpexwcvute",
+        "pool1p9sjhjx0v3k76wvgdqu7jcks2ra48wqlhc6g0mkewd25k3zcymy"
+    ],
+    "https://planetstake.com": [
+        "pool1qqvukkkfr3ux4qylfkrky23f6trl2l6xjluv36z90ax7gfa8yxt",
+        "pool1lr5ku0p3jhykdf3a2kcr0tyra30qvzrtl02dr6uyv98rxdsy3k9",
+        "pool1yenqraf3znn07qmvtd8wg23fymsr0vsme7ry2475r48vk6ss0z2"
+    ],
+    "https://adafrog.io": [
+        "pool1qqqqrwzy7njvjq9wph7usj5gghm3py9c97688ek8pgc7uem9cfz",
+        "pool1qqqqx69ztfvd83rtafs3mk4lwanehrglmp2vwkjpaguecs2t4c2",
+        "pool1qqqqzyqf8mlm70883zht60n4q6uqxg4a8x266sewv8ad2grkztl"
+    ],
+    "https://bloompool.io/": [
+        "pool12vs4c3cm0tr49c7alrevfs0xa5g3s4al4fn46h33e69uusat04v",
+        "pool1hntu7agmt8u5j9c20ejen7dvq0jfkvkpnul3mrdd8tppqvwfvt2",
+        "pool17kew7rtakc7g6qzydntann5umw08xq3ll2j7spk7en4kvff69fa",
+        "pool1uyvyxt9k9g038h567x8halej4x87j7m4r4zyz9lhv4dcv83husk",
+        "pool19r8kcmqpajlm6h5q0lv8jye0q7evdur39wfsgs4z98fcqpz9lct",
+        "pool13crd2ljx87988umk22er6ynwadfwdqupdpcq6prc6v59z62kxse"
+    ],
+    "https://stakit.io": [
+        "pool1nudasuv0lljpe0tswcverqvlh0v4226vgnpsuxn0e9nkvnvcvne",
+        "pool147en6w8f9cplnn5x7qt4ese7fpacmmcwuffrtu0yqxpaz4agppr",
+        "pool1wjext9skqge8x7z5asvvmezlal6npjk8v2aduavt6fehyzhnu5a",
+        "pool1efacpnedlfrhe9sa6s4jzq839s5q4qdrl70em0za57xg6t38d3s"
+    ],
+    "https://www.publickey.co.jp": [
+        "pool126mkma8nv5axltmz7mmg8qz9e70nmhnf58hwx5772fhwgkhk6ag",
+        "pool1y49e700dnx8lpvznmysgzw203mjq6l7um85ka4ys6x0zcwgs77w",
+        "pool1n7zhzk2zyvqywfj476s4xk9h0xzncsq37469d8cyg37lsngvvqp"
+    ],
+    "https://sipo.tokyo": [
+        "pool1w6l6rvhxtym5psec3mvgrjlg28d6hrv8g9jjexadzmxfgndfg2f",
+        "pool18rhzlrv83a7ygj7cp5uv8dx07qkn5drhe8nh6f3qvhv66xcyj2m",
+        "pool1p5ja48uqc7pjnuqvwu7cgmspvx938qpnf4zqm0x2k0ngkh4lkjx"
+    ],
+    "https://kysenpool.io": [
+        "pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0",
+        "pool1d76p7zfn2ydq577z4wsvmnl2lx4cxa3s5vplfuhvr8qfw8hd05j"
+    ],
+    "https://atlasstakepool.com": [
+        "pool1u6kpt8hgqcm596kukj97ghefmxn8ks2cgwg8qqe0gtgscnufk5p",
+        "pool1853ffwhtuka742fq4av7s3ssdpvzhdkpw53th3es36zkwrllj9g"
     ],
     "https://onyxstakepool.com": [
         "pool17xextu09ghdfcmsq83whq0a45geg83jxe4qt94sevu087tzdzkl",
@@ -21,11 +246,34 @@
         "pool1q5sspejl875flc0z6wh9y9zxkgqnk0y3aaw8jc0pkxs6cpavm4q",
         "pool1gg4vec4zld4fxyxxzg4ztz35wurgnwftyqrhgs8zslmh7e09laf"
     ],
-    "https://www.kaizencrypto.com": [
-        "pool1zc7vxe3ymyej76h8wu8gm79chtt7w9c3adkza4uhrjvagr9w4zp",
-        "pool1jeu74g86ys4fekhykqcww99kdsq3nlym8a6kfw8s8ff3vskad70",
-        "pool1efxh54fk0dj5uu2e4eu08klxl5ys3saphv3kec33kw3xv8738sc",
-        "pool14w9tn4w30dwd2lfv4cwjg2a2e3ukfd0nqrydx37fjzf7z5f5jnk"
+    "https://adavault.com": [
+        "pool1xytvsd9qnvqxpthh9p8k85e823trvn3npxeur8kr9zhkqz5uls9",
+        "pool18vej0s9gska8c847aj95g9v24duuxg2g63d5cuqngnxew643jw9",
+        "pool19k9grwq9cdswn4k7vxzmwcls24jj3466g4s4xr5vucehcqpslfy",
+        "pool1ahazpr2yz5gljk2m4q8g7wnmq7m2sr9unhdfmr5arhqrjnntwdz"
+    ],
+    "https://nu.fi": [
+        "pool1qnrqc7zpwye2r9wtkayh2dryvfqs7unp99f2039duljrsaffq5c",
+        "pool1ecvcst7k9eul4ggnljh0jw2s5nc2tyfmyzsx3xg3kmmz6ptgfwj",
+        "pool1jg3fmnmc9n52sgzslhhvhye5e3xeqmrwkekdhh82sma47r47zg0",
+        "pool167zl76srpt5a2gthpsq0ye9z4fpray5vsh7xyzcn63hd5mnw7fa",
+        "pool1jdhjfcu34lq88rypdtslzwyf27uh0h3apcr9mjd68zhc69r29fy",
+        "pool1ea568m9q882n0tx5d4vxff2dmz2n7rq5h62hx5ystq625m4tcfu",
+        "pool16hs0jxw7h6pwg3ru7rcq3yvg4csj7lhmcpj68kqem2sh5nt8mwk",
+        "pool1q0a7a94cfk4ph7gugj636tsuhhd98l2sfjv2adhaff2mvs7kmtl",
+        "pool1fqwnqk3phwa2s5thgym8dw34pv0z67m526uqprnjh93cvzxymef",
+        "pool1caulv7s08g0jnptzdc69qycptacu7fzahny2epzh7sh9vhqz6xz",
+        "pool15r7xg0vrrv2yu8wj3866eap8ftkuxvdk5rjz2lh4xajjq5v3p5d",
+        "pool1uhy50u9y76nd6z2xmzt3mta0yc7g3gdssef8lheyyg7zzymgzm8",
+        "pool104avq7309gjm0fxms69yqusxy8zf888k4mamngg5vnc6vculpzq",
+        "pool1chtam5czevzk2ttctvltpsc8twlwf6zzyh7kj3jkz72gks975sn",
+        "pool15d62znf04qymt6ve536tt5y9ky979ly4um5zmgz9m850vu7wuv7",
+        "pool1f8erepj5w5nth5xfxgxnwpz59jzywt6zdwfr50jzjwfwksmg9ek",
+        "pool1ye4zrxf0w7d7drq5wmat36dlzq270dxy9rhgcwufnaja644vwr9"
+    ],
+    "https://www.titanstaking.io": [
+        "pool1qqqqpanw9zc0rzh0yp247nzf2s35uvnsm7aaesfl2nnejaev0uc",
+        "pool19pyfv4xnln8x4l7auw0n0skk3hd97shun707hrw5d4s553ys74x"
     ],
     "https://zeteticstakepool.com": [
         "pool15zrkyr0f80hxlt4scv72tej8l8zwrcphmrega9wutqchjekceal",
@@ -35,23 +283,114 @@
         "pool15zrkyr0f80hxlt4scv72tej8l8zwrcphmrega9wutqchjekceal",
         "pool12fzerww0hmk0fyvaujz5t2kg6hl4n8daz85rqy5jk8qk58r59y6"
     ],
-    "https://elitestakepool.com": [
-        "pool1qwa8x4u4a2pff0xdv0haxpgk3tyrvl5adl2lpf3ztcftqruhea0",
-        "pool1k6altfangsst2mmxg8a9wvg3dppyszu8ckfzd3uv6azgw3z2txy"
+    "https://cardano.securestaking.io": [
+        "pool15yyxtkhz64p7a8cnax9l7u82s9t9hdhyxsa3tdm977qhgpnsuhq",
+        "pool1lhz4gsk5ezdl5s4mv2kxgrkhzzhad6me2v0xmwuyt845vensdlc",
+        "pool1xjhzgchsl2ccvc5pj3aqytv9hh0jnaz63wtfnw4th07tjypm46x",
+        "pool13qdkwy5y88ncr5qpjrh8hgtf94d0zw4wuhgezjg3hvlyyrh37c7",
+        "pool14n77mmxh6a2d9k05jamzdwsws2ayvkyje8uc7led958p63at3aj"
     ],
-    "https://adavault.com": [
-        "pool1xytvsd9qnvqxpthh9p8k85e823trvn3npxeur8kr9zhkqz5uls9",
-        "pool18vej0s9gska8c847aj95g9v24duuxg2g63d5cuqngnxew643jw9",
-        "pool19k9grwq9cdswn4k7vxzmwcls24jj3466g4s4xr5vucehcqpslfy",
-        "pool1ahazpr2yz5gljk2m4q8g7wnmq7m2sr9unhdfmr5arhqrjnntwdz"
+    "https://endeavorstakepools.com": [
+        "pool1afv4cmmjdkujtd5r9t63090a3frwwqy8f3e46gz003vyzjcj63r",
+        "pool1r0dcmvzsldk06yagudxaajqjuzhvwlzcnaclcwtvm8v4qmsn7l0"
     ],
-    "https://cheapstaking.com": [
-        "pool1e556526sqwugxwnmeumt9lhj5jukklg8vv3ynk75xt9vs7adr5y",
-        "pool1uu35qfkmjyxwpm3pgptfgr0qga9j2fzkc0tsjplcx840x295xj9"
+    "https://sites.google.com/view/mango-staking-pool": [
+        "pool1ntwurms3f0j4kqe5wfpg9chlasylp0lmuw72m4fn66vnuyrvs8v",
+        "pool1n5ytegzw3enscfw4t8wsjytrz228agvm9c3xaarce7pgjzftdtx"
     ],
-    "https://kysenpool.io": [
-        "pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0",
-        "pool1d76p7zfn2ydq577z4wsvmnl2lx4cxa3s5vplfuhvr8qfw8hd05j"
+    "https://scardano.io/": [
+        "pool1u4sxd6x0qsy7evljt24vtnyhpxd098n609sfcmly6c096mr3jgq",
+        "pool1svv9st22dywp9exwsltt7cdc4v2dyrf4zls00jesv2lzvpz45jh"
+    ],
+    "https://www.plutusoracle.com": [
+        "pool1t74ckqauwmn9ef5ye0h7c5wsgfd36zx24ue9wvj4vj95cl54aff",
+        "pool1cyha5jsy6g06w699tw4awy2jw7gxj0azm38yzetr7zls7rkl0t0"
+    ],
+    "https://www.raidpools.com": [
+        "pool1cl3fhy6me0nf5jnxahk997r0529aumt967kw4yml5vraq94mdk4",
+        "pool1qel9h28zarup4g5dx95smeggfruq26k47lc8e6wmdzaaywyj63r",
+        "pool1ec5lvdyd9dghpezzeqfzn48yvw34ff6u6m9tlh08kjjaxx4nxmk",
+        "pool1h0jfkyfqt729vxhq8ndxffcqn2afjhzzlwqecrvsufgu5sag0sj",
+        "pool1ps39v4j035ejzrga2qt56cfhjuwx38wved8rd0mujtyh6r5mt3c",
+        "pool1vd3rfulk3x3k6mafusvrtnzysx9qkcgcks9an2alcpm55msk63g",
+        "pool1ftfgs9lp0l4l07glvemrzu86pqvxrvzsn85lc3hathlq5ddsw49"
+    ],
+    "https://www.kaizencrypto.com": [
+        "pool1jeu74g86ys4fekhykqcww99kdsq3nlym8a6kfw8s8ff3vskad70",
+        "pool1zc7vxe3ymyej76h8wu8gm79chtt7w9c3adkza4uhrjvagr9w4zp",
+        "pool1efxh54fk0dj5uu2e4eu08klxl5ys3saphv3kec33kw3xv8738sc",
+        "pool14w9tn4w30dwd2lfv4cwjg2a2e3ukfd0nqrydx37fjzf7z5f5jnk"
+    ],
+    "https://arcadiastakepool.com": [
+        "pool1g5k0fks847av9zdayg05htnj8wx0ah7jmnwwqlt63rjdzyjr93n",
+        "pool1gu33fszp9ek0w9fkdt2xpnp4vznvvv2vhktc0dypa8fr53lc9pc"
+    ],
+    "https://cardano.ipclub29.com/": [
+        "pool1vh4y864hcq2r66ak37w4dsnkhnsfxaaacs0p5s4vj5676m6txwm",
+        "pool1lkpj6fa4l0sy39qfvyl4pcsnnd22y8np8j98vzwula2kuxgers4",
+        "pool1udkx9rmgzf08z7zz4p7ykpdqsdv5nf0w8uf38wrsdn5dzk9nq4g",
+        "pool1x89ssjp53eczthatft9w74749558nsz3pq5jn056634pgt5m58s"
+    ],
+    "https://adalovelacepool.com": [
+        "pool1ekcsyzwexl7p2kwxxh34hy28l6772vrmff7jwmuxsa6u6fzty9z",
+        "pool12vv4c6z7yf8j4m2amzej4j8tn2d4dxklqk5nqztz7wl02gratjp"
+    ],
+    "https://nordicpool.org": [
+        "pool12t3zmafwjqms7cuun86uwc8se4na07r3e5xswe86u37djr5f0lx",
+        "pool17rjst78s67lvellg8s586rf076jxa3wnsdz730f4xk2zwuhrtej",
+        "pool1lfvzgsrghmugvpym868mh29288ez0nncz680mamzjygu2jpuwcd",
+        "pool1k633phcvz2hjhj45evwwau4w576jpq83acg5h84w23jauqu56cw",
+        "pool1nz9h4raywm6mu2v8l7htuaqvmn06l3mepuaxynpzlwljsf8txhy"
+    ],
+    "https://lucky-pool.com": [
+        "pool1r2249l40de8nlj77u77yzk8kxl3av4k09ztswcuqfexzcxwx3k8",
+        "pool1gx2pz27mgupdqynr54s57jrepc3n28yx0wlx0j5ypka55aan9qx"
+    ],
+    "https://iohk.io": [
+        "pool1mxqjlrfskhd5kql9kak06fpdh8xjwc76gec76p3taqy2qmfzs5z",
+        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
+        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
+        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
+        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
+        "pool1gpzkwf3ntp7ky6yvyky8q6qu4dyup5y6v4pxzn56yut8sqp6k53",
+        "pool1nee5kmpzv0qfz7lu258fe9ylgxh68lsqqdmjgw7jnheej3usn35",
+        "pool155efqn9xpcf73pphkk88cmlkdwx4ulkg606tne970qswczg3asc",
+        "pool12ql6www8aa8usn98azlkz76d2htxtm9swalvyac27rlq6mdkxc7",
+        "pool1h5uycju7n5puxn2ckfkpza550rf6jk4twr6ef0hsmxft78ajt6q",
+        "pool1ha70qvqwnmnwpa7e575y9tgyx47aw29rvkz73mnf42z5wet5dr3",
+        "pool12jqfrwhuv2jn0uymwmud2d63gp5drj08fjfart9dxgpu2tmj8a0",
+        "pool1646vlaras0deljthqtfl9dpdw2xsna799l0kayyu9v44cql4ky0",
+        "pool1tjaz8a62743k5tzdd8lyd0sgf2lcvtk09jsz9etvas82zdamc2q",
+        "pool1v9gqa6n4em4aly7ew2trvhgrath4mrsp9tyc290l638nvqs5aej",
+        "pool148ajvsw7z9mhgw43tqvgmfrv22azvm638knkqghqv497xvdl2tk",
+        "pool1e827fy8efd7n9zacdknhtr2n5rqmry5up05mqgqsjkmmzjmzrf3",
+        "pool1hfxjswx4wnpfmdad660hvzx4knjhf32uwgg6wgsnqp98x9zz927",
+        "pool1y9xftc4cq0svcv0gjdtusnvllrg5v5rn0d24g8r4m7tnsem6ve8",
+        "pool1kcw2kqj27qe7ntsz9fhvyvyvpf7prclwc5jq4cw0qydh7cygcek",
+        "pool10pktmr26fpvrt77j7m5mchqlt0mjmmfvt7ruvdewkcpasp0nzkl",
+        "pool1j0j39t2dfmkflfnvresds8vlfhwg75qwufa95u55nw376ky29r8",
+        "pool1szgruqm2dlhkh5qh7rft28xz9gkxj6rzfncsuquf3vm37k63kqv",
+        "pool172fsazvg6zrpkj7c8wklsp7lrn5yxjvhru4enddvvfnyx343dyc",
+        "pool1pmknsy9yqh06fpmduf8vzcvkzpllygjj8uzkjccgvewtq9uc53k",
+        "pool19r4ef6n0xkw3pvztuwd44ymrzrkylyralnf5rudnc7hnvvddyqz",
+        "pool1ge06eu8lvdj6jakxw8zuwj3yxtpmeek8j8rgwqfshj7vg390fj0",
+        "pool1867sv2tgcq2cjmyhqgsfveekmsy5zksld69zhgrlkluukfydq29",
+        "pool1sr82s7yvwwsy6q0geveawrglt8ss39jhsfz7d0p4a5y6kk30mdd",
+        "pool18w4dzpe8wtkx29scf74qmshrf58xg760mcxu5p7s0azxufwwgec",
+        "pool1ygamv2t9lw03khcxpe75rjd4p8lnn36hux3deeg3hrc3jwrx43z",
+        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
+        "pool1cx8njhvw34weqykla5fz38ngt3dr4d0ltv0srqjqa8ugzap937l",
+        "pool1x5ge78ks6jc0j8nsfwyqqhk2ukxlkvz7zxlm9utgk6405hh490n"
+    ],
+    "https://adacryptopool.com/": [
+        "pool1denmfptpdhy2vp8q92ttrmalf3kynyv7aguudqzeq83d7zpcaeq",
+        "pool1dzz5se25fp696axykcw6wwp3yl4fk44jc62yeflrquvfxlktldq"
+    ],
+    "https://emurgo.io/": [
+        "pool14u30jkg45xwd27kmznz43hxy596lvrrpj0wz8w9a9k97kmt4p2d",
+        "pool1qs6h0y7czzt605kptmrv6cr85kxd6tajr2hs0etvxphv7tr7nqu",
+        "pool1cd987kw92e3nmjywcfwfws79a09rwp0p0xj5mdtr39qukxgp9uf",
+        "pool1c55n72ag3tz8g7rntzuu9a86u7eugsy008xl3xsje8kwgvz2vdz"
     ],
     "https://blockngine.io": [
         "pool1zz7x8ergn02chznayj9fjds2gk5q6prmpdr49faspd65kzqsrjs",
@@ -75,17 +414,18 @@
         "pool1rpjjz68kmmetyxztmrstrwgz8lxf6v0d7vqgw98r5x8rc50jrdf",
         "pool1vhusc9c38uqkuspnecq6clcqadx86g8wpxfaadyxfwdrukh0kg0"
     ],
-    "https://nordicpool.org": [
-        "pool12t3zmafwjqms7cuun86uwc8se4na07r3e5xswe86u37djr5f0lx",
-        "pool17rjst78s67lvellg8s586rf076jxa3wnsdz730f4xk2zwuhrtej",
-        "pool1lfvzgsrghmugvpym868mh29288ez0nncz680mamzjygu2jpuwcd",
-        "pool1k633phcvz2hjhj45evwwau4w576jpq83acg5h84w23jauqu56cw",
-        "pool1nz9h4raywm6mu2v8l7htuaqvmn06l3mepuaxynpzlwljsf8txhy"
-    ],
-    "https://azureada.com": [
-        "pool108zdflss3ayqlm5c7vr6mtqj2uwl99vk28ur8dv4zswdzt6yauc",
-        "pool1hkklrx9ac7w57d79mnv76rxlgq4acg5ecwhyep7k3zn0u5cz2k9",
-        "pool1m4enp55hp80tf6xl7k6f6593wnyu3pr83xfvef9x3ktdw9m0em5"
+    "https://moonstake.io": [
+        "pool1a6v2wt0m8wjra80zuw00sfdxn4w52cna96gcaglzvred6gnsusx",
+        "pool1ydmetputlff49n9ry5qjupemx3xwxdapm46je574afxdcy0907y",
+        "pool1xppj5zu9kmuqk05u6dtd3dmtj7fl25cvjyzsc95gmfyjywaslnp",
+        "pool1wpmjtfqcwvtcs9znpuulk99yk2zz6pfh0c4k9f2xlcspgqjndk2",
+        "pool19lz8nyz0jjpdrdtnjaar4untk4th23gpg5s7aegn7480zff4vgq",
+        "pool1fpu5xurq3jx5rn626ejcx0dzzzk5lmtvdl2qkj9l4kw2sjp50dz",
+        "pool1kcnh9avc9jgelajcja7y6wsvjdaulkqj02azcszjvm3pwmksr0l",
+        "pool1k4ejdzlnd83l8f8xm5t0m4uv5q0tzexpm23f6cg7lzzayrquzqw",
+        "pool1s04pdfl3sv5gzuc80322rc4ne0xs7gekux7gtckvvwt7qutjy6w",
+        "pool1835qw65tsy3x7mta5dfdmfq4mvqzn9cpvf9keaca0nqgvguk7j5",
+        "pool1sjqkktr2uhgpu2tuy8hsz4eupqpup0r79yy83weu3hk22na5c7w"
     ],
     "https://goatstake.com": [
         "pool10akpqvczl93ep4rc59c0aqyn3dm0env2ydysuwmdm670wl24pd8",
@@ -95,40 +435,9 @@
         "pool1n52mcyvll6hw864xtqdqqyjwj6953aquqj0u4j23780tc0zc426",
         "pool1rvu72lt2j0z0qjfzlqhccvvvu9v7hju6hndtkagfzvvvjgy6zds"
     ],
-    "https://cryptobounty.org": [
-        "pool1dmqzwuql5mylffvn7ln3pr9j7kh4gdsssrmma5wgx56f6rtyf42",
-        "pool190a9js7lk9lvmrngre7w268z9tz9xs9yz77audvw8ag4jerfdhx"
-    ],
-    "https://www.titanstaking.io": [
-        "pool1qqqqpanw9zc0rzh0yp247nzf2s35uvnsm7aaesfl2nnejaev0uc",
-        "pool19pyfv4xnln8x4l7auw0n0skk3hd97shun707hrw5d4s553ys74x"
-    ],
     "https://powerstakepool.com": [
         "pool1uk2f28awascuhrhuwrp7x6y87x8ch33vwx8jtmrysp7l5ngq78j",
         "pool1my7sevxtc4dfvj626q0ujqqukntfa2v0uuydq6wd8x8hvml03rn"
-    ],
-    "https://theswim.net": [
-        "pool1xxhs2zw5xa4g54d5p62j46nlqzwp8jklqvuv2agjlapwjx9qkg9",
-        "pool1l0pmgdsymmdntuyan4snj88q8nm9axemwefu5ymkuq2s6gr90cn"
-    ],
-    "https://nu.fi": [
-        "pool1ecvcst7k9eul4ggnljh0jw2s5nc2tyfmyzsx3xg3kmmz6ptgfwj",
-        "pool1jg3fmnmc9n52sgzslhhvhye5e3xeqmrwkekdhh82sma47r47zg0",
-        "pool1ea568m9q882n0tx5d4vxff2dmz2n7rq5h62hx5ystq625m4tcfu",
-        "pool16hs0jxw7h6pwg3ru7rcq3yvg4csj7lhmcpj68kqem2sh5nt8mwk",
-        "pool1q0a7a94cfk4ph7gugj636tsuhhd98l2sfjv2adhaff2mvs7kmtl",
-        "pool1fqwnqk3phwa2s5thgym8dw34pv0z67m526uqprnjh93cvzxymef",
-        "pool1caulv7s08g0jnptzdc69qycptacu7fzahny2epzh7sh9vhqz6xz",
-        "pool15r7xg0vrrv2yu8wj3866eap8ftkuxvdk5rjz2lh4xajjq5v3p5d",
-        "pool1qnrqc7zpwye2r9wtkayh2dryvfqs7unp99f2039duljrsaffq5c",
-        "pool167zl76srpt5a2gthpsq0ye9z4fpray5vsh7xyzcn63hd5mnw7fa",
-        "pool1jdhjfcu34lq88rypdtslzwyf27uh0h3apcr9mjd68zhc69r29fy",
-        "pool1uhy50u9y76nd6z2xmzt3mta0yc7g3gdssef8lheyyg7zzymgzm8",
-        "pool104avq7309gjm0fxms69yqusxy8zf888k4mamngg5vnc6vculpzq",
-        "pool1chtam5czevzk2ttctvltpsc8twlwf6zzyh7kj3jkz72gks975sn",
-        "pool15d62znf04qymt6ve536tt5y9ky979ly4um5zmgz9m850vu7wuv7",
-        "pool1f8erepj5w5nth5xfxgxnwpz59jzywt6zdwfr50jzjwfwksmg9ek",
-        "pool1ye4zrxf0w7d7drq5wmat36dlzq270dxy9rhgcwufnaja644vwr9"
     ],
     "https://bravostakepool.nl": [
         "pool12z39rkzfylvn9wfe8j6x9ucq6g2l4mw4azj70y0gd8ejczznyj3",
@@ -147,145 +456,63 @@
     ],
     "https://staking-fm.site": [
         "pool1lq7t0qg273vp8t2wzmeyj7sdq2vhu2v87jjplgurpfxcs9afnr3",
-        "pool1lqeg5d3jpwr3nvra568nk28sr8lttyr6cf4yyssdx6qtxea9nmr",
-        "pool1ax8znp3yeeh0udrr2vvtm4wkxjldwv4mywycn573km7fu20y5xa",
-        "pool1u32s3ry3vjhqwhcrqz7p5u35cvzrx4tvdwydgvq6qm8720qrg0s",
-        "pool1xdwe294ntvnken52vsaar7edxpxeths4dvsm84pm4chyq70r0ny",
-        "pool1t6stu46gth7awdlrdmxmjhgrk9rjhez9qfnlhkhfvf0fj4q3h2a",
-        "pool1xc6la5z92seku86c4rdnuvxjdc3fh8pdtanlgxdy99cxjrkhzkd",
-        "pool1ffuv59d0rdp0jsgxa9x5r8pvmaexvuufeu43kpxl3u2qut3ljq4",
-        "pool1s6s6eyve0lmc4e0emzf2l68n9ya0rhrpdcq0jmkmmmxv2rkrx42"
+        "pool1lqeg5d3jpwr3nvra568nk28sr8lttyr6cf4yyssdx6qtxea9nmr"
     ],
-    "https://garden-pool.com": [
-        "pool16kus5xvdysgmtjp0hhlwt72tsm0yn2zcn0a8wg9emc6c75lxvmc",
-        "pool1c7jrfce3zxkk9s9enzpvwj8fuayvx3pdzc2k2es6mrw6gsfcjep",
-        "pool103455uc7a3477q8pdmzvny884qtlv9vhm2csxvqx2cadwuk36sq",
-        "pool1cmaafeyy52ppz62jqmsm20c5p8nua7xx95lkkf96ktmqqj3w5td",
-        "pool142xwjhpcvtp7tahpmn8tlnek7smefp9wn66z67j8vjpmjxqdg56"
+    "https://poapool.com": [
+        "pool1dqlgn7smehsnj5ztz8almy2036lfhrdjv79nmg9tmje0zzt620h",
+        "pool1f3qeehc4htjqpwv248kf5lfaumd0e84jtze379ev3ywa2w69aam"
     ],
-    "https://londonpool.co.uk": [
-        "pool18v9r8afalh50l4lstct2awdc3zspnvurcs7t45nv29uc2mnxc6c",
-        "pool1sx4e8rvx2xdxgkww2fpjtmvrnaftfrtfge29xcn72hh7kch5snf"
+    "https://cardanostaking.live": [
+        "pool12v7aukl49ehf9ysagq960ek26jeywnq3yzv5hgl4ecvhvyax5p6",
+        "pool1hjlkmtquuanfvvumfwsu395gdrmt36kda0x6wwwpz4kqctg5lyy"
     ],
-    "https://www.kiwipool.org": [
-        "pool1vquhv3kh6xkklckaenl8alyuhfsld57ef5573aqauueyqacx4ak",
-        "pool1jgwu8lq3dqddnnx7prymcgcyrqy0fdlghg33he2hmw9t2gma3zd",
-        "pool1y53awxsm6cmksp8qht8qfq5f5c69t6mrgrdcresk5y0ecv2yj93"
-    ],
-    "https://bluecheesestakehouse.com": [
-        "pool1qzlw72zfwhhc0ptvzdpld06szu39x9mlm6782efy6sluz932fx6",
-        "pool1qzlw7z5mutmd39ldyjnp8n650weqe55z5p8dl3fagac3ge0nx8l",
-        "pool1qzlwlpcsgflr9z3f24fg836tyq45p0kf5cnrp20s8v0psp6tdkx",
-        "pool1qzlwlyu92fsx94qu6u5nw3sy334f5yat3dv3jgx0grrsv0kp422",
-        "pool1qzlw7den2mlj0fmm65g0fnf46vyhzkhmdaf0f8v3s6skuue6rlk",
-        "pool1qzlw756y0z6ehg9jkerrfrydr7qlvzl5pgset33h3h2akst593a",
-        "pool1qzlw76zztkg02rywyypyw6s0gtkg2zpkaxhl6cq7eauqg8h9659"
-    ],
-    "https://stakit.io": [
-        "pool1nudasuv0lljpe0tswcverqvlh0v4226vgnpsuxn0e9nkvnvcvne",
-        "pool147en6w8f9cplnn5x7qt4ese7fpacmmcwuffrtu0yqxpaz4agppr",
-        "pool1wjext9skqge8x7z5asvvmezlal6npjk8v2aduavt6fehyzhnu5a",
-        "pool1efacpnedlfrhe9sa6s4jzq839s5q4qdrl70em0za57xg6t38d3s"
-    ],
-    "https://planetstake.com": [
-        "pool1qqvukkkfr3ux4qylfkrky23f6trl2l6xjluv36z90ax7gfa8yxt",
-        "pool1lr5ku0p3jhykdf3a2kcr0tyra30qvzrtl02dr6uyv98rxdsy3k9",
-        "pool1yenqraf3znn07qmvtd8wg23fymsr0vsme7ry2475r48vk6ss0z2"
+    "https://nedscave.io": [
+        "pool1qfxukshs4fkcrflzdnxa2fdza5lfvew3y6echg8ckaa4q8m5hyf",
+        "pool1cn0dqtplwf67fds40hgkf0u5rm4q4azev5qutmgkw5hdyvue2ue",
+        "pool1gas95lqlch5pj5e4lwg78gxlq7km9xfurfd557x4tgwk5kktd04",
+        "pool1vdh6kxcqt9mxavyv80ggnec6jjwms44ms30rhle3lt266aj8jgh"
     ],
     "https://www.fujistakepool.com": [
         "pool1hg8vu74hyaj5qm66ys83c0gmr44j66g2k8s9sns4htw27whsqwf",
         "pool1jk9na2mu29wwap6pprs0c98j3rvh4jva95f5m3hxnwq86tk9c0l"
     ],
-    "https://cardano.securestaking.io": [
-        "pool15yyxtkhz64p7a8cnax9l7u82s9t9hdhyxsa3tdm977qhgpnsuhq",
-        "pool1xjhzgchsl2ccvc5pj3aqytv9hh0jnaz63wtfnw4th07tjypm46x",
-        "pool1lhz4gsk5ezdl5s4mv2kxgrkhzzhad6me2v0xmwuyt845vensdlc",
-        "pool13qdkwy5y88ncr5qpjrh8hgtf94d0zw4wuhgezjg3hvlyyrh37c7",
-        "pool14n77mmxh6a2d9k05jamzdwsws2ayvkyje8uc7led958p63at3aj"
+    "https://www.cardanokitty.com": [
+        "pool15amxxauxh409wcuc87e0tusfzuka0wfvxhxmpt6vugqgsw6j4d6",
+        "pool1kzf7zw2y05e7lyd7ht0nluh39fzmurm2wuvshvut6l6twu0el44"
     ],
-    "https://stakepool.at": [
-        "pool1qqqqqdk4zhsjuxxd8jyvwncf5eucfskz0xjjj64fdmlgj735lr9",
-        "pool19w5khsnmu27au0kprw0kjm8jr7knneysj7lfkqvnu66hyz0jxsx"
+    "https://p2p.org/": [
+        "pool1x0qm7xsyh2za3ltprxsgael544je4hg8tc3q3v5gv232z8jt4wp",
+        "pool1nhlv5z2lsptzgcp9ype0mppc7zyndm66ypm4sw5hy27ewdchqx0",
+        "pool1c2wf97p3j9gfvfjshj99ufxerpy3aznm8tzr2fd0ua465s26th4"
     ],
-    "https://huskypool.com": [
-        "pool15wj590e6gsmpmttrxjd0emck09a0h9tazd2ww77q6duyvg8lyum",
-        "pool1cpqpw923842ple6gnkjl0k2z238uwm4s8xh53ryzxcavu89rp9p"
+    "https://p2p.org": [
+        "pool1x0qm7xsyh2za3ltprxsgael544je4hg8tc3q3v5gv232z8jt4wp",
+        "pool1nhlv5z2lsptzgcp9ype0mppc7zyndm66ypm4sw5hy27ewdchqx0"
     ],
-    "https://www.angelstakepool.net": [
-        "pool1qqqyv9pn9typyqwcxqk5ewpxy5p27g5j2ms58hpp2c2kuzs5z77",
-        "pool1qqq9tqyj69j9kygpxza3h82ynh8d0xlueucnu2yqum8nse8hj7y"
-    ],
-    "https://www.nodeasy.com": [
-        "pool1kkwd6say8twq3z9e36v57adw02j2x52ascd6eumxy5zd66qm4fa",
-        "pool12g6gfm5c4q7rzwwxdmh0xdxk07tyvujp6d9tke2m46k7q7cz7p0"
-    ],
-    "https://nedscave.io": [
-        "pool1cn0dqtplwf67fds40hgkf0u5rm4q4azev5qutmgkw5hdyvue2ue",
-        "pool1qfxukshs4fkcrflzdnxa2fdza5lfvew3y6echg8ckaa4q8m5hyf",
-        "pool1gas95lqlch5pj5e4lwg78gxlq7km9xfurfd557x4tgwk5kktd04",
-        "pool1vdh6kxcqt9mxavyv80ggnec6jjwms44ms30rhle3lt266aj8jgh"
-    ],
-    "https://xstakepool.com": [
-        "pool10zyf32q3w3n9x940j6yqgkwuegzn77p94wcmpku6gvmrqw8a97d",
-        "pool14fjmlppz76667ws3jl5luejf2wgztuhpsftulvh3ucc65anqgve"
-    ],
-    "https://cardanians.io": [
-        "pool1vx9tzlkgafernd9vpjpxkenutx2gncj4yn88fpq69823qlwcqrt",
-        "pool1ukeqarukv9gxwy9pt8jkr4qvad2yf87758g3xzemmvmtk8lrynp",
-        "pool1kmsr376syqkluhxvv8k2axugqw7unjmlkwhfxjxtj7cw7qcn0jn",
-        "pool1a5jd3x2udlvpm9mt4gpau4jlags6qtth6jdsguryh2zy27f5ttj"
-    ],
-    "https://www.hermes-stakepool.com": [
-        "pool16fyda57p3c8gp5r6gmcq5tvqsp6mnzwvkxswgznkuh8wztrp6vv",
-        "pool1hcg8sa642l0xeygkzvpgn3sfj5s2yeuzpws7a0gypyy7grrjcje"
-    ],
-    "https://www.stakecool.io": [
-        "pool1pmrgd8snhv0nnj97xcg70nqqhg0v9g3d0e93jl8vn23wxtsxz53",
-        "pool1w7pt822hfgw30xnkwpjzz0sr5psejksqdcdw4l0ms33lsgynp2e",
-        "pool1vxvdypctdecvc2j7xu9y8h2fdxvkpjy2pp8luwg2h6dx5jlv0nk"
-    ],
-    "https://www.publickey.co.jp": [
-        "pool126mkma8nv5axltmz7mmg8qz9e70nmhnf58hwx5772fhwgkhk6ag",
-        "pool1y49e700dnx8lpvznmysgzw203mjq6l7um85ka4ys6x0zcwgs77w",
-        "pool1n7zhzk2zyvqywfj476s4xk9h0xzncsq37469d8cyg37lsngvvqp"
-    ],
-    "https://hodlada.today": [
-        "pool19asxjgd6ah9ddzauwede4wpt9vsp6s4ax5nz297wt47evc9sn7z",
-        "pool1a4qtpgce7cu6wzc79fx7qrc3938hkl2gf8c2h5jugvm2gnu86l7"
-    ],
-    "https://adafrog.io": [
-        "pool1qqqqx69ztfvd83rtafs3mk4lwanehrglmp2vwkjpaguecs2t4c2",
-        "pool1qqqqrwzy7njvjq9wph7usj5gghm3py9c97688ek8pgc7uem9cfz",
-        "pool1qqqqzyqf8mlm70883zht60n4q6uqxg4a8x266sewv8ad2grkztl"
-    ],
-    "https://sipo.tokyo": [
-        "pool1w6l6rvhxtym5psec3mvgrjlg28d6hrv8g9jjexadzmxfgndfg2f",
-        "pool1p5ja48uqc7pjnuqvwu7cgmspvx938qpnf4zqm0x2k0ngkh4lkjx",
-        "pool18rhzlrv83a7ygj7cp5uv8dx07qkn5drhe8nh6f3qvhv66xcyj2m"
-    ],
-    "https://www.raidpools.com": [
-        "pool1ec5lvdyd9dghpezzeqfzn48yvw34ff6u6m9tlh08kjjaxx4nxmk",
-        "pool1h0jfkyfqt729vxhq8ndxffcqn2afjhzzlwqecrvsufgu5sag0sj",
-        "pool1ftfgs9lp0l4l07glvemrzu86pqvxrvzsn85lc3hathlq5ddsw49",
-        "pool1vd3rfulk3x3k6mafusvrtnzysx9qkcgcks9an2alcpm55msk63g",
-        "pool1ps39v4j035ejzrga2qt56cfhjuwx38wved8rd0mujtyh6r5mt3c",
-        "pool1cl3fhy6me0nf5jnxahk997r0529aumt967kw4yml5vraq94mdk4",
-        "pool1qel9h28zarup4g5dx95smeggfruq26k47lc8e6wmdzaaywyj63r"
+    "https://infstones.com/": [
+        "pool1vkc0dvuf8rxrch87umfayacgglrh8f88ef0f64xrdue5u2xjwfm",
+        "pool1fd0q9h8974y6psejmzczlywy8fgxxy07rn2ynrwu734aqwq540p"
     ],
     "https://www.vincepool.com": [
         "pool1lqpymyzg9glc88r7urptuv0d8t2tu9ty7xtshvxmgpu0j4lp8p3",
         "pool1j8grqucdwwcr0cwzxrtw30vqcptg0jdlrmauq5w7ytvqx6nf5np"
     ],
-    "https://thegoodnode.com": [
-        "pool1h5xdez7j0ncewgxs4m8fykjt9jzuy86t8e0m7m7m2l79w4jzzk2",
-        "pool1t69ww3neaf5z5jy3a3fjuw2drz50sw593u6gp00kq5fqz3n58h4",
-        "pool1cshuf0jy40a83glgwakert9czfnqrpyq6zwqly2705mrwkajuhu"
+    "https://www.nodeasy.com": [
+        "pool1kkwd6say8twq3z9e36v57adw02j2x52ascd6eumxy5zd66qm4fa",
+        "pool12g6gfm5c4q7rzwwxdmh0xdxk07tyvujp6d9tke2m46k7q7cz7p0"
     ],
-    "https://www.cardanode.io": [
-        "pool1qa6lqyu67ghpa0evxfu9nzqkj3h82qpfku82ec79zdwru4pd25m",
-        "pool1jufp9k6gmyusvch65ra8yk2s7wu6cx5fsgnltl83p93ejg6h3xg",
-        "pool1lkcd3w5g6s6v3hf6kwt55dqpalrmq9h9f3ec033nnzhvgjgl860",
-        "pool17wsk3ww9asev7kfk9ktfw2cxcq865jq2l796aue66xldwx6cy82"
+    "https://cardanocafe.org/": [
+        "pool1tdsrw0n33gmy0mzh7cgtn9p0jy5xwjxaa2s26gn2ewf8kg4nrzx",
+        "pool1ufp38a9zwlvvrzcyxaxdrvav50nd7az5lyuzh4t0h3qp2gqamsx",
+        "pool18ljuhhw27t85zddz0pvsmsjsz5k0mlz03pzsxgh8qarcsw5wycc"
+    ],
+    "https://bulletproofinvestingclub.com/index.html": [
+        "pool17dag45ldepvckqdxvvppwdy4w8qczsz0awtutqyj2pzashn3ds2",
+        "pool1d0m6dxdvqcltvyvjjha2v5hyq4rxf4xzs7j95v00hpxvzuu7wqp"
+    ],
+    "https://mtrxpools.com": [
+        "pool1h5tldkcwftpnnwj4ygtfd8ts6mxkcv0qyes9tum9hxx27zrjzpf",
+        "pool1dye0sw6hv4jee7wemgc6dnxhaquuz7sxkktz2tpm2ekcsqyyj9l"
     ],
     "https://etoro.com": [
         "pool150n38x8gquu4yt5s0s6m3ajjqe89y68x96dh32tq8a4es2l6dvp",
@@ -310,85 +537,92 @@
         "pool1lujmnkmp7auuvphrhlxe9xtsqwt9vk8zemg8pkeztr367f0grq6",
         "pool1wuxqvk0flqtdj58aaqn8m8w2qheawpvgrhmqnry7uk6pcrwnp4a"
     ],
-    "https://endeavorstakepools.com": [
-        "pool1afv4cmmjdkujtd5r9t63090a3frwwqy8f3e46gz003vyzjcj63r",
-        "pool1r0dcmvzsldk06yagudxaajqjuzhvwlzcnaclcwtvm8v4qmsn7l0"
+    "https://cardanoscan.io": [
+        "pool10hex9l4wjgqarvhr94xgyh9frv5lhtajhrj4dah0kl65jtws30k",
+        "pool1mfgqn8n658vjdcvg3xgtr3qyet64fht0dzsukqeznxw36z8g2k6",
+        "pool16l00309tdqza9606rltqtrqejx7tcr2swa86jrmz459txfnkgq7"
     ],
-    "https://p2p.org": [
-        "pool1nhlv5z2lsptzgcp9ype0mppc7zyndm66ypm4sw5hy27ewdchqx0",
-        "pool1x0qm7xsyh2za3ltprxsgael544je4hg8tc3q3v5gv232z8jt4wp"
+    "https://hodlada.today": [
+        "pool19asxjgd6ah9ddzauwede4wpt9vsp6s4ax5nz297wt47evc9sn7z",
+        "pool1a4qtpgce7cu6wzc79fx7qrc3938hkl2gf8c2h5jugvm2gnu86l7"
     ],
-    "https://atomicwallet.io": [
-        "pool15wkxegrfflzcyhurrjxsm9ljqtz09xr5rtnqsarnp7hmsz5um3t",
-        "pool14enw2643rn9nn6yzv60jyz3hj4kxs0jvap87lkgsqykh508jxm6",
-        "pool13annzt9hjfc822f0ejvxjf7fsmxd6cc28whpk5kagec6ggfmm7u"
+    "https://thegoodnode.com": [
+        "pool1h5xdez7j0ncewgxs4m8fykjt9jzuy86t8e0m7m7m2l79w4jzzk2",
+        "pool1t69ww3neaf5z5jy3a3fjuw2drz50sw593u6gp00kq5fqz3n58h4",
+        "pool1cshuf0jy40a83glgwakert9czfnqrpyq6zwqly2705mrwkajuhu"
     ],
-    "https://poapool.com": [
-        "pool1dqlgn7smehsnj5ztz8almy2036lfhrdjv79nmg9tmje0zzt620h",
-        "pool1f3qeehc4htjqpwv248kf5lfaumd0e84jtze379ev3ywa2w69aam"
+    "https://www.cardanode.io": [
+        "pool1qa6lqyu67ghpa0evxfu9nzqkj3h82qpfku82ec79zdwru4pd25m",
+        "pool1jufp9k6gmyusvch65ra8yk2s7wu6cx5fsgnltl83p93ejg6h3xg",
+        "pool1lkcd3w5g6s6v3hf6kwt55dqpalrmq9h9f3ec033nnzhvgjgl860",
+        "pool17wsk3ww9asev7kfk9ktfw2cxcq865jq2l796aue66xldwx6cy82"
     ],
-    "https://digitalfortress.online": [
-        "pool1jz5ljsnj4fzmk84j0wcw9ldy866dn07nzqg2ktyuyjvfvr3jgtq",
-        "pool1jql92je87mrx5gpjhmwr6a8a766cktcf5p0p8wd0wxq87nu80yf",
-        "pool13pt7us94nw782t5v4d89sz8zqn8hcn8r8r7hhph5mvxvvp3c76v",
-        "pool1ppznyu6qrvlw9uuqa3tslryjd40nh56jyvmaqw6kdf4kzq3y8kh",
-        "pool1rvng7n968748udkc5rxy4h9zp9hms4s3jsfwuues76ft28uc056",
-        "pool1lvsa8e0dw6z8g2fkw7prnfa7627wuy5jjexaadck6w5sxw5xkvm"
-    ],
-    "https://moonstake.io": [
-        "pool1k4ejdzlnd83l8f8xm5t0m4uv5q0tzexpm23f6cg7lzzayrquzqw",
-        "pool1s04pdfl3sv5gzuc80322rc4ne0xs7gekux7gtckvvwt7qutjy6w",
-        "pool1835qw65tsy3x7mta5dfdmfq4mvqzn9cpvf9keaca0nqgvguk7j5",
-        "pool1sjqkktr2uhgpu2tuy8hsz4eupqpup0r79yy83weu3hk22na5c7w"
+    "https://fimi.vn/ada": [
+        "pool1jj2hvts3ryffy5txm7w0am3zt7s7sehdf8rrwfesjmr7shv0mgl",
+        "pool1fmgus36uc0jf0wlspfvzwfn04mz34kwrensmqgfzkv7t58dejw4",
+        "pool1rct5guwnp6nk9f4ldn5tr3s42j0nm5rxeayv56lxua5ck47ex39",
+        "pool1d5zrmzgskqzse485j7p5cly2290xyffr2tyq9d8ngkzyxjjxwtm",
+        "pool1vz9txqmdhxwegpy7uzrsap84z309veehqv3uh4s60qwxk0u7h06",
+        "pool14p4ksk3ddqtax905sys7ujakpxwvfsntjnvlu8p9d3wxycy7pv3"
     ],
     "https://thc-room335.com": [
         "pool15zn2lqq4849ujttuthaycpamnyr8ae9k2pn2fkrlfzzsx4ek0tc",
         "pool15676jwlm6gancffzs2jg9vf5xwzmspyktw75dl4kaucyst4qt8q",
-        "pool1clqazwqrc0mkuu20l22z8c8uqlwjtj5jna6rk940ufjjvqu0fka",
         "pool1eapprh7uyz8f90maft8r2k2v3a6jyv58eatgyz3lsfrqggkc8fq"
     ],
-    "https://www.adapilot.com": [
-        "pool1eqa7kxx4xg35cu4rqj4exkvzhenscgh8wxez0gl7hsagygp79kr",
-        "pool104gtn3hvp9lz5l6wevhjj98e45s7rfaa4zzvk9pex7nn786qncr"
+    "https://git.io/JItdr": [
+        "pool1wyfau3rlkckr3clr4mkyxn9vdlrkup0fj7uyyflfccmms24gm3a",
+        "pool12rs385dd534g8gtdtmnvlhq63whdvc6vnuzxa5cpx843zdy73qy",
+        "pool149d5lzg7m6susau4f4yfdztgkty34qrcdpvd3ygsetmljgxxf8g"
     ],
     "https://www.cardanowithpaul.com": [
         "pool1s6se64qce5rjjjhh6ufcdnc54p8qg78mlhjm38lymx99sqysvzx",
         "pool14zdcvdec8qmqzsat5wg3a2h9f0u5yzrgjew534z8u3gs5durnjz"
+    ],
+    "https://www.youtube.com/c/augustobackes": [
+        "pool128r8qqgl9zgy3ff4759a2qslyauu5takaec3nxx4a6mvj3ys8da",
+        "pool1qlpen2kkw8yc0pjyjjcg4zlswhrahf73f99y3ae85kjy6leqk7l"
+    ],
+    "https://ss63.jp": [
+        "pool1d9g45764jtjzagrmy5ndtrx4pua7l9sr4nh08l3mqs43xe6wnh9",
+        "pool1hjpax8lf2hmct63xxrspe9zzmmywcrzw89yg3nacu0axzy0latu"
+    ],
+    "https://ada63pool.com/": [
+        "pool1d9g45764jtjzagrmy5ndtrx4pua7l9sr4nh08l3mqs43xe6wnh9",
+        "pool1hjpax8lf2hmct63xxrspe9zzmmywcrzw89yg3nacu0axzy0latu"
+    ],
+    "https://everstake.one/cardano": [
+        "pool12l453n0jtxqq88cgwgr67z06ldyhqqvwxgkn0sgungjfvhtp2el",
+        "pool1jst7rrhucnp93hepezv5yqy6fx982xs2v0udwfc5ea6my3kfak7",
+        "pool1ynxx88cq0y8vg8yrq3jrw6epm7rq9a8859v34sq9lzjy7ztg90u",
+        "pool1g3ssnndd8e7lcmstkjl9ane9mup0eshv3aklg63u5tznwl4ch87",
+        "pool1zgxvcqf0dvh0ze56ev2ayjvuex3zdd3hgxzdrcezkx497mv3l7s",
+        "pool1uj4u73qgtprqre78q75fq2vkcrpfrcdreqcqkvn6u0m2k6nk2yp",
+        "pool1ng3vqzrhn3z45yjdscv3q37n26g2pj3vp99rfkgv6225y8lqg8j",
+        "pool1xmsdhync6k6grkkj7tuycskjpseykpr24luhlazl5nsngsy87gm",
+        "pool1ywpt43nttzjd7883wafg255mh0hmjypwe65ercw6p2sxg5lt7ez",
+        "pool14f58kf59ec7ymk7mm5w07advfgs6a2guur3g5zyf45uvyvl80t4"
+    ],
+    "https://atomicwallet.io": [
+        "pool15wkxegrfflzcyhurrjxsm9ljqtz09xr5rtnqsarnp7hmsz5um3t",
+        "pool14enw2643rn9nn6yzv60jyz3hj4kxs0jvap87lkgsqykh508jxm6"
+    ],
+    "https://www.adapilot.com": [
+        "pool1eqa7kxx4xg35cu4rqj4exkvzhenscgh8wxez0gl7hsagygp79kr",
+        "pool104gtn3hvp9lz5l6wevhjj98e45s7rfaa4zzvk9pex7nn786qncr"
     ],
     "https://newm.io": [
         "pool1jf4kt5qvyx4plvv7gna2y2f7xsjh3mt2szk2ff23ryd8qg826hj",
         "pool1gr7jlqk9kmhwuztdwcwf6nyr2teeq9r8h4y62ev0xrrvyvwly64",
         "pool1newmccddazerzanrdeeelvzk6vzh9stxn5n8ravshqa05n0t83u"
     ],
-    "https://www.1percentpool.eu": [
-        "pool1supp67ypelmgzuzqqvarc6czgmg3ggwpnrnfr90xpfcqqf8h05t",
-        "pool1z7n2ruhmxmv77f6cqhd3wsy6774h2wuay77agxuf2y9mj8q55vw",
-        "pool1s3z5qsg75dar26ykyzcz2u8wc2swgq7pyp7f9sdh5n06qh3jhq2",
-        "pool1gclysx2h7fndj0jdajlmwvqr8q9tzu3rurjknacu0ff954fsg9a",
-        "pool12mmcc4rc2fzfv7gyv8h06nvnsrm3m7erzdv8x6gzvjxlu2lf09n",
-        "pool1vnsfv2qpt5gxte9prupjey8kw7ap7t6c8lc02ks4s3gtqplhgd3",
-        "pool1rkyc3ss904h066sffergss99r9p2kqa4k6ds0g4u5ud4x7yaajd",
-        "pool1ua0lx5ap5tj9f5l7tyjflp766ca5yu93djh5hqvm4e0kjgw5k7v",
-        "pool1w8ham64lthvzzxzn5hknq4yrj8xt2nark409s2xmntlwvt4ag3r",
-        "pool1kkfkdces5mdcyc9dn2hgg3463jggjvw3h89nejjarkz25uavaqu",
-        "pool1ddgcpgjcyawxw95se9x8qnc8gxgwjr4fqrk4vk6v9x47s0ggpjp",
-        "pool1zmtm8yef7725p9n7x433m50kvv9xpzjujnny9m5t960g5qm30ua",
-        "pool1258yqnsegc3k7raqcdkxu4893aqexxljflmg9g96yfha2qytayv",
-        "pool1dww6s8stvm7dl2n8740s3v5rnxmsuqcl8jcnu64g7cds5w29pft",
-        "pool15a04yc72q4tfkwaweu86l0764urswee8c3zxperyrdq4kx8nvua",
-        "pool15xgej4c7ns20y5pt7dc5vq6yj87ss5sl2ffucmh5j766j90ppur",
-        "pool1nyf8x2xrlmfqwy9shqrlx2csentnzyjmxr0r3w0ljuaqz5ek7qz",
-        "pool1qdjx5xeeu6288ftmhmdr0c6mazkua7m07cydmr78ymfhz7jj7g4",
-        "pool1uzla0r73fvpnvxr07m98nfzlxcv3q26mkjz00cqjfh7uqsyjkju",
-        "pool1g8y2gz4sk7xhyaj469jlj3njyu5dlvqa7t7v9c2gk0yc69879z8",
-        "pool1g0nq3m3fnvd245k4favcvutn09vce0yshg535f68d2xa54vy0cc",
-        "pool1w4am4s9w4gkt8r0245km62vtnnv9hhq6j68exzh2pyaxxfaq0gc",
-        "pool17qvfg2g843gw6lurru282kkex6vp3pyj6zwj99j4u6k7zvmva5a",
-        "pool18mege8wvzzdvh8cxx6ncnqyvacl4lxukw495c87xmz8qcdl6lj8",
-        "pool1ayfjmnrv5vg6tfducvysn360re6qfwuv2rhc4ph6jk33ztuxlhq",
-        "pool1yl76e0fhq0kcfy2jqs2mt6hl9xeyrnesehqp0p4s896lwv7hrta",
-        "pool1e4tjrl3ve7dcqwa70pexds6f8llk0txx09gm3r4m472ej4p6473",
-        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca"
+    "https://danteachescrypto.com/cardano-staking-pool/": [
+        "pool1wf7wk3802jxtkmek6uprm77cgqx53t4qep9kwkl078w3yw0ff69",
+        "pool1nwt6mxqus3tpzrshky5h5kykz9rjpxmacrvw0z6yak9uk5p5045"
+    ],
+    "https://www.cardano-education.com/": [
+        "pool1j6490a90qefvsqxdurf99z9ld50rtthaz9ms6c8xh78s52veuq2",
+        "pool1ret0s9eqs27nvw0k7y6vvv7nzfhpx3a86qyjnl4np79sk29q8f8"
     ],
     "https://raynetwork.io": [
         "pool1rjxdqghfjw5rv6lxg8qhedkechvfgnsqhl8rrzwck9g45n43yql",
@@ -396,49 +630,13 @@
         "pool1yt868wrp9s2x5pehe96del9m3nwasme62yw02vww3kg6zwzspcz",
         "pool19ru9alj7n5anmzs0f9gpzlj8kaq44yhcp45mldjvldxck8f6yg6",
         "pool1szy2tdjj8a4av365wk3q2fqg9srllmt0383e6v9p664ng076x9e",
-        "pool1r650ja5y4jy7xd6srjz8ujkumy8xpk8kqgrxu92g3nwyk5jf4zq",
         "pool1e6rjpsl42hsc52zc9s2awhv2df50yzw43xtc7d0vranpc9ej8uj",
+        "pool1r650ja5y4jy7xd6srjz8ujkumy8xpk8kqgrxu92g3nwyk5jf4zq",
         "pool16erldmmx5nvrwncujtp6lxs9tmvgxcpthd600pe6axm5z3p6522"
     ],
-    "https://cardanoscan.io": [
-        "pool10hex9l4wjgqarvhr94xgyh9frv5lhtajhrj4dah0kl65jtws30k",
-        "pool1mfgqn8n658vjdcvg3xgtr3qyet64fht0dzsukqeznxw36z8g2k6"
-    ],
-    "https://iohk.io": [
-        "pool1h5uycju7n5puxn2ckfkpza550rf6jk4twr6ef0hsmxft78ajt6q",
-        "pool12ql6www8aa8usn98azlkz76d2htxtm9swalvyac27rlq6mdkxc7",
-        "pool1nee5kmpzv0qfz7lu258fe9ylgxh68lsqqdmjgw7jnheej3usn35",
-        "pool1mxqjlrfskhd5kql9kak06fpdh8xjwc76gec76p3taqy2qmfzs5z",
-        "pool155efqn9xpcf73pphkk88cmlkdwx4ulkg606tne970qswczg3asc",
-        "pool1gpzkwf3ntp7ky6yvyky8q6qu4dyup5y6v4pxzn56yut8sqp6k53",
-        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
-        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
-        "pool1y9xftc4cq0svcv0gjdtusnvllrg5v5rn0d24g8r4m7tnsem6ve8",
-        "pool1kcw2kqj27qe7ntsz9fhvyvyvpf7prclwc5jq4cw0qydh7cygcek",
-        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
-        "pool12jqfrwhuv2jn0uymwmud2d63gp5drj08fjfart9dxgpu2tmj8a0",
-        "pool1646vlaras0deljthqtfl9dpdw2xsna799l0kayyu9v44cql4ky0",
-        "pool10pktmr26fpvrt77j7m5mchqlt0mjmmfvt7ruvdewkcpasp0nzkl",
-        "pool172fsazvg6zrpkj7c8wklsp7lrn5yxjvhru4enddvvfnyx343dyc",
-        "pool1j0j39t2dfmkflfnvresds8vlfhwg75qwufa95u55nw376ky29r8",
-        "pool1ha70qvqwnmnwpa7e575y9tgyx47aw29rvkz73mnf42z5wet5dr3",
-        "pool1tjaz8a62743k5tzdd8lyd0sgf2lcvtk09jsz9etvas82zdamc2q",
-        "pool1e827fy8efd7n9zacdknhtr2n5rqmry5up05mqgqsjkmmzjmzrf3",
-        "pool1v9gqa6n4em4aly7ew2trvhgrath4mrsp9tyc290l638nvqs5aej",
-        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
-        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
-        "pool1ygamv2t9lw03khcxpe75rjd4p8lnn36hux3deeg3hrc3jwrx43z",
-        "pool1867sv2tgcq2cjmyhqgsfveekmsy5zksld69zhgrlkluukfydq29",
-        "pool1ge06eu8lvdj6jakxw8zuwj3yxtpmeek8j8rgwqfshj7vg390fj0",
-        "pool18w4dzpe8wtkx29scf74qmshrf58xg760mcxu5p7s0azxufwwgec",
-        "pool1sr82s7yvwwsy6q0geveawrglt8ss39jhsfz7d0p4a5y6kk30mdd",
-        "pool19r4ef6n0xkw3pvztuwd44ymrzrkylyralnf5rudnc7hnvvddyqz",
-        "pool148ajvsw7z9mhgw43tqvgmfrv22azvm638knkqghqv497xvdl2tk",
-        "pool1szgruqm2dlhkh5qh7rft28xz9gkxj6rzfncsuquf3vm37k63kqv",
-        "pool1pmknsy9yqh06fpmduf8vzcvkzpllygjj8uzkjccgvewtq9uc53k",
-        "pool1hfxjswx4wnpfmdad660hvzx4knjhf32uwgg6wgsnqp98x9zz927",
-        "pool1cx8njhvw34weqykla5fz38ngt3dr4d0ltv0srqjqa8ugzap937l",
-        "pool1x5ge78ks6jc0j8nsfwyqqhk2ukxlkvz7zxlm9utgk6405hh490n"
+    "https://twitter.com/Beastlyorion": [
+        "pool1h3aejp7fln74mwaraqjn65ve3j5zwqr7wk0pasct87wpkv0aspm",
+        "pool1cq25dmlt5974x8tqg3e4dlzvrxefcce2atpnwlfp7ad5ugec9fp"
     ],
     "https://www.binance.com": [
         "pool1cxl0gk32hwe6sckdmy2zydkl7wrk8npjay0u3u5zsglwvkqmjen",
@@ -485,15 +683,11 @@
         "pool18kpfz02v3knfp24k4a3zv50h5eva5s90slwtfvae3n5rq4zfget",
         "pool1jd33dsshcmepweqwmrgn9jc0lqfnammnua8yc2qq9w0txxkawt6",
         "pool1uzkf7xmg6p3p5nn8y0eknfgws8e8j94vklx590qra2kfxpsxwsa",
-        "pool1ur2y44cgsyf9l40y4xdc7w3cwy88vgmj95deatatzqnqqhrfp7f",
         "pool1dmugaarr3nq0679fa02kqunlfmcyxdxfy3quc9x9s69zquty478",
-        "pool19sydze39a8dccylczqe2m4nnslpreytxlj5fu400nqxkg8wvgx8",
+        "pool1ur2y44cgsyf9l40y4xdc7w3cwy88vgmj95deatatzqnqqhrfp7f",
         "pool1043kkcc2uwmdf76wg6jy80tkgwztzprep2rakyypmwc4637c2xe",
+        "pool19sydze39a8dccylczqe2m4nnslpreytxlj5fu400nqxkg8wvgx8",
         "pool1wp9p6rlpratng7rhrvyz6mcjqsl04laxxvvuu06umc5vghacqa4"
-    ],
-    "https://atlasstakepool.com": [
-        "pool1u6kpt8hgqcm596kukj97ghefmxn8ks2cgwg8qqe0gtgscnufk5p",
-        "pool1853ffwhtuka742fq4av7s3ssdpvzhdkpw53th3es36zkwrllj9g"
     ],
     "https://wavegp.com": [
         "pool1axzm26vduyuxgw0x9ddh4vkvn7q5hyd558l0t9c08p556lf2zaj",
@@ -508,23 +702,14 @@
         "pool103a3tldslwvrcvj5rfraezfqra7sk6c0njawszv6ttpjkq84gyz",
         "pool1dseqc4gvvfs7u6f072ha4rqxgwx4kyvglegfxqu7ydemsngeppg"
     ],
-    "https://cardanoland.com": [
-        "pool1pemnlylem2e94xguhd3fytj90848kpv4agvr6rthx2tp58z79ek",
-        "pool1tah22gjtc7ntrdezv49hysegcwpzafea35t6f4hn3wr2y4hz3vz"
+    "https://coffeepool.jp": [
+        "pool1r55hyfrd3tw6nzpkvf4rfceh2f04yph92fc462phnd0akp2s5r6",
+        "pool1lugxr82p89qm35spzwccle405t5dfdznhrasyrtr2cyv2vyfud6"
     ],
     "https://foo.com": [
         "pool1madkc465h6e9887ctj2adnky2t46km277wt3rs97hlzukzl4rx9",
         "pool16lwqfp7cpvzwn6mhu0gj3h4aa5k6j9my0he4mgjjva5f7vvnkw2",
-        "pool1ctfxzwgqakxujmn95dfvprcm0h3dtzjh408apk0cewl0c4r6gg3",
-        "pool1uu5ve3qdv7zxpmger77u0kw7pm8l4apmgr5xy6wspceayl05vsd"
-    ],
-    "https://ss63.jp": [
-        "pool1hjpax8lf2hmct63xxrspe9zzmmywcrzw89yg3nacu0axzy0latu",
-        "pool1d9g45764jtjzagrmy5ndtrx4pua7l9sr4nh08l3mqs43xe6wnh9"
-    ],
-    "https://arcadiastakepool.com": [
-        "pool1gu33fszp9ek0w9fkdt2xpnp4vznvvv2vhktc0dypa8fr53lc9pc",
-        "pool1g5k0fks847av9zdayg05htnj8wx0ah7jmnwwqlt63rjdzyjr93n"
+        "pool1ctfxzwgqakxujmn95dfvprcm0h3dtzjh408apk0cewl0c4r6gg3"
     ],
     "https://ada.ibexpool.com": [
         "pool16v0jqnz2zuqsdrf6z94ec5rx9ds0xeghsvmddauzt6j5w2u7lsm",
@@ -538,26 +723,46 @@
         "pool1slwxj0t3575lx0rfw2x3z7dqf26jpls566pdwydvlk0jgw96lre",
         "pool1eq96x3rdmq0dxdyx0wwwy064p2jzrlg6dp37r5uwhehnja29fxq"
     ],
-    "https://masterstake.com": [
-        "pool1j3umdcuxcewcxz98wm3sx5xqwgxx0v7z376xyjfq4jgejpvv8fz",
-        "pool1qqqq4md2rfdt75qvh3x9cgmkrgkl74ctcj3fnxpu3ylcudl22ex"
-    ],
     "https://unitegrity.com": [
         "pool16ga833sw8tzuvv83gq2gp6zyuwhj3lka4nevnauj5grpuq8y2al",
         "pool1qngadlcclnkqgdwd4l3vp5gmgdc7cpkfek76q7rzscqqk5ak9y8"
+    ],
+    "https://pool.la": [
+        "pool132wlg2axv5elynquuwt40tc2av9pl0583axmvu4hwch9unh29y3",
+        "pool16p7t60zfvdda4l47khsd9jwwszysxxed50lxxg76lzuyvqg26nm",
+        "pool1vl0hlf4jecm3rk0vcc9mtpu5us2cv7hzlz396cgs8crc5df43mn"
     ],
     "https://wada.cash": [
         "pool132wlg2axv5elynquuwt40tc2av9pl0583axmvu4hwch9unh29y3",
         "pool16p7t60zfvdda4l47khsd9jwwszysxxed50lxxg76lzuyvqg26nm",
         "pool1vl0hlf4jecm3rk0vcc9mtpu5us2cv7hzlz396cgs8crc5df43mn"
     ],
+    "https://www.crown-tech.co.jp/ctecstakepool/": [
+        "pool154hq0j6u6ydz62mtlu7xaj78mhreyp0zsv2kq7f0qmne2fu4t7y",
+        "pool12ktz62g9d32nq0cdk9jyyqg6kquj7lnmx776at5h598supql0t2"
+    ],
     "https://www.tigrpool.com": [
         "pool1jeu6mkn43sc8y0yf5jwtfy6g5yc7lmyt3psm2tlue7pfg8deygg",
         "pool1gpz97nhqges80ggnefeshg3n4grprrltdvzqr8sz5fvxg3lekqh"
     ],
+    "https://github.com/desayuno11": [
+        "pool12udshcl3ycj4qpxes28n0ugsye23h89rj8z2a5ast4482m08xe7",
+        "pool13jf2uxjk7c2cl6nfllvnrdd6sv4eeq9zvwx23u3wrf97kvufj7x"
+    ],
+    "https://www.stakewithnerd.com/": [
+        "pool1u0mc9ywfxl529atxyajuz3pgqnwgnk6w7lejjmjg22ucvn7z9vh",
+        "pool1xtrwqwu6jn896szjwsyxxjczl6hc9sq4lh5ax68f7dt3gc0y9rx"
+    ],
     "https://adacoinprofits.com": [
         "pool1spqkpaezku3knl9ug7txrlyzr8kkvdr0h75yyz262cx6gls6zlm",
         "pool19d5anp46tkzvf8xmqmxrtedr6lvw55snk65zfep2srsd2qe2wcc"
+    ],
+    "https://www.youtube.com/cryptocapitalventure": [
+        "pool1sjwdmeme5zs042jzwmdvxshhv27kepxke0mr02f2yzacsyd4wtu",
+        "pool1urgvu6zk422j4xwtxa45lzpd6dm25msfthpkezr042secrtuwzc",
+        "pool1mh4ng2ldxk4sqfppzu6r4knxrk6e87e9c4wgrred84uy7xauzlh",
+        "pool1jq7r3evstu2c040vlry8tgvpwf0mfvft86cxecwjpwcuvvqfu2r",
+        "pool1yvf4nxph69ztm0tgj73ummxq45kfjhecyad26e3xc2002xgzalg"
     ],
     "https://spacecoins.io": [
         "pool1cc0zqv42utrsffvgy4e5tfln3unrjk4f6q952rt56y3dzmerptw",
@@ -567,24 +772,65 @@
         "pool1dhf4dt395f0c0ujnscazvzvw73ynzgwvtf5k4y9c907hwjdyaq4",
         "pool1tj3u8pz6732uy2ut3s90e0j880jyu9j0ve9vtu9zj5xzglhdlqy"
     ],
+    "https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg": [
+        "pool138m7hevnvp664cmtralju857t5k7e4frpnaevtgpuykggr50kne",
+        "pool1psk0c2p7pwactw00nkzjexdw0msn7g8nddc06eyvds6yswr3tjg",
+        "pool16j3mvwws7zc9pjluyhddgea0tq647v0dh3y4nkcuckg9znjcun2"
+    ],
+    "https://thc-room335.com/rama": [
+        "pool15676jwlm6gancffzs2jg9vf5xwzmspyktw75dl4kaucyst4qt8q",
+        "pool1kruxznxaqgramllcc4c5sxm6wlsn9auah46xyawkek74u8aurxd",
+        "pool15jy6drcgudfn9vuueeap74fu88vr7r0z9wnd9xs92awrwlrwdmp"
+    ],
+    "https://gift-pool.com": [
+        "pool1vtf34mujsfrr8wesg8nvmnupk7npz7f287whltv2ga4wc2728mf",
+        "pool1vphx7ph5rayjxuuqmwqhlw32pl3m6lstcr5jz0ecajdc528fjdt"
+    ],
+    "https://github.com/crest9999/": [
+        "pool1vtf34mujsfrr8wesg8nvmnupk7npz7f287whltv2ga4wc2728mf",
+        "pool1yqzyhuvspkzpjsnlm4rervl76y0wgc3mvuyc2x45r3j4scmufmv",
+        "pool1vphx7ph5rayjxuuqmwqhlw32pl3m6lstcr5jz0ecajdc528fjdt"
+    ],
+    "https://blockdaemon.com/": [
+        "pool1t6ek99u2dzj8sr606uqm3uz0tt4ejr4cpvwtqfwen6p2z57rrst",
+        "pool1haus36sw7cwyg8jdeg882mentse5txac7fmeew8ketuwky6q602",
+        "pool1dl4695wfl79k7gtzt87gsf8gsqeq97yzuvaq0d4zxhz6c0nlf4g",
+        "pool1ff2hr0sukqqd75jr2rh3wrmnesxqgpq42dgd6rm3ungnqp904ue",
+        "pool18e545ehldchd8qr8qx7q7m5dljzaky2twxrynx2z29ru2mt6pv4",
+        "pool1f9934hk9awd25mmxl0dd2haqvda9nlquwnh5pv64hs42znl07zj",
+        "pool1mfyzxyggryp0jhgghvzas7qjdyz2rcfnm5rfq8s9uefvukrlps5",
+        "pool1ylcl727memzjqypjaxg0jl0l40l3gy3vmtt0llwpjufwwdmptks"
+    ],
     "https://occam-x.fi": [
         "pool1xn63858ej0gcs4tkjm2e3a2fgjrecfxtvzq3465ypl8ywkx7gcv",
         "pool10le7rwlfg3t9646gm09jp05qg5kqvq3gvut4q2yaeu2ujncnh7w"
     ],
-    "https://stake.love": [
-        "pool1clqazwqrc0mkuu20l22z8c8uqlwjtj5jna6rk940ufjjvqu0fka",
-        "pool1kruxznxaqgramllcc4c5sxm6wlsn9auah46xyawkek74u8aurxd",
-        "pool15jy6drcgudfn9vuueeap74fu88vr7r0z9wnd9xs92awrwlrwdmp",
-        "pool1eapprh7uyz8f90maft8r2k2v3a6jyv58eatgyz3lsfrqggkc8fq"
-    ],
     "https://www.stakebowl.io": [
-        "pool18au4xxwcu552tjyxgyfssc95lwcf08g49z0ln5f7l060qh8r3wv",
         "pool166fpvc9lelw8pdvc4n3xeqns5ktkkmzu4plaen999fwy2xytgce",
+        "pool18au4xxwcu552tjyxgyfssc95lwcf08g49z0ln5f7l060qh8r3wv",
         "pool1w92z3lxwrycf3kmf075dja2fwem0luyjc4ysv2afh6sg554qjwn",
         "pool1ajpxqyq3p3aczgaxuc66lwtgzhrapzu6duk90dz0wz5twh9jzyw",
         "pool1x9tc05u8dqefrdyw9pgxn72szr7p2peyd7xgqs3l28s76f59c0y",
         "pool18gk8kvd9qf829nldqus92q9y640e6u0jdyfz04mmktwxvglgt06",
         "pool1fpvs8h5q5kwpz4k2yd0vw90dgdxacr3ef508tzzewm0kysdt4eq"
+    ],
+    "https://ranket2.wordpress.com/": [
+        "pool1zdtqtsu3l3ytatzyvrq48d4mpnll9c5evwfq6taxkmn9vvdz839",
+        "pool1568zhphxsnj5mfszwgta5zlvulu67g8f4jn6d3xs2tvas8ffu76"
+    ],
+    "https://aada.finance": [
+        "pool1cj8dxjjlyn9xmjavr98ytmvlpd4vwgqp36kq8rl6jjyt6k2adfh",
+        "pool1fwh9zp2hw7ppkna86n7m7ycgz66dnkdhhyqqahhv362agxj2u7g"
+    ],
+    "https://iamx.id/": [
+        "pool1p3chxyfv5cfk95hwq5zqjuljrpyk3uk5ua5alpn8rjgkkvvy8ne",
+        "pool1dtpmhyl59nxcptphk6a8l43vg540r6jnssrvwf4gcl7dc6uxzyy",
+        "pool1x8dy27v5w7mr4u977l8kqpeu0upd26pts3ujxpx9pgmpka9ztr6",
+        "pool1ghsvu95fzl8f5gl7dc7vsxwdrzfa3s9wlefqjh54f3d6zcrc0nf"
+    ],
+    "https://davidshin.kr": [
+        "pool1gr5pa4shzsyefw445qrpn5pxnuxa8tuev0jquz04acdx6efjpvg",
+        "pool1knjqx4qtcjhvqrnmgs3yccfvjl6efl5vrcgezunktqvsx5tjrcq"
     ],
     "https://stakeada.kr": [
         "pool1gr5pa4shzsyefw445qrpn5pxnuxa8tuev0jquz04acdx6efjpvg",
@@ -594,19 +840,55 @@
         "pool16fa03u6u85ek2q8lryqprngpahglssj5qqh66pfaxf34vgu5rhl",
         "pool1f3qeehc4htjqpwv248kf5lfaumd0e84jtze379ev3ywa2w69aam"
     ],
+    "https://twitter.com/Rd7hrujn2Xv5FS2": [
+        "pool1pgmuramw9waw9ckxsvpxmcn9p6fd4xl5jmavu8jje0x5vuc00l0",
+        "pool1axngzl8clfn6pnjaf4w5r0q4tgcwktv0zcuxnn32hl995pthddr"
+    ],
+    "https://www.anetabtc.io/": [
+        "pool17h6slydr6rd9vquqa38p5cf9xqnpc24w6a99rhllcjzljgugx6x",
+        "pool15hx9hze8ulcsw6e7ceelz2pem2g3u9c29wqe4eszkhspj3wcdlx"
+    ],
+    "https://infiniastakepool.com/": [
+        "pool1ck8rqpxp7j8kyzutk856fnvgm8xsqmuh922wkeeg32ekjjrvtc0",
+        "pool1vce30junxx06g2ha8ww02cqgy644yj69ehhg2x95qe7323zfznp",
+        "pool15ftrqf7j80w57leflatx66x00qfhu483a290gmp7q85pjxrf480"
+    ],
+    "https://cex.io/validator": [
+        "pool1t94qdjkuu5qmtpxuljrnsvjdctgf0sr6vfu34eqseztajsxhsw8",
+        "pool18jqumjfevywycjj54m62g74ghds4mmuyqynpwfkaem0xktazlqw"
+    ],
     "https://validator.cex.io": [
         "pool1t94qdjkuu5qmtpxuljrnsvjdctgf0sr6vfu34eqseztajsxhsw8",
         "pool18jqumjfevywycjj54m62g74ghds4mmuyqynpwfkaem0xktazlqw"
     ],
+    "https://validator.cex.io/ada": [
+        "pool1t94qdjkuu5qmtpxuljrnsvjdctgf0sr6vfu34eqseztajsxhsw8",
+        "pool18jqumjfevywycjj54m62g74ghds4mmuyqynpwfkaem0xktazlqw"
+    ],
+    "https://stake.love": [
+        "pool1kruxznxaqgramllcc4c5sxm6wlsn9auah46xyawkek74u8aurxd",
+        "pool15jy6drcgudfn9vuueeap74fu88vr7r0z9wnd9xs92awrwlrwdmp",
+        "pool1eapprh7uyz8f90maft8r2k2v3a6jyv58eatgyz3lsfrqggkc8fq"
+    ],
+    "https://www.republiccrypto.com/": [
+        "pool1tcctsz9jec45ugkcl8lyk8gz0yss675cnp63gazqalcwsx2dr37",
+        "pool17wdqcn6xjym38wlry6t2ull00fg7ghqejd0xuy4p20djyua800c"
+    ],
     "https://www.bitpoint.co.jp": [
         "pool155p7g23vdme50kp5lfqylfx5h7ndldyz2mletvr8fqucqzyrk44",
-        "pool1l0m820vyqh5pp2yzpw973qzz23neqqd977u0uczh9fs9zqvg0je"
+        "pool1l0m820vyqh5pp2yzpw973qzz23neqqd977u0uczh9fs9zqvg0je",
+        "pool1ljqjqskd4f4zekzddw204u5xtzhyz2cllq5v5dmn27zdwf9c70f"
+    ],
+    "https://astarter.io/": [
+        "pool1drkls8s0zzjydyv3qpjsdj58w3sw02w9wg0pckrsnuazyef2hca",
+        "pool1yemdr25t4g3ev038yn433dt58d8p52nee7kmcykjlhye6hshu9m"
     ],
     "https://kiln.fi": [
         "pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k",
         "pool1fcp4d2pxh0e7q5ju63sjqcdpxpr3pvxg6ykl23t6c97d7dnvjvw",
         "pool1v62c7d92xv6gyh4x9rhfpkwzlpw2ypxk92xvzavakg3xypatklv",
-        "pool1mtxmk0skqkr5y0wxnxps4n35j6wn9q8dfr82y423vvlp53vccux"
+        "pool1mtxmk0skqkr5y0wxnxps4n35j6wn9q8dfr82y423vvlp53vccux",
+        "pool10d6mmw3mn9ku3r7uqqye672dz3sv76lh5kvh5rdpr9l5ug5yknr"
     ],
     "https://muen-project.com": [
         "pool1l6vtae673eltsx86sk4xxr3fnn9tk8e99jkrdvcmjqlc6cca4nk",
@@ -615,6 +897,35 @@
     "https://cswap.info": [
         "pool165ljt7xrrpceutz5ppe96suuw0jcnrvhg0f5vu60df0r5mt0x0c",
         "pool1tdtzmmmak0tkte2j2hr223dfnqpdy85ypd66tddwywpeuknn2pn"
+    ],
+    "https://swimmingpoolop.github.io/pools/": [
+        "pool1mxhq6etmemv3pdyycz2kxth3a8gdqnjewxgne67fqwlfgz6f7xa",
+        "pool1dghwejqptsjtf9k8paspg9rhl8humxx0nh7sk37j0ada2dr9mqh",
+        "pool16x765v3ge3th3dml6v7zrj4x7r6zlrtr7y5qa9ap7uzg7f50uu8",
+        "pool1fu64mttm7d8ljndu4hz68df5fkpsuuz3uj233wz3qpj0vfk9k4d",
+        "pool1d6k8r2hhczhfvfgddx72j0jzp4e823r9lknqpec4tux3ymlyeye",
+        "pool1nw0cj8zd2m6uu73msp7a5sjnht7ap3pe73kuqd7cjwsmzyhflex",
+        "pool146842tr5vgq52vksmccp82ttelgk6vwy5804sknmx6slyrehm4y",
+        "pool1fe49nfwktu8rhn3ysqz4he594nh8a9gkgg8hy3mtwrq4558rptz",
+        "pool1u3lnayg0fwfzhkcrnula5teuhrf9vwfn3cu4p4k8peqrcdv6sfe",
+        "pool1qcra8mg7vaju9cxad4cffye0zq35eag220dxrnje2exzq683u4x",
+        "pool1pyzhux0l4lhd7ex2mj6dqt4l0r5hymlu4jc8ka6gna305jn4vhm",
+        "pool1m0drnjxsvnlesq0rwmur2rh6lenuql57jfzd6cf6aegj2cv7ugy",
+        "pool1xkwnlr34tjrnkz6u4c0p36cju3xuls4dyynsdkf6cv22ksuhz6q",
+        "pool192pfftt48zc4x5aellvpufk6l6zxllpldw0rx82vrhqrqfhhqs2",
+        "pool1kx0jm9ycs3t99tnwafw6w72jkdlzhj5ltxe2nrzkd9x2u5x343h",
+        "pool1pmm654jfx088td54ekkkd0j28x6r5gnjdhnutzggursrxjnpk2y",
+        "pool13mas2wthxs28zftxskcsd8t87jk2w9ntc0u5uflt45sh7lcvs8h",
+        "pool1945aw7069upf9xpt6uvkctrj8uwju3q89f67e6g9mm2jx3xcy59",
+        "pool1rm20ecfxj8plt6509yzlc5x853s2twpjkmv8zt0pjtr9vhlmyhq"
+    ],
+    "https://www.emurgo.io/": [
+        "pool1pmm654jfx088td54ekkkd0j28x6r5gnjdhnutzggursrxjnpk2y",
+        "pool13mas2wthxs28zftxskcsd8t87jk2w9ntc0u5uflt45sh7lcvs8h"
+    ],
+    "https://feel-mining.com/": [
+        "pool17qyahrvutlsyq7c6ceynac8ay4qkmxkd2sh43w4va5yr255x437",
+        "pool1k65vmd0uyy0k5eylunwakd99m9j0n2hfynkxzd9472276m32p50"
     ],
     "https://upbit.com": [
         "pool1r9kse9x8ja0ajkyw8w96zw5c2aqeey6j85nmyqxhwt0rs090fu4",
@@ -628,9 +939,43 @@
         "pool1859zslu3scj23wxcamw0slkhn80waxwkdl4k8k0asyw7sfa8dv5",
         "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn"
     ],
-    "https://coinzzz.jp": [
-        "pool1spus7k8cy5qcs82xhw60dwwk2d4vrfs0m5vr2zst04gtq700gjn",
-        "pool14mm59ntjqzphjr6chrww639cdr3yjce4qcwzc5jkk38y22u7uc6"
+    "https://www.binance.com/en/earn": [
+        "pool1ewgnsmk42ljf00wytawfcl3dcash9f852u5fr92e37wqxutyksl",
+        "pool1lvgs6gdcgl3lgcc77wxmuyst8x4h9gxcth07pzry0rfsv5ntl3r",
+        "pool1z46azf72z9yjlq6rpngwn5syg5xup8jcwguu2t259ngl5cnv2ds",
+        "pool16vdezg50c80dhs78jhfl0gpqr68trtmqy40xplw39t9mgk6vrkd",
+        "pool177ukluyy3tq6mphkp7kfpe6ku48rs8x48le7y23quee0xqmal06",
+        "pool1e96dkrs5msjuycwz4mf0kq6fytlz0x48mnrur5ggufqkzs2a4kp",
+        "pool134d4ndkh0q43mykqh922k0khrrkm7rlpkj834ju6kwja6dmu2f6",
+        "pool1f89cpnym44rfv52jj88f3g20axraw4g9g7aglnqsgjl220lpdd8",
+        "pool1ptzl40tt9a6l2kp6fhjmzsg3t2maqdhwv6cnqu8kj6xgz3vw9us",
+        "pool1l7xwy6sswcpxcepf9m43sez4kwgrgxuw5ekhkavj3k2lv6njvec",
+        "pool17c4u37tjcjaeym0cs5mffvdkyyv74rkhczhnsgplef4sjglkwpj",
+        "pool124hy9qgc0nhqsve268kj5r53pvz7ppg295q6r2d0sjxswchljf0",
+        "pool1lfsslc99da8jhj5apzctsnfm76kjc6ndyc6hnynagcj8xexvjsr",
+        "pool12ahcpgfgzkm29zajw8fgfqjma6ngsks7zdk4tr7q280pwfvtlek",
+        "pool1vqq5mg8ccqemjr5ukfa48a767dqjsa7nas8xnpf7huvcz7amlv9",
+        "pool16c989ahn582z53azjfmregygfuc9k44u3q97wqgyn0zxuzp3dn4",
+        "pool18xmqj9h97tx245mzkz0fqlvas5zse0fzh9xmn9p6z77aj5jegsx",
+        "pool1rpfj2y4vddj8azwu9977a63s2cjl374pep98l6dhuqh5u9jctj0",
+        "pool1jqnywskl2n92fx65thtew8zlj3vqfrqxz7zyj70tt7d3qmn0m9t",
+        "pool1t6tyc9menh5uax38j89jgdyj0maz6e4mgx90n7xkcl7mu8fzqxu",
+        "pool1lpw2wnj2vrc75fv7f4jnfzgkqvlrxlampz5nmduwve47xgnckns",
+        "pool10x7rsal3ldumkycuc7f7rslx3vc5axhz5jzwngfcg7hd6t2p7sc",
+        "pool1lm89trd8cl36k8njlhgsemavry2jymnhddpvtk7fk7r7g4e3fep",
+        "pool12xxugucen5pql0ay70uakgqjaxpwfj6c9py8euyu4q3p23s0fyg",
+        "pool1nll5ghr8cdkl6ppnxpuk6c6vrg9d5kq3tp8d6xjdds5pct6pxj9",
+        "pool1jsala5rdc0hjewcvu9dujcz8jpfxp7hadqr3r3hzs63skhhtpqs",
+        "pool1nwv3c3q62lqcdgp7s0jtl4xldgfnjnt0szkdclk4tzjqzv6kv7n",
+        "pool1me68mzk9kephj0yqya6xu9jefjvtg0dvmly3m9sy67cezrexalx",
+        "pool1aq6sd3kr3cnjk995tfthhyf0suth3rm547kp6pv35z7wgqu6twn",
+        "pool1f4n4mdsv5ydxuc3y4tzgumqvfa8xxlyr8jl70qquama0ug2pmhf",
+        "pool10xk8jp4m2cztf69x9gvg3j33x5drkrz2hulsjes29wktcfcxdls",
+        "pool19mc6suzenqdvmq3ssf3nfzv4xva3wgl83z6syumccdppyar0vga"
+    ],
+    "https://tvvin.com/": [
+        "pool10vhns8fup6pe9xvjxf4w6h5y66tckgvtjy9ayld6mcg8vv4crdk",
+        "pool1tjkkuqdx2hy5cdy7vyamnyprglylcz5206zevfvtc28mx8nvsw4"
     ],
     "https://rockx.com": [
         "pool1chdvqec5lwsxuedrdhcdcxg2295tqrce9lcz3luru5fruzjf3wr",
@@ -639,5 +984,21 @@
         "pool1pd7x30trlcd86h9x8ya5ch3j4729wudgdh4qrmr6fulh5zm24w9",
         "pool1t2mxyjvqsay4yl6vm5gqep5f76nm9wen3452zxa0nu2xugmsm6k",
         "pool1hxlu84r3xhce4gcc4rdqzlwdprqjptd2jqky572g35jfsjrnzww"
+    ],
+    "https://spectrum.fi": [
+        "pool1yl46tklt9df02cf653fv74x2klucj3fc6mhm05n3enpk7lgxfjv",
+        "pool1072lq3k32sfxs96s9qhrx3s9la2t68vrqwfsp7h9qnwk56yr2mv",
+        "pool1zwftnuzv7rtssdj3kn5j9m2al5t36hjexps7snzu7fzvzjjn95x"
+    ],
+    "https://copper.co": [
+        "pool146fn2mcz0f9npcuqwvr3xjn93840jzueja973uc03xkqvl2w36c",
+        "pool1vresred49vtwxm87v0gg0dxfrdhfv6rz826u36ts9a60unw2nrk",
+        "pool135t6gh8sa4ahajdzw76yy7m5r0js49ra4990ahrk6ydzxef4xrd",
+        "pool1kcfe6evpfmh5rh40yta3qrrudsy956scuwfl7wgts0z926z6kuw",
+        "pool1vale5v0rm72lmz3ssv39a9ywceucqczux4v6zhegfmh7vlgfchf",
+        "pool1fveclhv3w9q3nl02j0rwpu8rwgsk4vrxwk27mpdsa8stx27n93q",
+        "pool1lf2u2m27y9lsu342xvmyxjfvuyzua487whmddt883kmay4mxjeg",
+        "pool1lfwwrwm3hrrv0s0ttf8t23p65xru35f7lvty8q0dhq90wudsp66",
+        "pool1kttdj98xlssts4kzwyvsuj905f30q096ptzcses2ze25ca9uerx"
     ]
 }

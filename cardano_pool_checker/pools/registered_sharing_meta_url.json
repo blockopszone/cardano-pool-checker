@@ -1,1 +1,269 @@
-{}
+{
+    "https://foo.bat/poolmeta.json": [
+        "pool1jyutduy73e5u9877uns3k9rm0tf4r24j8lrn4xtkjpl3q5sn5mw",
+        "pool104re5tajgh4mpp7c744khap56lf609cfjlna5ysjkum8qn8fel9",
+        "pool1u0u2s080a5plun4acn6s70xa3q98ct7skt88l7w6nnwwyl9ecym",
+        "pool1qq76dtlr0m9g6xlvngzq550j86cgtslphyjffz3pgpn7wazatdc",
+        "pool12vv4c6z7yf8j4m2amzej4j8tn2d4dxklqk5nqztz7wl02gratjp",
+        "pool1uautzneywzapn03te7q3sd737xdfejgjlu4mdfjz7mweq92dugg",
+        "pool1pujegnn8qf7xux6tkx2mj2qdn9jf0y4z0t6nma97wdgqudlc9ww",
+        "pool14gzj8a99u43j2gu3z0wcyedvdca27m2lx7msqxywl3lrcyrvmys",
+        "pool1qkvt06tjvd5mjf3yms9y6hp22uedn5ys6384pn8k3d4tz3d7j2z",
+        "pool1lc4yn2hew7nquk5gfc8k8cs6d7hee4a9hc2hauwj7dv759zzek0",
+        "pool10nug2zc80t6tz64awqr0362kfsh6yvje6xz2a6appzhzwe25nc5",
+        "pool1udv42vs52wg34268zkfsgtrzuvyskphfavaf3n8tmf4tugm7et0",
+        "pool1ctfxzwgqakxujmn95dfvprcm0h3dtzjh408apk0cewl0c4r6gg3",
+        "pool1nyq3fcx438ydyprzfnpg8y8nkekmjqe2gp3mh04e9hv22ljaavj",
+        "pool1hjszxsd493fmr99g2d8evnqlrlurscu00n8jv9mz8qm42f7jvln",
+        "pool17etnr2ngwpnqwuvdzszzd36u67kzcsrs8scuxf0a63hezy9zvpv",
+        "pool1ktg9hvae8kluwnr29khma3mxd7ffjj9k5l0yjdqlmazjclv4j3d",
+        "pool1vr8tegnnjtvfe7me66qrchaq6ucmmxve6anuuypwn6s3zs6342s",
+        "pool18lwlvq4j8yxgrsuvyqntmyq7wyeql5t9nhmtg0cx0uqa6n5hplm",
+        "pool15gdh4w26ax66aa2j5ehwcvm46as3jx0v7mhu678y7m5q5s80dwk",
+        "pool12plmfgtqk4nj0wse5wnr49xth22fjacxm0gxg3wc88ewzztpwf5",
+        "pool1tk3x77en700tk4w47xm8vzr0p490m29q6dknt77pakdyc4qmw65",
+        "pool1snvcmtdnssf6t8fhs7943uxmmujlt4f89yv58cp7m99cq5tw9hy",
+        "pool172vhywk0n2m7r47a8wq78xzc7nnytu3x78wyftmdedvjyzxjc7s",
+        "pool1nfsrjxsgwt9k6zsp8eg64wq25z9c2gqmqx6gqnugsrraz4sa3a8",
+        "pool1prerctlrtn5e63m0zu5ydr2adaxpsypzj6wx3v8y44dsyj2lcwm",
+        "pool13w9mcp8af4ef8vwsw624ams38w7hs0chvtjknz2t3pcxkm8w9m2",
+        "pool1v2u8x73efaa7vlc342jdd4pdvdp9vmmgacc97tty6cljxrtxpse",
+        "pool1wngesrk9ju3x7fzmuqae49lp385k5khgmtz97rza629pwg86nlj",
+        "pool1c86ul4pnqvu7jzag8fjdy6dgrn6pt4ad4vmyq038hyg0wl2kaed",
+        "pool1adryduxm4puhn67tuxys7rhvdleee6gw5pc9ufnwwzp8k2wjc2z",
+        "pool1qfdzhvd4kttdew9klp89jtuts46dnecxdj36lwax9j2eyag0v6t",
+        "pool10zpgnaflyf6hmfk97h7s6nk7l6q04xhfzgrw7uns0js67dj65ux",
+        "pool16j2sst4yl703nhdyx8snk9ld5rwjga6a4fk203ptedztq7uza5f",
+        "pool1t3r5pxfpy6rkylenh64dc43uncsddrxp2e55dr2pzv66zh5hp6f"
+    ],
+    "https://metadata.sunshinestakepool.com/metadata-2.json": [
+        "pool195gdnmj6smzuakm4etxsxw3fgh8asqc4awtcskpyfnkpcvh2v8t",
+        "pool1p8fhygz7ga9hghhwmkr64p3ftn77lxu9nyddvsqszattcdyajc0"
+    ],
+    "https://adaocean.com/poolmeta-one.json": [
+        "pool1a2nh3ktswllhwf07fjahpdg5mpqyq7j950pyftq9765r6t4cefl",
+        "pool1zk6uxgptztrxxamzd0ugrtu84xg8mjymd2xcdvxqazpruqt9r3x"
+    ],
+    "https://cardanostakeada.com/poolmeta.json": [
+        "pool1xt0z35f0ms6xt5r8swhtd2xcymqxvk42m8fk5q8fnw8hjhr6yax",
+        "pool18nx24xhkcewezxvrjgdpt9pgt69pefr85m8qa8fdjd4m6p7egw9"
+    ],
+    "https://github.com/vivi-chao/KAPO/blob/master/poolMetaData.json": [
+        "pool1svzk9ckds6r83nvg2k7w9hszza2haqd9zu7fuyg37e8gg3dylrf",
+        "pool1k0d5szkmzsw6035ytsm8dv75d4ewu5gkm7c7dhsjug9uvkaunz3"
+    ],
+    "https://pools-united.github.io/pools/VENUS/meta.json": [
+        "pool1r8938r4ts8f4t8nsp9xl9dktzapt7f67jgpsp4wrju39xrdnaye",
+        "pool1k3wpsc8q8za2qeptx5kv73r76hs5gvp59gga6ad6u5hnj3scy3q"
+    ],
+    "https://tinyurl.com/y93q2xkk": [
+        "pool196e8g7evuyf84jz4gr6f4xacudmupxs3ad323krx9e4xse6cf8y",
+        "pool1njs6ejpvdkt3cee7u8ekqyunmufm82jjrehtg42xd28m7zhzn5v"
+    ],
+    "https://tinyurl.com/yytb6nll": [
+        "pool1xk8xt05lck3sm86yzwu2xgrser0t7g4jzrvqhks9u9tg2tca52s",
+        "pool1gx2pz27mgupdqynr54s57jrepc3n28yx0wlx0j5ypka55aan9qx"
+    ],
+    "https://tinyurl.com/y275dnyt": [
+        "pool1yqw3cxc8c9v34305ccz5sx5r4c7tx04ph4w2x8n2hczhurt9j0h",
+        "pool1r2249l40de8nlj77u77yzk8kxl3av4k09ztswcuqfexzcxwx3k8"
+    ],
+    "https://www.nordicpool.org/json/northmeta.json": [
+        "pool12t3zmafwjqms7cuun86uwc8se4na07r3e5xswe86u37djr5f0lx",
+        "pool1k633phcvz2hjhj45evwwau4w576jpq83acg5h84w23jauqu56cw"
+    ],
+    "https://cutt.ly/poolmeta_json": [
+        "pool159nu5jnr7jc58hqaw880qtpzsq72q9pc9w3r88reeuyh702apfe",
+        "pool1arsqn9w87wpqlm0sre66gs79dcs0jmwulytgke3vut7u62lttu7"
+    ],
+    "https://ada.asic.network/poolMetaData.json": [
+        "pool1mtmjss36km0v4qzn4eqvv440ed9flwqtkp4g8lp0ueu8zy6hvpl",
+        "pool15730lwmu7vrffkl40wtjrnctsfd840fl5jmuw230r0d65a74k5e"
+    ],
+    "https://tinyurl.com/y3w53prh": [
+        "pool17yyawjkmefppu64v0xxqxecaa77ddgsdgxgmm06jdyxeslruzyc",
+        "pool1zx293a3jpjh9sln53uhlc34ccnppl6sze22rrcmt04enzapl935"
+    ],
+    "https://git.io/JJWdJ": [
+        "pool1jqw9cv37w0eewvdr36w2kacd2w9wh5uwm2y3vmc0fmdfc0ax26l",
+        "pool144cfav5vd6vwaej6cspzea3pjfvdcjg86uzv9phxegz87ynw2zz",
+        "pool1t93hrmha847r5gqazttyg29c9fxfv778w3kc5vf4q7vu5g4ec0r",
+        "pool1jnesrcc408t0zd3zadkx2fs65ugppkvftcleld0tc0j2v7zsvej",
+        "pool1gq7zwmtpnj7wufnv97xhx43eqhla3trc3803r3rcwppszc6vh9y",
+        "pool15j6hdfel6c6zcr8gu39qgp5xkrs264yn9hm8ynhaydjtxvmznxq",
+        "pool1h9jr0f9evk3raxlljq6mt4gj7ej4v82afvnlc2wh28rwy2d8lsy"
+    ],
+    "https://tinyurl.com/y5wu28x3": [
+        "pool1gp4kj3w0txgxjme254pgyj5ysw7muxsumuefzc7uep9673nsrvc",
+        "pool17dx6ld5544pngfc4w6ere708zmjga7wmykeelqhqt4tpkjcpup2"
+    ],
+    "https://git.io/JTIBP": [
+        "pool19066qvd5dv6vq7fh5a5l7muzk6nc5fw8zq3w4tclyrhvjvlyeuc",
+        "pool1xt7mjrtnsew3v33lu8sf93upf20sxhmcrfnpm82ra46yxk7uy45"
+    ],
+    "https://thc-room335.com/poolMetaData.json": [
+        "pool16m3cpra28g00t2hsfm4cj9twl4y0jsf3us2zd6nyjpz5yuagmkn",
+        "pool1n96ql32ct37n8w0l9ddhnc2t8tv0uyd6kuhzua8uxy63xs35wgl",
+        "pool15zn2lqq4849ujttuthaycpamnyr8ae9k2pn2fkrlfzzsx4ek0tc"
+    ],
+    "https://git.io/JUlkV": [
+        "pool13ugz5ye96g5jcxw2c3kt9x7cc75p4lmxl2jz7cy0a4xkkju0dr0",
+        "pool1nms3yppslynx2etssx3sslg0mzpc345wzynf64lzjmfyg6ghj9t",
+        "pool12fvqhdv6wx77zkjdq06k5ylzswd06w7yavt8fd6sm5pwk30k9l4",
+        "pool1yjeekxeu402msk7pnj9vkrtr9glf95jd2tzwwrld309m2flq7yu",
+        "pool1tn49xn2jpq62uwff9lt8d25kfzhu3nzjkkytq8pc062n6c7h6tg"
+    ],
+    "https://git.io/JttTl": [
+        "pool19asxjgd6ah9ddzauwede4wpt9vsp6s4ax5nz297wt47evc9sn7z",
+        "pool1a4qtpgce7cu6wzc79fx7qrc3938hkl2gf8c2h5jugvm2gnu86l7"
+    ],
+    "https://azureada.com/azur3/poolmeta.json": [
+        "pool1hkklrx9ac7w57d79mnv76rxlgq4acg5ecwhyep7k3zn0u5cz2k9",
+        "pool1hnnfvsq3xlln6vz7d2xmk6kqekd5z4ctmfpdad8g8kr0yk8kdfd"
+    ],
+    "http://rhoenpool.org": [
+        "pool1l54esv8h5xjry9ms3jq4mnf49vwt3yuxl5fdudp7jpdx2swuaah",
+        "pool1dqq4ugkrkpwhray2z8jvk8nvnpnq3gm3g2stz4wmusap6tkuclw"
+    ],
+    "https://git.io/JTXtc": [
+        "pool1cg90yrzsj6mk84jzqt6sg3mg9gxx6f40tk7fk2v7uyp5cxw02wf",
+        "pool105y08fgl97g255q7v9nk0x7aqyxaqcluve2jxhgwemkaxkeyd82",
+        "pool1sktpderrlmwnw8l769aqqfmmv2sn2uatp4r9z84htt6kg7jauyn"
+    ],
+    "https://git.io/JTygZ": [
+        "pool12r08n33avu33ncstukwxyr440mgaazmuclay38v0yt34xytu2dq",
+        "pool16l2ku9crvvrcq9mvl9z2w7mc9x6t49ug3756xfrgqyvc2e5y6hl"
+    ],
+    "https://pools.iohk.io/IOGP.json": [
+        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
+        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
+        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
+        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
+        "pool1gpzkwf3ntp7ky6yvyky8q6qu4dyup5y6v4pxzn56yut8sqp6k53",
+        "pool1nee5kmpzv0qfz7lu258fe9ylgxh68lsqqdmjgw7jnheej3usn35",
+        "pool155efqn9xpcf73pphkk88cmlkdwx4ulkg606tne970qswczg3asc",
+        "pool12ql6www8aa8usn98azlkz76d2htxtm9swalvyac27rlq6mdkxc7",
+        "pool1h5uycju7n5puxn2ckfkpza550rf6jk4twr6ef0hsmxft78ajt6q",
+        "pool1ha70qvqwnmnwpa7e575y9tgyx47aw29rvkz73mnf42z5wet5dr3",
+        "pool12jqfrwhuv2jn0uymwmud2d63gp5drj08fjfart9dxgpu2tmj8a0",
+        "pool1646vlaras0deljthqtfl9dpdw2xsna799l0kayyu9v44cql4ky0",
+        "pool1tjaz8a62743k5tzdd8lyd0sgf2lcvtk09jsz9etvas82zdamc2q",
+        "pool1v9gqa6n4em4aly7ew2trvhgrath4mrsp9tyc290l638nvqs5aej",
+        "pool148ajvsw7z9mhgw43tqvgmfrv22azvm638knkqghqv497xvdl2tk",
+        "pool1e827fy8efd7n9zacdknhtr2n5rqmry5up05mqgqsjkmmzjmzrf3",
+        "pool1hfxjswx4wnpfmdad660hvzx4knjhf32uwgg6wgsnqp98x9zz927",
+        "pool1y9xftc4cq0svcv0gjdtusnvllrg5v5rn0d24g8r4m7tnsem6ve8",
+        "pool1kcw2kqj27qe7ntsz9fhvyvyvpf7prclwc5jq4cw0qydh7cygcek",
+        "pool10pktmr26fpvrt77j7m5mchqlt0mjmmfvt7ruvdewkcpasp0nzkl",
+        "pool1j0j39t2dfmkflfnvresds8vlfhwg75qwufa95u55nw376ky29r8",
+        "pool1szgruqm2dlhkh5qh7rft28xz9gkxj6rzfncsuquf3vm37k63kqv",
+        "pool172fsazvg6zrpkj7c8wklsp7lrn5yxjvhru4enddvvfnyx343dyc",
+        "pool1pmknsy9yqh06fpmduf8vzcvkzpllygjj8uzkjccgvewtq9uc53k",
+        "pool19r4ef6n0xkw3pvztuwd44ymrzrkylyralnf5rudnc7hnvvddyqz",
+        "pool1ge06eu8lvdj6jakxw8zuwj3yxtpmeek8j8rgwqfshj7vg390fj0",
+        "pool1867sv2tgcq2cjmyhqgsfveekmsy5zksld69zhgrlkluukfydq29",
+        "pool1sr82s7yvwwsy6q0geveawrglt8ss39jhsfz7d0p4a5y6kk30mdd",
+        "pool18w4dzpe8wtkx29scf74qmshrf58xg760mcxu5p7s0azxufwwgec",
+        "pool1ygamv2t9lw03khcxpe75rjd4p8lnn36hux3deeg3hrc3jwrx43z",
+        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
+        "pool1cx8njhvw34weqykla5fz38ngt3dr4d0ltv0srqjqa8ugzap937l",
+        "pool1x5ge78ks6jc0j8nsfwyqqhk2ukxlkvz7zxlm9utgk6405hh490n"
+    ],
+    "https://fastvalidator.com/poolme33.json": [
+        "pool1cxl0gk32hwe6sckdmy2zydkl7wrk8npjay0u3u5zsglwvkqmjen",
+        "pool1kgwaa6fhpaqu8v4hrk35lzjhjsa6typ55ammszhd2q7zkxv5v40"
+    ],
+    "https://xxx.xxx.xxx/poolMetaData.json": [
+        "pool16v0jqnz2zuqsdrf6z94ec5rx9ds0xeghsvmddauzt6j5w2u7lsm",
+        "pool1pyegru75d64xgg4jh83904nst8fs8qz6mvtxquatv44rkartevc",
+        "pool1kdfznpenxa9wwcz8tweump45k5h78h8hl4slv78fdypsug9ypc6",
+        "pool1w9hdxd0ydy7qrtxe2lceg80mpsyamwnaqyvu2v0yngj4cfkfu2t",
+        "pool13mjxg33urh0xquvw33kjn85yw7j42uwqw0pvh8s6c67rszr7ssz",
+        "pool1xjqjwe0t7uw7wfdygvt99e5wjcuz6ex6rcx2p067aqxp6tsgwgm",
+        "pool1y9rdlv5tksudwrx47afjx47grd4tyh24zccffjtp32u0cfpegvk"
+    ],
+    "https://git.io/JqnoK": [
+        "pool1msfz0v3yrzl3k5njsm92uw59cfs5uepajs4a62rxfm5xke9d2zr",
+        "pool1a3ekt9me035qgju0en2w39vjns9ggtewnc9fugsmpgczvgtl6u9"
+    ],
+    "https://raw.githubusercontent.com/coldspo/ops/main/1.json": [
+        "pool1t4q9v8vxf8ltx407cqkwq3sksgmq85e459jqsf34x0cxyfaqljw",
+        "pool1hg9yyezrm6dslw9q767n5tlu0qk2ccvd4k9946vv7ymgvsvnttf"
+    ],
+    "https://gift-pool.com/02/poolMetaData.json": [
+        "pool1vtf34mujsfrr8wesg8nvmnupk7npz7f287whltv2ga4wc2728mf",
+        "pool1vphx7ph5rayjxuuqmwqhlw32pl3m6lstcr5jz0ecajdc528fjdt"
+    ],
+    "https://raw.githubusercontent.com/itcpool/meta/main/itc2.json": [
+        "pool1psk0c2p7pwactw00nkzjexdw0msn7g8nddc06eyvds6yswr3tjg",
+        "pool16j3mvwws7zc9pjluyhddgea0tq647v0dh3y4nkcuckg9znjcun2"
+    ],
+    "https://gitlab.com/futuristDOTstudio/o/-/raw/main/metadata.json": [
+        "pool13w9mcp8af4ef8vwsw624ams38w7hs0chvtjknz2t3pcxkm8w9m2",
+        "pool1fr3ws5vwm7l5y2ywau2jrlaan0xmfqv68h5g3g3sum2ywthurt2"
+    ],
+    "https://stake-bowl.s3.us-west-2.amazonaws.com/pool-3.json": [
+        "pool18au4xxwcu552tjyxgyfssc95lwcf08g49z0ln5f7l060qh8r3wv",
+        "pool1w92z3lxwrycf3kmf075dja2fwem0luyjc4ysv2afh6sg554qjwn"
+    ],
+    "https://bishnoicardanopool.org/poolMetaData.json": [
+        "pool1qlkr6qu4mm38x77ldp2vnxn0gatgq4ernvvdw4pxze2tuyw5pfh",
+        "pool1f2uwt68neknpyk8pw2rh68gmpc6czndekl5ym22n5zf4vy8ecct"
+    ],
+    "https://rb.gy/trpadc": [
+        "pool1u53apdhreh9fjmxtrctx3kezhjduc4m2f7cfd09yd7p6jkc6k2z",
+        "pool16x6ckf653xdu6rdhmxvu3e50gldhzk6rrd9ds86ksu97jexw7m8"
+    ],
+    "https://rb.gy/cbozsd": [
+        "pool1u53apdhreh9fjmxtrctx3kezhjduc4m2f7cfd09yd7p6jkc6k2z",
+        "pool16x6ckf653xdu6rdhmxvu3e50gldhzk6rrd9ds86ksu97jexw7m8"
+    ],
+    "http://swoopstake.io/poolMetaData.json": [
+        "pool12k9dcw2nalx5k4navgrcuulym35c4jr2aqqr2vft6cnlvxh5rye",
+        "pool1rsrmpq6jnxnwh6z8wlzphnan4huyz6pymcgna2p5m93mz780xkw"
+    ],
+    "https://sweepstakepool.io/poolMetaData.json": [
+        "pool12k9dcw2nalx5k4navgrcuulym35c4jr2aqqr2vft6cnlvxh5rye",
+        "pool1rsrmpq6jnxnwh6z8wlzphnan4huyz6pymcgna2p5m93mz780xkw"
+    ],
+    "https://foo.bar/cardano/poolmeta.json": [
+        "pool103w4na57zyunn2s7r8cgrnqgsn3tskj4w69yx3alx4sezphv53t",
+        "pool15l7f5vd5sqchjqys6x5ygmdgs88q4y6ndwc7xy9a05y2jfced93",
+        "pool1dadfsnjauzhgcvz5hkrulwevpe9mk2a9rsxt24pawcy7zndhll3",
+        "pool1zlp7tdvtc2t989hnzxsenh4k74tt4gwpg000smf908jj64w4vg4",
+        "pool13q546lq5lmw9pp9cfwwmx53uh4ysajy28upydg5n8tcx5ayz682",
+        "pool13ds97sp5wtfpu7x720pj843ax2chfrcj25d88a39l8czjmg4gkf",
+        "pool1qxpzlkxfem0q230hjp9f622c6yaej8qycwy34nwyt98axedf78f",
+        "pool1wxzwqzl8c5pmsq6q37a90fgmpw7z729hufmydg33zcz0ktp5q8n",
+        "pool1fxrxatul2edy2cvys2j25cafstvysf80juadr3a7542pggcjvv6",
+        "pool1njhlmv87adsanft5sjuvz5a9pgyew76mxqa0w9c762af570g5ht",
+        "pool1wfma2hqtzksrf9wq7a5ww8ugguxezaetey80pe9arg2n7kvev82",
+        "pool1l5c0jhhlknegjgqzpyq78f9dqn6dxkzmc3548hnk96xqcf7spx2",
+        "pool1j9nlvppmd5e2ms7w6xx7r6rgc37q2r930gkj2ssdu5a7jr53tev",
+        "pool15v22rpfg6qx9l0gx0m955gfv7tes0jpa9sy0gjs3a04lv6x9jdr"
+    ],
+    "https://bit.ly/3GC28q5": [
+        "pool1ck8rqpxp7j8kyzutk856fnvgm8xsqmuh922wkeeg32ekjjrvtc0",
+        "pool1vce30junxx06g2ha8ww02cqgy644yj69ehhg2x95qe7323zfznp"
+    ],
+    "https://tlaib.com/poolMetaData.json": [
+        "pool1yw05sn4p9972p6lsdw9g4twvwxdf72rqtfuvwn0wp736vh4azfn",
+        "pool10fsg5ykzcjuzq5fzm9vj6d3yd0jjqgg6qnza6u8wtq0677vam2t"
+    ],
+    "https://staking-static.upbit.com/staking/cardano-pool.json": [
+        "pool1r9kse9x8ja0ajkyw8w96zw5c2aqeey6j85nmyqxhwt0rs090fu4",
+        "pool1ua5exfeju4jc95yy595cykjh4x46998g8hrrvw2v5h9k7987a44",
+        "pool13z9mfsve9w39sl5akgz58yewad9daycxn8ja426ytdxey47yatu",
+        "pool1hnukelq3ap6pj3wnetj448efj4nalngy756jln9zd2mjsp73etg",
+        "pool1ek9pyk0xwjelrw7uqktvjwqj8wlcqqftjxqeq3t2vffw7qm8efs",
+        "pool1cp4q7w2jvlthul9mlskj6xutx9rdr7n4vruqqe09pfg5ywmzdzq",
+        "pool1sjnh0ymk9fhhnusm7uksux5yhpfyhjfmseq5nuupsj6ezskc0pj",
+        "pool1k2224hj6uhdgkflj6ncqvmfhqvhlhj0t8crhqux5mphwwumupec",
+        "pool1859zslu3scj23wxcamw0slkhn80waxwkdl4k8k0asyw7sfa8dv5",
+        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn"
+    ],
+    "https://figment.io/cardano/poolmeta.json": [
+        "pool15xt9rwxzgunwhhue548q3q22mclumqz5al9umanl8tn269sr66m",
+        "pool19yzqr3meksnvzdxh5xf6aknfhldyqdj7eaquxgcjva4mzt5kg3v"
+    ]
+}

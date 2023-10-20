@@ -1,24 +1,65 @@
 [tool.poetry]
 name = "cardano-pool-checker"
-version = "0.1.0"
+version = "0.2.0"
 description = "JSON-based collection of historical Cardano stake pool registration data, lists of multi pool operators by different criteria and associated maintenance tools."
 authors = ["Josep M Homs <jmhoms@gmail.com>"]
 license = "GPL-3.0"
 readme = "README.md"
-packages = [{include = "cardano_pool_checker"}]
+packages = [{ include = "cardano_pool_checker" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-urllib3 = "^2.0.3"
+urllib3 = "^2.0.6"
 ipaddress = "^1.0.23"
 dnspython = "^2.3.0"
+validators = "^0.22.0"
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.4.1"
-flake8 = "^6.0.0"
 black = "^23.7.0"
 pytest = "^7.4.0"
+ruff = "^0.0.292"
+mypy = "^1.6.0"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+cardano-pool-checker = "cardano_pool_checker.__main__:main"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 120
+select = ["ALL"]
+# select = ["A", "B", "C", "E", "F", "G", "I", "N", "Q", "S", "T", "W", "ANN", "ARG", "BLE", "COM", "DJ", "DTZ", "EM", "ERA", "EXE", "FBT", "ICN", "INP", "ISC", "NPY", "PD", "PGH", "PIE", "PL", "PT", "PTH", "PYI", "RET", "RSE", "RUF", "SIM", "SLF", "TCH", "TID", "TRY", "UP", "YTT"]
+ignore = [
+    "ANN",    # Type hints related, let mypy handle these.
+    "COM812", # "Trailing comma missing". If black is happy, I'm happy.
+    "E501",   # "Line too long". If black is happy, I'm happy.
+    # "EM101",    # "Exception must not use a string literal, assign to variable first"
+    # "EM102",    # "Exception must not use an f-string literal, assign to variable first"
+    "PTH", # User Pathlib stuff over os.*. Should migrate to Pathlib at some point.
+    # "RET504",   # "Unnecessary variable assignment before `return` statement"
+    # "S101",     # "Use of `assert` detected"
+    # "SIM108",   # "Use ternary operator ...". Ternary is harmful for readability in some cases.
+    # "TRY003",   # "Avoid specifying long messages outside the exception class"
+]
+
+[tool.ruff.pydocstyle]
+convention = "google" # Accepts: "google", "numpy", or "pep257".
+
+[tool.mypy]
+# mypy_path = "$MYPY_CONFIG_FILE_DIR/cardano_pool_checker/stubs"
+python_version = "3.10"
+disallow_untyped_defs = true
+show_error_codes = true
+no_implicit_optional = true
+warn_return_any = true
+warn_unused_ignores = true
+show_traceback = true
+packages = ["cardano_pool_checker"]
+exclude = ["pools", "notes", "tests"]
+
+[[tool.mypy.overrides]]
+module = "nontypedmodule.*"
+ignore_missing_imports = true

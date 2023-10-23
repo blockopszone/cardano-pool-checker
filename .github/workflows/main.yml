@@ -46,14 +46,16 @@ jobs:
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
         run: poetry install --no-interaction --no-root
       #----------------------------------------------
-      #         run the code & commit updates
+      #         run the code & commit changes
       #----------------------------------------------
       - name: Update JSON files
         run: |
           source .venv/bin/activate
+          poetry install
           poetry run cardano-pool-checker
           git config --global user.email '${{ secrets.BOT_EMAIL }}'
           git config --global user.name 'blockopszone-bot'
           git add .
           git commit -m "Scheduled update on $(date +'%d/%m/%Y %H:%M:%S')"
           git push
+        working-directory: ${{ github.workspace }}

@@ -12,19 +12,48 @@ jobs:
   update_pools:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-      with:
-        token:  ${{ secrets.BOT_TOKEN }}
-    - uses: actions/setup-python@v4
-      with:
-        cache: 'poetry'
-    - name: Update JSON files
-      run: |
-        python cardano_pool_checker/__main__.py
-    - name: Commit to repo
-      run: |
-        git config --global user.email '${{ secrets.BOT_EMAIL }}'
-        git config --global user.name 'blockopszone-bot'
-        git add .
-        git commit -m "Scheduled update on $(date +'%d/%m/%Y %H:%M:%S')"
-        git push
+      #----------------------------------------------
+      #       Check-out repo and set-up python  
+      #----------------------------------------------
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          token:  ${{ secrets.BOT_TOKEN }}  
+      - name: Set up python
+        id: setup-python
+        uses: actions/setup-python@v4
+      #----------------------------------------------
+      #       install & configure poetry
+      #----------------------------------------------
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+      #----------------------------------------------
+      #       load cached venv if cache exists
+      #----------------------------------------------
+      - name: Load cached venv
+        id: cached-poetry-dependencies
+        uses: actions/cache@v3
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
+      #----------------------------------------------
+      # install dependencies if cache does not exist
+      #----------------------------------------------
+      - name: Install dependencies
+        if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+        run: poetry install --no-interaction --no-root
+      #----------------------------------------------
+      #         run the code & commit updates
+      #----------------------------------------------
+      - name: Update JSON files
+        run: |
+          source .venv/bin/activate
+          python cardano_pool_checker/__main__.py
+          git config --global user.email '${{ secrets.BOT_EMAIL }}'
+          git config --global user.name 'blockopszone-bot'
+          git add .
+          git commit -m "Scheduled update on $(date +'%d/%m/%Y %H:%M:%S')"
+          git push

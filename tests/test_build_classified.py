@@ -14,7 +14,7 @@ def pools_path() -> str:
     """Fixture that loads the path for testing files.
 
     Returns:
-        list[Any]: Returns a path.
+        str: Returns a path.
     """
     return os.path.join(os.path.dirname(__file__))
 
@@ -24,7 +24,7 @@ def pools_list() -> list[dict[str, str]]:
     """Fixture that loads the testing pools list.
 
     Returns:
-        list[Any]: Return a list of pools.
+        list[dict[str, str]]: Return a list of pools.
     """
     with open(os.path.join(os.path.dirname(__file__), "pools_list_expected.json")) as file:
         return json.load(file)

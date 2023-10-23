@@ -87,15 +87,15 @@
         "pool19ejln2jcpg5dphc8m5nh8sya49sycsqj0v2cjxw6nku966cc8nu",
         "pool12lsfsh2s8yt8dvrt9m8kgrgr6ktntngvn2vad60xlqz7kxz9fxr"
     ],
-    "relays.acornpool.net": [
-        "pool1sx4e8rvx2xdxgkww2fpjtmvrnaftfrtfge29xcn72hh7kch5snf",
-        "pool18v9r8afalh50l4lstct2awdc3zspnvurcs7t45nv29uc2mnxc6c"
-    ],
     "asia.jazzstakepool.net": [
         "pool1gwnu7f7qgaruxph8gn3u28qphvquvnj63elyd3r0nndacj9g9pa",
         "pool1h0524mtazrjnzqh5e4u060jsfk8lpsqqjfpa5gygjwuhqu34wvt",
         "pool1hsq2jrulgj97tna2femdhsfn2wurkkwt8uk9uvs42h9zs0a783p",
         "pool1fmcv9p7vv754rwc0p6ud2mgm76vnn0gq0gngrk7rq400vsvhsvs"
+    ],
+    "relays.acornpool.net": [
+        "pool1sx4e8rvx2xdxgkww2fpjtmvrnaftfrtfge29xcn72hh7kch5snf",
+        "pool18v9r8afalh50l4lstct2awdc3zspnvurcs7t45nv29uc2mnxc6c"
     ],
     "r1.1percentpool.eu": [
         "pool1supp67ypelmgzuzqqvarc6czgmg3ggwpnrnfr90xpfcqqf8h05t",
@@ -116,8 +116,8 @@
         "pool1g0nq3m3fnvd245k4favcvutn09vce0yshg535f68d2xa54vy0cc",
         "pool17qvfg2g843gw6lurru282kkex6vp3pyj6zwj99j4u6k7zvmva5a",
         "pool1ayfjmnrv5vg6tfducvysn360re6qfwuv2rhc4ph6jk33ztuxlhq",
-        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca",
         "pool18mege8wvzzdvh8cxx6ncnqyvacl4lxukw495c87xmz8qcdl6lj8",
+        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca",
         "pool1e4tjrl3ve7dcqwa70pexds6f8llk0txx09gm3r4m472ej4p6473",
         "pool1yl76e0fhq0kcfy2jqs2mt6hl9xeyrnesehqp0p4s896lwv7hrta",
         "pool1zmtm8yef7725p9n7x433m50kvv9xpzjujnny9m5t960g5qm30ua",
@@ -146,8 +146,8 @@
         "pool1g0nq3m3fnvd245k4favcvutn09vce0yshg535f68d2xa54vy0cc",
         "pool17qvfg2g843gw6lurru282kkex6vp3pyj6zwj99j4u6k7zvmva5a",
         "pool1ayfjmnrv5vg6tfducvysn360re6qfwuv2rhc4ph6jk33ztuxlhq",
-        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca",
         "pool18mege8wvzzdvh8cxx6ncnqyvacl4lxukw495c87xmz8qcdl6lj8",
+        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca",
         "pool1e4tjrl3ve7dcqwa70pexds6f8llk0txx09gm3r4m472ej4p6473",
         "pool1yl76e0fhq0kcfy2jqs2mt6hl9xeyrnesehqp0p4s896lwv7hrta",
         "pool1zmtm8yef7725p9n7x433m50kvv9xpzjujnny9m5t960g5qm30ua",
@@ -644,10 +644,7 @@
     "relays-new.cardano-mainnet.iohk.io": [
         "pool1mxqjlrfskhd5kql9kak06fpdh8xjwc76gec76p3taqy2qmfzs5z",
         "pool122gklgk6gep3dm5grag0kavzzxcwk4kxxrqegfygghjpgch6pns",
-        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
-        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
-        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
-        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
+        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
         "pool1gpzkwf3ntp7ky6yvyky8q6qu4dyup5y6v4pxzn56yut8sqp6k53",
         "pool1nee5kmpzv0qfz7lu258fe9ylgxh68lsqqdmjgw7jnheej3usn35",
         "pool155efqn9xpcf73pphkk88cmlkdwx4ulkg606tne970qswczg3asc",
@@ -668,13 +665,16 @@
         "pool1szgruqm2dlhkh5qh7rft28xz9gkxj6rzfncsuquf3vm37k63kqv",
         "pool172fsazvg6zrpkj7c8wklsp7lrn5yxjvhru4enddvvfnyx343dyc",
         "pool1pmknsy9yqh06fpmduf8vzcvkzpllygjj8uzkjccgvewtq9uc53k",
+        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
+        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
+        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
+        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
         "pool19r4ef6n0xkw3pvztuwd44ymrzrkylyralnf5rudnc7hnvvddyqz",
         "pool1ge06eu8lvdj6jakxw8zuwj3yxtpmeek8j8rgwqfshj7vg390fj0",
         "pool1867sv2tgcq2cjmyhqgsfveekmsy5zksld69zhgrlkluukfydq29",
         "pool1sr82s7yvwwsy6q0geveawrglt8ss39jhsfz7d0p4a5y6kk30mdd",
         "pool18w4dzpe8wtkx29scf74qmshrf58xg760mcxu5p7s0azxufwwgec",
         "pool1ygamv2t9lw03khcxpe75rjd4p8lnn36hux3deeg3hrc3jwrx43z",
-        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
         "pool1cx8njhvw34weqykla5fz38ngt3dr4d0ltv0srqjqa8ugzap937l",
         "pool1x5ge78ks6jc0j8nsfwyqqhk2ukxlkvz7zxlm9utgk6405hh490n",
         "pool1n3agd6rep8jw3gff684mja56ns6wqmshayu0av7hxcgx7f4pnwy",
@@ -702,13 +702,13 @@
         "pool1ksh2u6kktx74ugv8jadrdqttwyjz9074ke82xt6j0qgfvdn43a5",
         "pool1wnshjhwqv9j7fgd4tkynpsqr0xczns4pghljy5j4z4qjj7qy4d4"
     ],
-    "relays.saludstaking.com": [
-        "pool1qqqqwg5y9jj6uet4amx3mkmzneaxrlhczmpz5admlvddgyhtnug",
-        "pool1qqqqvmpm9v2l0tkwx4dpzth3g85lapxjug2j6sucnphyqlt4fuu"
-    ],
     "relays.goldcoaststaking.com": [
         "pool1qqqq58jy30weq2an3px3maljdmawcwh6ml4hr8m9euq9z2n7wyz",
         "pool1qqqq02jxq3q9j93devp9pts90ctm8w3r0rgek97ngujpjgpw46j"
+    ],
+    "relays.saludstaking.com": [
+        "pool1qqqqvmpm9v2l0tkwx4dpzth3g85lapxjug2j6sucnphyqlt4fuu",
+        "pool1qqqqwg5y9jj6uet4amx3mkmzneaxrlhczmpz5admlvddgyhtnug"
     ],
     "relays.pools.emurgo.io": [
         "pool14u30jkg45xwd27kmznz43hxy596lvrrpj0wz8w9a9k97kmt4p2d",
@@ -719,8 +719,8 @@
     ],
     "cardano-relays.autostake.com": [
         "pool1zz7x8ergn02chznayj9fjds2gk5q6prmpdr49faspd65kzqsrjs",
-        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw",
-        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp"
+        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp",
+        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw"
     ],
     "relay.stake.army": [
         "pool1pzkgztz8y8tgd9tpfu7umep97x7m0c5ck0dpn2vqtf202fyhfv5",

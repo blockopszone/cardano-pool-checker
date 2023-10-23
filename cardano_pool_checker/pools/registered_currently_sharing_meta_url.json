@@ -30,10 +30,7 @@
         "pool13w9mcp8af4ef8vwsw624ams38w7hs0chvtjknz2t3pcxkm8w9m2"
     ],
     "https://pools.iohk.io/IOGP.json": [
-        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
-        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
-        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
-        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
+        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
         "pool1gpzkwf3ntp7ky6yvyky8q6qu4dyup5y6v4pxzn56yut8sqp6k53",
         "pool1nee5kmpzv0qfz7lu258fe9ylgxh68lsqqdmjgw7jnheej3usn35",
         "pool155efqn9xpcf73pphkk88cmlkdwx4ulkg606tne970qswczg3asc",
@@ -54,19 +51,26 @@
         "pool1szgruqm2dlhkh5qh7rft28xz9gkxj6rzfncsuquf3vm37k63kqv",
         "pool172fsazvg6zrpkj7c8wklsp7lrn5yxjvhru4enddvvfnyx343dyc",
         "pool1pmknsy9yqh06fpmduf8vzcvkzpllygjj8uzkjccgvewtq9uc53k",
+        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
+        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
+        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
+        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
         "pool19r4ef6n0xkw3pvztuwd44ymrzrkylyralnf5rudnc7hnvvddyqz",
         "pool1ge06eu8lvdj6jakxw8zuwj3yxtpmeek8j8rgwqfshj7vg390fj0",
         "pool1867sv2tgcq2cjmyhqgsfveekmsy5zksld69zhgrlkluukfydq29",
         "pool1sr82s7yvwwsy6q0geveawrglt8ss39jhsfz7d0p4a5y6kk30mdd",
         "pool18w4dzpe8wtkx29scf74qmshrf58xg760mcxu5p7s0azxufwwgec",
         "pool1ygamv2t9lw03khcxpe75rjd4p8lnn36hux3deeg3hrc3jwrx43z",
-        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
         "pool1cx8njhvw34weqykla5fz38ngt3dr4d0ltv0srqjqa8ugzap937l",
         "pool1x5ge78ks6jc0j8nsfwyqqhk2ukxlkvz7zxlm9utgk6405hh490n"
     ],
     "https://raw.githubusercontent.com/coldspo/ops/main/1.json": [
         "pool1t4q9v8vxf8ltx407cqkwq3sksgmq85e459jqsf34x0cxyfaqljw",
         "pool1hg9yyezrm6dslw9q767n5tlu0qk2ccvd4k9946vv7ymgvsvnttf"
+    ],
+    "http://lucky777.io/Lucky777.json": [
+        "pool1u4p03p6eextu3ge40f2za7lspjz5qkaw5lmqq6emx3qkqq6yjvr",
+        "pool1777xvdg0vydjp78cdcfrmpuqj28w3nuasf7h9a2f6cd4z990777"
     ],
     "https://bishnoicardanopool.org/poolMetaData.json": [
         "pool1qlkr6qu4mm38x77ldp2vnxn0gatgq4ernvvdw4pxze2tuyw5pfh",

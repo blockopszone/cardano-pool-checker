@@ -56,21 +56,21 @@
     "https://tokyostaker.com": [
         "pool19uynx6nxcdksmaqdcshjg487fap3rs3axyhrdqa7gdqgzgxss4y",
         "pool1llxh8l0h8g9ghz3nrzh7ndvev4x43vnk72nsemzm795vxqs6dp8",
-        "pool1xrrrr8gldqz8pjxj6j8c638a9py04xuv66kfgn2dlsx9g52te0t",
         "pool1k0xrqp03mn9u3q3sadndd6vu9udl5v38xpzyw0shm8sskuxw2av",
+        "pool1xrrrr8gldqz8pjxj6j8c638a9py04xuv66kfgn2dlsx9g52te0t",
         "pool1larpvn53yyufaf8fh89nrrpgruqcq8mgxrtdxp5y87cqse3yfg2"
     ],
     "https://popool.net": [
-        "pool1a600v0jd2z3yajazd80phln3exekumm7g56d9yvlrh6vx8dx2fc",
         "pool19ejln2jcpg5dphc8m5nh8sya49sycsqj0v2cjxw6nku966cc8nu",
+        "pool1a600v0jd2z3yajazd80phln3exekumm7g56d9yvlrh6vx8dx2fc",
         "pool1etfar35l4tf6vam3gvqf5dnaq7levz32vgw4p00jzk7q7twg2te",
         "pool12lsfsh2s8yt8dvrt9m8kgrgr6ktntngvn2vad60xlqz7kxz9fxr"
     ],
     "https://katanapool.com": [
-        "pool1x2h98z6e5xvrg5zw3v3dlu8hqdtj6lhp6r3w5ge7rvcqcx3pafq",
+        "pool1nl74emh67vuyt8cgv6gwhjnrctxgrpqlrdzznj4l3lh5j8lj3ah",
         "pool1q66d2n39uvln4hazyzv8fyq977mpqus78sjd2369qfn7cptdeyh",
-        "pool1pvu2zdexh8wr4ggmuz90jvqrua6an43qj9m9urs785p8kwjzqwl",
-        "pool1nl74emh67vuyt8cgv6gwhjnrctxgrpqlrdzznj4l3lh5j8lj3ah"
+        "pool1x2h98z6e5xvrg5zw3v3dlu8hqdtj6lhp6r3w5ge7rvcqcx3pafq",
+        "pool1pvu2zdexh8wr4ggmuz90jvqrua6an43qj9m9urs785p8kwjzqwl"
     ],
     "https://londonpool.co.uk": [
         "pool1sx4e8rvx2xdxgkww2fpjtmvrnaftfrtfge29xcn72hh7kch5snf",
@@ -95,8 +95,8 @@
         "pool1g0nq3m3fnvd245k4favcvutn09vce0yshg535f68d2xa54vy0cc",
         "pool17qvfg2g843gw6lurru282kkex6vp3pyj6zwj99j4u6k7zvmva5a",
         "pool1ayfjmnrv5vg6tfducvysn360re6qfwuv2rhc4ph6jk33ztuxlhq",
-        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca",
         "pool18mege8wvzzdvh8cxx6ncnqyvacl4lxukw495c87xmz8qcdl6lj8",
+        "pool18zn7wa345uytjgds9hypn3jugnzqtfm4cny7anskkcmgwwxtwca",
         "pool1e4tjrl3ve7dcqwa70pexds6f8llk0txx09gm3r4m472ej4p6473",
         "pool1yl76e0fhq0kcfy2jqs2mt6hl9xeyrnesehqp0p4s896lwv7hrta",
         "pool1zmtm8yef7725p9n7x433m50kvv9xpzjujnny9m5t960g5qm30ua",
@@ -275,10 +275,6 @@
         "pool1qqqqpanw9zc0rzh0yp247nzf2s35uvnsm7aaesfl2nnejaev0uc",
         "pool19pyfv4xnln8x4l7auw0n0skk3hd97shun707hrw5d4s553ys74x"
     ],
-    "https://zeteticstakepool.com": [
-        "pool15zrkyr0f80hxlt4scv72tej8l8zwrcphmrega9wutqchjekceal",
-        "pool12fzerww0hmk0fyvaujz5t2kg6hl4n8daz85rqy5jk8qk58r59y6"
-    ],
     "https://zetetic.tech": [
         "pool15zrkyr0f80hxlt4scv72tej8l8zwrcphmrega9wutqchjekceal",
         "pool12fzerww0hmk0fyvaujz5t2kg6hl4n8daz85rqy5jk8qk58r59y6"
@@ -348,10 +344,7 @@
     ],
     "https://iohk.io": [
         "pool1mxqjlrfskhd5kql9kak06fpdh8xjwc76gec76p3taqy2qmfzs5z",
-        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
-        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
-        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
-        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
+        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
         "pool1gpzkwf3ntp7ky6yvyky8q6qu4dyup5y6v4pxzn56yut8sqp6k53",
         "pool1nee5kmpzv0qfz7lu258fe9ylgxh68lsqqdmjgw7jnheej3usn35",
         "pool155efqn9xpcf73pphkk88cmlkdwx4ulkg606tne970qswczg3asc",
@@ -372,13 +365,16 @@
         "pool1szgruqm2dlhkh5qh7rft28xz9gkxj6rzfncsuquf3vm37k63kqv",
         "pool172fsazvg6zrpkj7c8wklsp7lrn5yxjvhru4enddvvfnyx343dyc",
         "pool1pmknsy9yqh06fpmduf8vzcvkzpllygjj8uzkjccgvewtq9uc53k",
+        "pool1gctelcfktanxhqfjw88vjp9v0ayumd6lr3re38pjw3kvvc8tanq",
+        "pool1t5zgwakxfmqxgu7l65fk45u33frlqrvgsvzn7demdy0ejgrhq9a",
+        "pool1q3snnww4ggayr8hd6gd83ypx982yhwlhywlcew7yxq46jzyst2g",
+        "pool1kp0wl7kxn0zt5xtmld72s98rv6ejpufvl39qk26h99nqshmkmge",
         "pool19r4ef6n0xkw3pvztuwd44ymrzrkylyralnf5rudnc7hnvvddyqz",
         "pool1ge06eu8lvdj6jakxw8zuwj3yxtpmeek8j8rgwqfshj7vg390fj0",
         "pool1867sv2tgcq2cjmyhqgsfveekmsy5zksld69zhgrlkluukfydq29",
         "pool1sr82s7yvwwsy6q0geveawrglt8ss39jhsfz7d0p4a5y6kk30mdd",
         "pool18w4dzpe8wtkx29scf74qmshrf58xg760mcxu5p7s0azxufwwgec",
         "pool1ygamv2t9lw03khcxpe75rjd4p8lnn36hux3deeg3hrc3jwrx43z",
-        "pool1v8lgn85mfvj0hhslfjz2u0nut43ahkhuzhfcm5aexjkewn8krle",
         "pool1cx8njhvw34weqykla5fz38ngt3dr4d0ltv0srqjqa8ugzap937l",
         "pool1x5ge78ks6jc0j8nsfwyqqhk2ukxlkvz7zxlm9utgk6405hh490n"
     ],
@@ -395,20 +391,20 @@
     "https://blockngine.io": [
         "pool1zz7x8ergn02chznayj9fjds2gk5q6prmpdr49faspd65kzqsrjs",
         "pool1yet04d4ykpp7me8uc2jx2glxrx88kt9uhmv6jeh7xkmtu5zucna",
-        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw",
-        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp"
+        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp",
+        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw"
     ],
     "https://autostake.net": [
         "pool1zz7x8ergn02chznayj9fjds2gk5q6prmpdr49faspd65kzqsrjs",
         "pool1yet04d4ykpp7me8uc2jx2glxrx88kt9uhmv6jeh7xkmtu5zucna",
-        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw",
-        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp"
+        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp",
+        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw"
     ],
     "https://autostake.com": [
         "pool1zz7x8ergn02chznayj9fjds2gk5q6prmpdr49faspd65kzqsrjs",
         "pool1yet04d4ykpp7me8uc2jx2glxrx88kt9uhmv6jeh7xkmtu5zucna",
-        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw",
-        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp"
+        "pool1ljywsch33t7gaf02aeeqkqpuku0ngpwl9fm04t7u5sl5xyunmgp",
+        "pool194usk2h8vcq6yw89xs5asrvw22g08kcfy72xyfrnnkg6qrhtlfw"
     ],
     "https://www.dew-stake.com": [
         "pool1rpjjz68kmmetyxztmrstrwgz8lxf6v0d7vqgw98r5x8rc50jrdf",
@@ -456,7 +452,12 @@
     ],
     "https://staking-fm.site": [
         "pool1lq7t0qg273vp8t2wzmeyj7sdq2vhu2v87jjplgurpfxcs9afnr3",
-        "pool1lqeg5d3jpwr3nvra568nk28sr8lttyr6cf4yyssdx6qtxea9nmr"
+        "pool1lqeg5d3jpwr3nvra568nk28sr8lttyr6cf4yyssdx6qtxea9nmr",
+        "pool1ax8znp3yeeh0udrr2vvtm4wkxjldwv4mywycn573km7fu20y5xa",
+        "pool1t6stu46gth7awdlrdmxmjhgrk9rjhez9qfnlhkhfvf0fj4q3h2a",
+        "pool1xc6la5z92seku86c4rdnuvxjdc3fh8pdtanlgxdy99cxjrkhzkd",
+        "pool1ffuv59d0rdp0jsgxa9x5r8pvmaexvuufeu43kpxl3u2qut3ljq4",
+        "pool1s6s6eyve0lmc4e0emzf2l68n9ya0rhrpdcq0jmkmmmxv2rkrx42"
     ],
     "https://poapool.com": [
         "pool1dqlgn7smehsnj5ztz8almy2036lfhrdjv79nmg9tmje0zzt620h",
@@ -605,7 +606,8 @@
     ],
     "https://atomicwallet.io": [
         "pool15wkxegrfflzcyhurrjxsm9ljqtz09xr5rtnqsarnp7hmsz5um3t",
-        "pool14enw2643rn9nn6yzv60jyz3hj4kxs0jvap87lkgsqykh508jxm6"
+        "pool14enw2643rn9nn6yzv60jyz3hj4kxs0jvap87lkgsqykh508jxm6",
+        "pool13annzt9hjfc822f0ejvxjf7fsmxd6cc28whpk5kagec6ggfmm7u"
     ],
     "https://www.adapilot.com": [
         "pool1eqa7kxx4xg35cu4rqj4exkvzhenscgh8wxez0gl7hsagygp79kr",
@@ -630,8 +632,8 @@
         "pool1yt868wrp9s2x5pehe96del9m3nwasme62yw02vww3kg6zwzspcz",
         "pool19ru9alj7n5anmzs0f9gpzlj8kaq44yhcp45mldjvldxck8f6yg6",
         "pool1szy2tdjj8a4av365wk3q2fqg9srllmt0383e6v9p664ng076x9e",
-        "pool1e6rjpsl42hsc52zc9s2awhv2df50yzw43xtc7d0vranpc9ej8uj",
         "pool1r650ja5y4jy7xd6srjz8ujkumy8xpk8kqgrxu92g3nwyk5jf4zq",
+        "pool1e6rjpsl42hsc52zc9s2awhv2df50yzw43xtc7d0vranpc9ej8uj",
         "pool16erldmmx5nvrwncujtp6lxs9tmvgxcpthd600pe6axm5z3p6522"
     ],
     "https://twitter.com/Beastlyorion": [
@@ -801,13 +803,17 @@
         "pool1mfyzxyggryp0jhgghvzas7qjdyz2rcfnm5rfq8s9uefvukrlps5",
         "pool1ylcl727memzjqypjaxg0jl0l40l3gy3vmtt0llwpjufwwdmptks"
     ],
+    "http://lucky777.io/": [
+        "pool1u4p03p6eextu3ge40f2za7lspjz5qkaw5lmqq6emx3qkqq6yjvr",
+        "pool1777xvdg0vydjp78cdcfrmpuqj28w3nuasf7h9a2f6cd4z990777"
+    ],
     "https://occam-x.fi": [
         "pool1xn63858ej0gcs4tkjm2e3a2fgjrecfxtvzq3465ypl8ywkx7gcv",
         "pool10le7rwlfg3t9646gm09jp05qg5kqvq3gvut4q2yaeu2ujncnh7w"
     ],
     "https://www.stakebowl.io": [
-        "pool166fpvc9lelw8pdvc4n3xeqns5ktkkmzu4plaen999fwy2xytgce",
         "pool18au4xxwcu552tjyxgyfssc95lwcf08g49z0ln5f7l060qh8r3wv",
+        "pool166fpvc9lelw8pdvc4n3xeqns5ktkkmzu4plaen999fwy2xytgce",
         "pool1w92z3lxwrycf3kmf075dja2fwem0luyjc4ysv2afh6sg554qjwn",
         "pool1ajpxqyq3p3aczgaxuc66lwtgzhrapzu6duk90dz0wz5twh9jzyw",
         "pool1x9tc05u8dqefrdyw9pgxn72szr7p2peyd7xgqs3l28s76f59c0y",
@@ -900,11 +906,6 @@
     ],
     "https://swimmingpoolop.github.io/pools/": [
         "pool1mxhq6etmemv3pdyycz2kxth3a8gdqnjewxgne67fqwlfgz6f7xa",
-        "pool1dghwejqptsjtf9k8paspg9rhl8humxx0nh7sk37j0ada2dr9mqh",
-        "pool16x765v3ge3th3dml6v7zrj4x7r6zlrtr7y5qa9ap7uzg7f50uu8",
-        "pool1fu64mttm7d8ljndu4hz68df5fkpsuuz3uj233wz3qpj0vfk9k4d",
-        "pool1d6k8r2hhczhfvfgddx72j0jzp4e823r9lknqpec4tux3ymlyeye",
-        "pool1nw0cj8zd2m6uu73msp7a5sjnht7ap3pe73kuqd7cjwsmzyhflex",
         "pool146842tr5vgq52vksmccp82ttelgk6vwy5804sknmx6slyrehm4y",
         "pool1fe49nfwktu8rhn3ysqz4he594nh8a9gkgg8hy3mtwrq4558rptz",
         "pool1u3lnayg0fwfzhkcrnula5teuhrf9vwfn3cu4p4k8peqrcdv6sfe",
@@ -917,7 +918,12 @@
         "pool1pmm654jfx088td54ekkkd0j28x6r5gnjdhnutzggursrxjnpk2y",
         "pool13mas2wthxs28zftxskcsd8t87jk2w9ntc0u5uflt45sh7lcvs8h",
         "pool1945aw7069upf9xpt6uvkctrj8uwju3q89f67e6g9mm2jx3xcy59",
-        "pool1rm20ecfxj8plt6509yzlc5x853s2twpjkmv8zt0pjtr9vhlmyhq"
+        "pool1rm20ecfxj8plt6509yzlc5x853s2twpjkmv8zt0pjtr9vhlmyhq",
+        "pool1dghwejqptsjtf9k8paspg9rhl8humxx0nh7sk37j0ada2dr9mqh",
+        "pool16x765v3ge3th3dml6v7zrj4x7r6zlrtr7y5qa9ap7uzg7f50uu8",
+        "pool1fu64mttm7d8ljndu4hz68df5fkpsuuz3uj233wz3qpj0vfk9k4d",
+        "pool1d6k8r2hhczhfvfgddx72j0jzp4e823r9lknqpec4tux3ymlyeye",
+        "pool1nw0cj8zd2m6uu73msp7a5sjnht7ap3pe73kuqd7cjwsmzyhflex"
     ],
     "https://www.emurgo.io/": [
         "pool1pmm654jfx088td54ekkkd0j28x6r5gnjdhnutzggursrxjnpk2y",
@@ -961,17 +967,17 @@
         "pool1jqnywskl2n92fx65thtew8zlj3vqfrqxz7zyj70tt7d3qmn0m9t",
         "pool1t6tyc9menh5uax38j89jgdyj0maz6e4mgx90n7xkcl7mu8fzqxu",
         "pool1lpw2wnj2vrc75fv7f4jnfzgkqvlrxlampz5nmduwve47xgnckns",
-        "pool10x7rsal3ldumkycuc7f7rslx3vc5axhz5jzwngfcg7hd6t2p7sc",
         "pool1lm89trd8cl36k8njlhgsemavry2jymnhddpvtk7fk7r7g4e3fep",
+        "pool10x7rsal3ldumkycuc7f7rslx3vc5axhz5jzwngfcg7hd6t2p7sc",
         "pool12xxugucen5pql0ay70uakgqjaxpwfj6c9py8euyu4q3p23s0fyg",
         "pool1nll5ghr8cdkl6ppnxpuk6c6vrg9d5kq3tp8d6xjdds5pct6pxj9",
         "pool1jsala5rdc0hjewcvu9dujcz8jpfxp7hadqr3r3hzs63skhhtpqs",
         "pool1nwv3c3q62lqcdgp7s0jtl4xldgfnjnt0szkdclk4tzjqzv6kv7n",
         "pool1me68mzk9kephj0yqya6xu9jefjvtg0dvmly3m9sy67cezrexalx",
-        "pool1aq6sd3kr3cnjk995tfthhyf0suth3rm547kp6pv35z7wgqu6twn",
+        "pool19mc6suzenqdvmq3ssf3nfzv4xva3wgl83z6syumccdppyar0vga",
         "pool1f4n4mdsv5ydxuc3y4tzgumqvfa8xxlyr8jl70qquama0ug2pmhf",
         "pool10xk8jp4m2cztf69x9gvg3j33x5drkrz2hulsjes29wktcfcxdls",
-        "pool19mc6suzenqdvmq3ssf3nfzv4xva3wgl83z6syumccdppyar0vga"
+        "pool1aq6sd3kr3cnjk995tfthhyf0suth3rm547kp6pv35z7wgqu6twn"
     ],
     "https://tvvin.com/": [
         "pool10vhns8fup6pe9xvjxf4w6h5y66tckgvtjy9ayld6mcg8vv4crdk",

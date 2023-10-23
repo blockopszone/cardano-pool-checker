@@ -2,6 +2,7 @@
 import ipaddress
 import json
 import os
+import re
 import socket
 import sys
 import time
@@ -380,6 +381,22 @@ class CardanoPoolChecker:
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_reward_addr.json", value)
 
+    @property
+    def classified_pools(self):
+        """Getter decorator for _classified_pools attribute.
+
+        Returns:
+            Any: Return classified pools.
+        """
+        return self._classified_pools
+
+    @classified_pools.setter
+    def classified_pools(self, value):
+        self._classified_pools = value
+        if self.CPC_SAVE_TO_DISK:
+            for rule in value:
+                self._save_json(rule, value[rule])
+
     @staticmethod
     def _is_valid_url(url: str) -> bool:
         return validators.url(url)
@@ -414,7 +431,7 @@ class CardanoPoolChecker:
         except socket.gaierror:
             return []
 
-    def _load_settings(self) -> None:
+    def _load_settings(self) -> None:  # noqa: PLR0912
         try:
             self.CPC_DATA_DIR = cpc_config.CPC_DATA_DIR
         except (NameError, AttributeError):
@@ -439,6 +456,37 @@ class CardanoPoolChecker:
             self.CPC_SAVE_TO_DISK = cpc_config.CPC_SAVE_TO_DISK
         except (NameError, AttributeError):
             self.CPC_SAVE_TO_DISK = True
+        try:
+            self.CPC_POOLS_URL = cpc_config.CPC_POOLS_URL
+        except (NameError, AttributeError):
+            self.CPC_POOLS_URL = (
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/"
+            )
+        try:
+            self.CPC_MSPO_RULES = cpc_config.CPC_MSPO_RULES
+        except (NameError, AttributeError):
+            self.CPC_MSPO_RULES = []
+        try:
+            self.CPC_MSPO_RULES_ALLOWED_KEYWORDS = cpc_config.CPC_MSPO_RULES_ALLOWED_KEYWORDS
+        except (NameError, AttributeError):
+            self.CPC_MSPO_RULES_ALLOWED_KEYWORDS = [
+                "and",
+                "or",
+                "www",
+                "mta",
+                "own",
+                "hst",
+                "ip4",
+                "ip6",
+                "rwd",
+                "wwwc",
+                "mtac",
+                "ownc",
+                "hstc",
+                "ip4c",
+                "ip6c",
+                "rwdc",
+            ]
 
     def _load_updates(self) -> None:
         try:
@@ -501,7 +549,7 @@ class CardanoPoolChecker:
 
     def info(self) -> None:
         """Print program information."""
-        print("\nCardano Pool Checker v.0.2.0\n")  # noqa: T201
+        print("\nCardano Pool Checker v.0.3.0\n")  # noqa: T201
 
     def update(self) -> None:
         """Update all the stake pools information in the "pools" directory.
@@ -535,6 +583,7 @@ class CardanoPoolChecker:
         self.set_register()
         self.set_translations()
         self.set_all_sharing()
+        self.set_classified_pools()
 
     @classmethod
     def build_pools(cls) -> list[dict[str, str | None]]:
@@ -1878,3 +1927,85 @@ class CardanoPoolChecker:
         print(  # noqa: T201
             f"[{current_time}] Found {len(self._registered_sharing_reward_addr)} entries for registered_sharing_reward_addr."
         )
+
+    def _is_rule_safe(self, rule: str) -> bool:
+        # The rule is invalid if contains something else than lowercase letters, uppercase letters, spaces, and parentheses
+        pattern = r"^[a-zA-Z0-9 ()]*$"
+        if bool(re.match(pattern, rule)) is False:
+            return False
+        # Filter the parentheses from the rule and check if all the words are allowed
+        filtered_rule = re.sub(r"[^a-zA-Z0-9\s]", "", rule)
+        allowed = self.CPC_MSPO_RULES_ALLOWED_KEYWORDS
+        words = filtered_rule.split()
+        # Return True if all words are allowed, otherwise return False
+        return all(word in allowed for word in words)
+
+    def _are_rule_vars_safe(self, my_vars: dict[str, bool]) -> bool:
+        allowed = self.CPC_MSPO_RULES_ALLOWED_KEYWORDS
+        # Return False if any key is a non allowed word or if values are not bool, otherwise return True
+        return all(not (not isinstance(my_vars[my_var], bool) or str(my_var) not in allowed) for my_var in my_vars)
+
+    def build_classified_pools(
+        self, pools_path: str, pools_list: list[dict[str, str]], config_rules: dict[str, str | dict[str, str]]
+    ) -> dict[str, list[dict[str, str | list[str]]]]:
+        """Builds lists of stake pools by classifying them using the provided rules.
+
+        Args:
+            pools_path (str): The path where the pool resources listings are stored.
+            pools_list (list[dict[str, str]]): The list of pools to classify.
+            config_rules (dict[str, str  |  dict[str, str]]): The rules to use for classifying.
+
+        Returns:
+            dict[str, list[dict[str, str|list[str]]]]: The classified lists of pools.
+        """
+        # Use a dictionary to store results for each rule
+        result_files = {}
+        # Get the allowed keywords in the rules definition
+        allowed = self.CPC_MSPO_RULES_ALLOWED_KEYWORDS
+        # Process each defined rule
+        for rule in config_rules:
+            matching_ids = []
+            non_matching_ids = []
+            for pool in pools_list:
+                id_value = pool["pool_id_bech32"]
+                reason = []
+                variables = {}
+                for var, filename in rule["files"].items():
+                    with open(os.path.join(pools_path, filename)) as file:
+                        file_content = json.load(file)
+                    variables[var] = id_value in str(file_content)
+                if self._is_rule_safe(rule["rule"]) and self._are_rule_vars_safe(variables):
+                    if eval(rule["rule"], variables):  # noqa: S307, PGH001
+                        for var in variables:
+                            if variables[var] and (var in allowed):
+                                reason.append(self.CPC_POOLS_URL + rule["files"].get(var))  # noqa: PERF401
+                        my_pool = pool.copy()
+                        my_pool["reason"] = reason
+                        matching_ids.append(my_pool)
+                    else:
+                        non_matching_ids.append(pool)
+            result_files[rule["matching_file"]] = matching_ids
+            result_files[rule["non_matching_file"]] = non_matching_ids
+        return result_files
+
+    def set_classified_pools(self) -> None:
+        """Update the classified_pools attribute."""
+        # Get the list of pools
+        try:
+            with open(os.path.join(os.path.dirname(__file__), self.CPC_DATA_DIR, self.CPC_POOLS_LIST_FILENAME)) as file:
+                pools_list = json.load(file)
+        except FileNotFoundError:
+            print("Pools list File not found.")  # noqa: T201
+        except OSError as exc:
+            msg = "Error reading the pools list file."
+            raise OSError(msg) from exc
+        # Get the classify rules
+        config_rules = self.CPC_MSPO_RULES
+        # Execute classify rules and set the attribute (optionally save to disk)
+        self.classified_pools = self.build_classified_pools(
+            os.path.join(os.path.dirname(__file__), self.CPC_DATA_DIR), pools_list, config_rules
+        )
+        # Show statistics
+        for rule in self.classified_pools:
+            current_time = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+            print(f"[{current_time}] Found {len(self.classified_pools[rule])} entries for {rule!s} rule.")  # noqa: T201

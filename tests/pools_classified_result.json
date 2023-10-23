@@ -1,0 +1,82 @@
+{
+    "registered_multi_stake_pool_operators_r1_result.json": [
+        {
+            "pool_id_bech32": "pool2222222222222222222222222222222222222222222222222222",
+            "ticker": "TWO",
+            "reason": [
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_url_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_owners_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv6_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_reward_addr_expected.json"
+            ]
+        },
+        {
+            "pool_id_bech32": "pool3333333333333333333333333333333333333333333333333333",
+            "ticker": "THREE",
+            "reason": [
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_url_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_owners_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv6_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_reward_addr_expected.json"
+            ]
+        }
+    ],
+    "registered_single_stake_pool_operators_r1_result.json": [
+        {
+            "pool_id_bech32": "pool1111111111111111111111111111111111111111111111111111",
+            "ticker": "ONES"
+        },
+        {
+            "pool_id_bech32": "pool4444444444444444444444444444444444444444444444444444",
+            "ticker": "FOUR"
+        }
+    ],
+    "registered_multi_stake_pool_operators_r2_result.json": [
+        {
+            "pool_id_bech32": "pool2222222222222222222222222222222222222222222222222222",
+            "ticker": "TWO",
+            "reason": [
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_owners_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_sharing_owners_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_sharing_relay_hostname_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv6_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_reward_addr_expected.json"
+            ]
+        },
+        {
+            "pool_id_bech32": "pool3333333333333333333333333333333333333333333333333333",
+            "ticker": "THREE",
+            "reason": [
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_owners_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_sharing_owners_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_sharing_relay_hostname_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv6_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_reward_addr_expected.json"
+            ]
+        },
+        {
+            "pool_id_bech32": "pool4444444444444444444444444444444444444444444444444444",
+            "ticker": "FOUR",
+            "reason": [
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_sharing_owners_expected.json",
+                "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_sharing_relay_hostname_expected.json"
+            ]
+        }
+    ],
+    "registered_single_stake_pool_operators_r2_result.json": [
+        {
+            "pool_id_bech32": "pool1111111111111111111111111111111111111111111111111111",
+            "ticker": "ONES"
+        }
+    ]
+}

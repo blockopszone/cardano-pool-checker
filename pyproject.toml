@@ -45,6 +45,9 @@ ignore = [
     # "TRY003",   # "Avoid specifying long messages outside the exception class"
 ]
 
+[tool.ruff.per-file-ignores]
+"cardano_pool_checker_config.py" = ["ERA001"]
+
 [tool.ruff.pydocstyle]
 convention = "google" # Accepts: "google", "numpy", or "pep257".
 

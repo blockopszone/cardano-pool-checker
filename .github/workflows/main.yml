@@ -51,7 +51,7 @@ jobs:
       - name: Update JSON files
         run: |
           source .venv/bin/activate
-          python cardano_pool_checker/__main__.py
+          python __main__.py
           git config --global user.email '${{ secrets.BOT_EMAIL }}'
           git config --global user.name 'blockopszone-bot'
           git add .

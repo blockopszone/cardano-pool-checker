@@ -2,14 +2,13 @@
 JSON-based collection of historical Cardano stake pool registration data, lists of multi pool operators by different criteria and associated maintenance tools.  
 
 ## Install and usage
-Please note that installing the software is optional since all the result JSON files are automatically updated in the repository on a daily basis and are ready for download. For instance, you can access a list of multi-stake pool operators, based on the site's criteria, at this location: https://github.com/blockopszone/cardano-pool-checker/blob/main/cardano_pool_checker/pools/registered_multi_stake_pool_operators.json, or you can integrate it into an external application or directly download it from the command line using the following command:
+Please note that installing the software is optional since all the result JSON files are automatically updated in the repository on a daily basis and are ready for download. For instance, you can access a list of multi-stake pool operators, based on the site's criteria, at this [location](https://github.com/blockopszone/cardano-pool-checker/blob/main/cardano_pool_checker/pools/registered_multi_stake_pool_operators.json), or you can integrate it into an external application or directly download it from the command line using the following command:
 ```
 curl https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_multi_stake_pool_operators.json
 ```
-You can also view the files that are live and available at this location:
-https://github.com/blockopszone/cardano-pool-checker/tree/main/cardano_pool_checker/pools
+You can also view the files that are live and available at this [location](https://github.com/blockopszone/cardano-pool-checker/tree/main/cardano_pool_checker/pools)
 
-If the site's criteria for defining a multi-stake pool operator do not meet your requirements, you have the option to submit a Pull Request (PR) in the repository and add your own criteria to the file: https://github.com/blockopszone/cardano-pool-checker/blob/main/cardano_pool_checker/cardano_pool_checker_config.py . The resultant files will then be published in the repository on a daily basis.
+If the site's criteria for defining a multi-stake pool operator do not meet your requirements, you have the option to submit a Pull Request (PR) in the repository and add your own criteria to the [config file](https://github.com/blockopszone/cardano-pool-checker/blob/main/cardano_pool_checker/cardano_pool_checker_config.py) . The resultant files will be published then in the repository on a daily basis.
 
 If, for any reason, your criteria are not accepted or if you prefer not to share them, or even if you need the lists updated more frequently than once a day, you can choose to install the package and run it locally. Below is an example of how to use the tool to generate the lists:
 ```
@@ -51,7 +50,7 @@ my_checker.update()
 ## FAQ
 
 ### What is the criteria of this repo to differentiate the multi stake pool operators?
-The criteria are defined as code in the file https://github.com/blockopszone/cardano-pool-checker/blob/main/cardano_pool_checker/cardano_pool_checker_config.py, making them intentionally publicly available to apply a full disclosure policy in contrast to some websites listing pools using opaque rules. Basically, we consider a multi-stake pool operator to be one that is **currently** registered and **currently** sharing any of the following: the relay hostname, relay IPv4, relay IPv6, the metadata URL, the website, some owner, or the reward address.
+The criteria are defined as code in the [config file](https://github.com/blockopszone/cardano-pool-checker/blob/main/cardano_pool_checker/cardano_pool_checker_config.py), making them intentionally publicly available to apply a full disclosure policy in contrast to some websites listing pools using opaque rules. Basically, we consider a multi-stake pool operator to be one that is ***currently*** registered and ***currently*** sharing any of the following: the relay hostname, relay IPv4, relay IPv6, the metadata URL, the website, some owner, or the reward address.
 
 ### Are pools sharing the same relay by using an IP address in one pool and a hostname that resolves to the same IP address in another pool detected?
 They should be, as the script maintains a translation table that stores not only the current hostname translations but also the previous ones. This information is used to compare with the IPv4 and IPv6 addresses and populate the files that track pools that are currently sharing or have ever shared.

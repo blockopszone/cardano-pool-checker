@@ -549,7 +549,7 @@ class CardanoPoolChecker:
 
     def info(self) -> None:
         """Print program information."""
-        print("\nCardano Pool Checker v.0.5.0\n")  # noqa: T201
+        print("\nCardano Pool Checker v1.0.0\n")  # noqa: T201
 
     def update(self) -> None:
         """Update all the stake pools information in the "pools" directory.

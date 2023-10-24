@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cardano-pool-checker"
-version = "0.5.0"
+version = "1.0.0"
 description = "JSON-based collection of historical Cardano stake pool registration data, lists of multi pool operators by different criteria and associated maintenance tools."
 authors = ["Josep M Homs <jmhoms@gmail.com>"]
 license = "GPL-3.0"

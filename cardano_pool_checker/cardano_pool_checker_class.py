@@ -80,7 +80,7 @@ class CardanoPoolChecker:
             self._translations = translations
 
     @property
-    def pools(self):
+    def pools(self) -> list[dict[str, str | None]]:
         """Getter decorator for _pools attribute.
 
         Returns:
@@ -89,13 +89,13 @@ class CardanoPoolChecker:
         return self._pools
 
     @pools.setter
-    def pools(self, value):
+    def pools(self, value: list[dict[str, str | None]]) -> None:
         self._pools = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json(self.CPC_POOLS_LIST_FILENAME, value)
 
     @property
-    def updates(self):
+    def updates(self) -> list[dict[str, Any]]:
         """Getter decorator for _updates attribute.
 
         Returns:
@@ -104,7 +104,7 @@ class CardanoPoolChecker:
         return self._updates
 
     @updates.setter
-    def updates(self, value):
+    def updates(self, value: list[dict[str, Any]]) -> None:
         if self._check_updates(value):
             self._updates = value
         else:
@@ -114,7 +114,7 @@ class CardanoPoolChecker:
             self._save_json(self.CPC_POOLS_UPDATES_FILENAME, value)
 
     @property
-    def register(self):
+    def register(self) -> list[Any]:
         """Getter decorator for _register attribute.
 
         Returns:
@@ -123,13 +123,13 @@ class CardanoPoolChecker:
         return self._register
 
     @register.setter
-    def register(self, value):
+    def register(self, value: list[Any]) -> None:
         self._register = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json(self.CPC_POOLS_REGISTER_FILENAME, value)
 
     @property
-    def translations(self):
+    def translations(self) -> dict[str, dict[str, dict[str, dict[str, dict[str, float]]]]]:
         """Getter decorator for _translations attribute.
 
         Returns:
@@ -138,7 +138,7 @@ class CardanoPoolChecker:
         return self._translations
 
     @translations.setter
-    def translations(self, value):
+    def translations(self, value: dict[str, dict[str, dict[str, dict[str, dict[str, float]]]]]) -> None:
         self._translations = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json(self.CPC_POOLS_DNS_TRANSLATIONS_FILENAME, value)
@@ -158,7 +158,7 @@ class CardanoPoolChecker:
         return int(last_block_time)
 
     @property
-    def registered_currently_sharing_relay_hostname(self):
+    def registered_currently_sharing_relay_hostname(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_currently_sharing_relay_hostname attribute.
 
         Returns:
@@ -168,13 +168,13 @@ class CardanoPoolChecker:
         return self._registered_currently_sharing_relay_hostname
 
     @registered_currently_sharing_relay_hostname.setter
-    def registered_currently_sharing_relay_hostname(self, value):
+    def registered_currently_sharing_relay_hostname(self, value: dict[str, list[str]]) -> None:
         self._registered_currently_sharing_relay_hostname = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_currently_sharing_relay_hostname.json", value)
 
     @property
-    def registered_currently_sharing_relay_ipv4(self):
+    def registered_currently_sharing_relay_ipv4(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_currently_sharing_relay_ipv4 attribute.
 
         Returns:
@@ -184,13 +184,13 @@ class CardanoPoolChecker:
         return self._registered_currently_sharing_relay_ipv4
 
     @registered_currently_sharing_relay_ipv4.setter
-    def registered_currently_sharing_relay_ipv4(self, value):
+    def registered_currently_sharing_relay_ipv4(self, value: dict[str, list[str]]) -> None:
         self._registered_currently_sharing_relay_ipv4 = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_currently_sharing_relay_ipv4.json", value)
 
     @property
-    def registered_currently_sharing_relay_ipv6(self):
+    def registered_currently_sharing_relay_ipv6(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_currently_sharing_relay_ipv6 attribute.
 
         Returns:
@@ -200,13 +200,13 @@ class CardanoPoolChecker:
         return self._registered_currently_sharing_relay_ipv6
 
     @registered_currently_sharing_relay_ipv6.setter
-    def registered_currently_sharing_relay_ipv6(self, value):
+    def registered_currently_sharing_relay_ipv6(self, value: dict[str, list[str]]) -> None:
         self._registered_currently_sharing_relay_ipv6 = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_currently_sharing_relay_ipv6.json", value)
 
     @property
-    def registered_currently_sharing_meta_json_homepage(self):
+    def registered_currently_sharing_meta_json_homepage(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_currently_sharing_meta_json_homepage attribute.
 
         Returns:
@@ -216,13 +216,13 @@ class CardanoPoolChecker:
         return self._registered_currently_sharing_meta_json_homepage
 
     @registered_currently_sharing_meta_json_homepage.setter
-    def registered_currently_sharing_meta_json_homepage(self, value):
+    def registered_currently_sharing_meta_json_homepage(self, value: dict[str, list[str]]) -> None:
         self._registered_currently_sharing_meta_json_homepage = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_currently_sharing_meta_json_homepage.json", value)
 
     @property
-    def registered_currently_sharing_meta_url(self):
+    def registered_currently_sharing_meta_url(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_currently_sharing_meta_url attribute.
 
         Returns:
@@ -232,13 +232,13 @@ class CardanoPoolChecker:
         return self._registered_currently_sharing_meta_url
 
     @registered_currently_sharing_meta_url.setter
-    def registered_currently_sharing_meta_url(self, value):
+    def registered_currently_sharing_meta_url(self, value: dict[str, list[str]]) -> None:
         self._registered_currently_sharing_meta_url = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_currently_sharing_meta_url.json", value)
 
     @property
-    def registered_currently_sharing_owners(self):
+    def registered_currently_sharing_owners(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_currently_sharing_owners attribute.
 
         Returns:
@@ -248,13 +248,13 @@ class CardanoPoolChecker:
         return self._registered_currently_sharing_owners
 
     @registered_currently_sharing_owners.setter
-    def registered_currently_sharing_owners(self, value):
+    def registered_currently_sharing_owners(self, value: dict[str, list[str]]) -> None:
         self._registered_currently_sharing_owners = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_currently_sharing_owners.json", value)
 
     @property
-    def registered_currently_sharing_reward_addr(self):
+    def registered_currently_sharing_reward_addr(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_currently_sharing_reward_addr attribute.
 
         Returns:
@@ -264,13 +264,13 @@ class CardanoPoolChecker:
         return self._registered_currently_sharing_reward_addr
 
     @registered_currently_sharing_reward_addr.setter
-    def registered_currently_sharing_reward_addr(self, value):
+    def registered_currently_sharing_reward_addr(self, value: dict[str, list[str]]) -> None:
         self._registered_currently_sharing_reward_addr = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_currently_sharing_reward_addr.json", value)
 
     @property
-    def registered_sharing_relay_hostname(self):
+    def registered_sharing_relay_hostname(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_sharing_relay_hostname attribute.
 
         Returns:
@@ -280,13 +280,13 @@ class CardanoPoolChecker:
         return self._registered_sharing_relay_hostname
 
     @registered_sharing_relay_hostname.setter
-    def registered_sharing_relay_hostname(self, value):
+    def registered_sharing_relay_hostname(self, value: dict[str, list[str]]) -> None:
         self._registered_sharing_relay_hostname = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_relay_hostname.json", value)
 
     @property
-    def registered_sharing_relay_ipv4(self):
+    def registered_sharing_relay_ipv4(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_sharing_relay_ipv4 attribute.
 
         Returns:
@@ -296,13 +296,13 @@ class CardanoPoolChecker:
         return self._registered_sharing_relay_ipv4
 
     @registered_sharing_relay_ipv4.setter
-    def registered_sharing_relay_ipv4(self, value):
+    def registered_sharing_relay_ipv4(self, value: dict[str, list[str]]) -> None:
         self._registered_sharing_relay_ipv4 = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_relay_ipv4.json", value)
 
     @property
-    def registered_sharing_relay_ipv6(self):
+    def registered_sharing_relay_ipv6(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_sharing_relay_ipv6 attribute.
 
         Returns:
@@ -312,13 +312,13 @@ class CardanoPoolChecker:
         return self._registered_sharing_relay_ipv6
 
     @registered_sharing_relay_ipv6.setter
-    def registered_sharing_relay_ipv6(self, value):
+    def registered_sharing_relay_ipv6(self, value: dict[str, list[str]]) -> None:
         self._registered_sharing_relay_ipv6 = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_relay_ipv6.json", value)
 
     @property
-    def registered_sharing_meta_json_homepage(self):
+    def registered_sharing_meta_json_homepage(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_sharing_meta_json_homepage attribute.
 
         Returns:
@@ -328,13 +328,13 @@ class CardanoPoolChecker:
         return self._registered_sharing_meta_json_homepage
 
     @registered_sharing_meta_json_homepage.setter
-    def registered_sharing_meta_json_homepage(self, value):
+    def registered_sharing_meta_json_homepage(self, value: dict[str, list[str]]) -> None:
         self._registered_sharing_meta_json_homepage = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_meta_json_homepage.json", value)
 
     @property
-    def registered_sharing_meta_url(self):
+    def registered_sharing_meta_url(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_sharing_meta_url attribute.
 
         Returns:
@@ -344,13 +344,13 @@ class CardanoPoolChecker:
         return self._registered_sharing_meta_url
 
     @registered_sharing_meta_url.setter
-    def registered_sharing_meta_url(self, value):
+    def registered_sharing_meta_url(self, value: dict[str, list[str]]) -> None:
         self._registered_sharing_meta_url = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_meta_url.json", value)
 
     @property
-    def registered_sharing_owners(self):
+    def registered_sharing_owners(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_sharing_owners attribute.
 
         Returns:
@@ -360,13 +360,13 @@ class CardanoPoolChecker:
         return self._registered_sharing_owners
 
     @registered_sharing_owners.setter
-    def registered_sharing_owners(self, value):
+    def registered_sharing_owners(self, value: dict[str, list[str]]) -> None:
         self._registered_sharing_owners = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_owners.json", value)
 
     @property
-    def registered_sharing_reward_addr(self):
+    def registered_sharing_reward_addr(self) -> dict[str, list[str]]:
         """Getter decorator for _registered_sharing_reward_addr attribute.
 
         Returns:
@@ -376,50 +376,50 @@ class CardanoPoolChecker:
         return self._registered_sharing_reward_addr
 
     @registered_sharing_reward_addr.setter
-    def registered_sharing_reward_addr(self, value):
+    def registered_sharing_reward_addr(self, value: dict[str, list[str]]) -> None:
         self._registered_sharing_reward_addr = value
         if self.CPC_SAVE_TO_DISK:
             self._save_json("registered_sharing_reward_addr.json", value)
 
     @property
-    def classified_pools(self):
+    def classified_pools(self) -> dict[str, list[dict[str, str | list[str]]]]:
         """Getter decorator for _classified_pools attribute.
 
         Returns:
-            Any: Return classified pools.
+            list[dict[str, str | list[str]]]: Return classified pools.
         """
         return self._classified_pools
 
     @classified_pools.setter
-    def classified_pools(self, value):
+    def classified_pools(self, value: dict[str, list[dict[str, str | list[str]]]]) -> None:
         self._classified_pools = value
         if self.CPC_SAVE_TO_DISK:
             for rule in value:
-                self._save_json(rule, value[rule])
+                self._save_json(str(rule), value[rule])
 
     @staticmethod
     def _is_valid_url(url: str) -> bool:
-        return validators.url(url)
+        return bool(validators.url(url))
 
     @staticmethod
-    def _is_reachable_url(url):
+    def _is_reachable_url(url: str) -> bool:
         http = urllib3.PoolManager()
-        success = 200
+        success: int = 200
         try:
             response = http.request("GET", url)
         except HTTPError:
             return False
         else:
-            return response.status == success
+            return int(response.status) == success
 
     @staticmethod
     def _unshorten_ipv6(address: str) -> str:
         try:
             ipv6 = ipaddress.IPv6Address(address)
         except ipaddress.AddressValueError:
-            return None
+            return "Invalid_IPv6"
         else:
-            return ipv6.exploded
+            return str(ipv6.exploded)
 
     @staticmethod
     def _resolve_a_records(hostname: str) -> list[str | Any]:
@@ -533,7 +533,7 @@ class CardanoPoolChecker:
             raise OSError(msg) from exc
 
     @staticmethod
-    def _download_json(url: str) -> list[Any | (dict[str, str] | dict[str, str | None])]:
+    def _download_json(url: str) -> Any:
         resp = http.request("GET", url)
         if str(resp.status) == "200":
             return json.loads(resp.data)
@@ -549,7 +549,7 @@ class CardanoPoolChecker:
 
     def info(self) -> None:
         """Print program information."""
-        print("\nCardano Pool Checker v.0.3.0\n")  # noqa: T201
+        print("\nCardano Pool Checker v.0.5.0\n")  # noqa: T201
 
     def update(self) -> None:
         """Update all the stake pools information in the "pools" directory.
@@ -664,7 +664,7 @@ class CardanoPoolChecker:
                     break
         return list(updates_list)
 
-    def set_updates(self, since: int | None = None):
+    def set_updates(self, since: int | None = None) -> None:
         """Update the updates attribute with new data coming from build_updates call.
 
         Args:
@@ -998,7 +998,7 @@ class CardanoPoolChecker:
         self,
         register: list[dict[str, Any]] | None = None,
         translations: dict[str, dict[str, dict[str, dict[str, dict[str, float]]]]] | None = None,
-    ):
+    ) -> None:
         """Update attributes for all the available lists of currently shared resources between pools.
 
         Args:
@@ -1019,7 +1019,7 @@ class CardanoPoolChecker:
         self,
         register: list[dict[str, Any]] | None = None,
         translations: dict[str, dict[str, dict[str, dict[str, dict[str, float]]]]] | None = None,
-    ):
+    ) -> None:
         """Update attributes for all the available lists of ever shared resources between pools.
 
         Args:
@@ -1052,7 +1052,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        hostnames = {}
+        hostnames: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1112,7 +1112,7 @@ class CardanoPoolChecker:
             translations = {}
         if register is None:
             register = []
-        ipv4_addresses = {}
+        ipv4_addresses: dict[str, list[str]] = {}
         # iterate the registered pools to create a list of values and the ids containing them
         if isinstance(register, list):
             registered_pools = [
@@ -1134,18 +1134,19 @@ class CardanoPoolChecker:
         # iterate the list of relay hostname translations to also look among the
         # recent (less than 4h) resolved IPs for sharing conditions
         if isinstance(translations, dict) and translations.get("4") is not None:
-            for _hostname, hostname_data in translations:
+            for hostname_data in translations.values():
                 if isinstance(hostname_data, dict) and hostname_data.get("4") is not None:
-                    for resolved_ip, resolved_ip_data in hostname_data["4"]:
+                    for resolved_ip, resolved_ip_data in hostname_data["4"].items():
                         if isinstance(resolved_ip_data, dict):
-                            for pool, pool_data in resolved_ip_data:
-                                if isinstance(pool_data, dict) and pool_data.get("last") is not None:  # noqa: SIM102
-                                    if pool_data["last"] > datetime.now(tz=timezone.utc) - timedelta(hours=4):
+                            for mypool, pool_data in resolved_ip_data.items():
+                                if isinstance(pool_data, dict) and pool_data.get("last") is not None:
+                                    last_datetime = datetime.fromtimestamp(pool_data["last"], tz=timezone.utc)
+                                    if last_datetime > datetime.now(tz=timezone.utc) - timedelta(hours=4):
                                         if resolved_ip in ipv4_addresses:
-                                            if pool is not None and pool not in ipv4_addresses[resolved_ip]:
-                                                ipv4_addresses[resolved_ip].append(pool)
+                                            if mypool is not None and mypool not in ipv4_addresses[resolved_ip]:
+                                                ipv4_addresses[resolved_ip].append(mypool)
                                         else:
-                                            ipv4_addresses[resolved_ip] = [pool]
+                                            ipv4_addresses[resolved_ip] = [mypool]
         # Filter the dictionary to include only the IPv4 addresses present in multiple pools
         return {value: value_pools for value, value_pools in ipv4_addresses.items() if len(value_pools) > 1}
 
@@ -1197,7 +1198,7 @@ class CardanoPoolChecker:
             translations = {}
         if register is None:
             register = []
-        ipv6_addresses = {}
+        ipv6_addresses: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a list of values and the ids containing them
             registered_pools = [
@@ -1221,19 +1222,20 @@ class CardanoPoolChecker:
         # iterate the list of relay hostname translations to also look among the
         # recent (less than 4h) resolved IPs for sharing conditions
         if isinstance(translations, dict) and translations.get("6") is not None:
-            for _hostname, hostname_data in translations:
+            for hostname_data in translations.values():
                 if isinstance(hostname_data, dict) and hostname_data.get("6") is not None:
-                    for resolved_ip, resolved_ip_data in hostname_data["6"]:
+                    for resolved_ip, resolved_ip_data in hostname_data["6"].items():
                         full_ipv6 = cls._unshorten_ipv6(resolved_ip)
                         if isinstance(resolved_ip_data, dict):
-                            for pool, pool_data in resolved_ip_data:
-                                if isinstance(pool_data, dict) and pool_data.get("last") is not None:  # noqa: SIM102
-                                    if pool_data["last"] > datetime.now(tz=timezone.utc) - timedelta(hours=4):
+                            for mypool, pool_data in resolved_ip_data.items():
+                                if isinstance(pool_data, dict) and pool_data.get("last") is not None:
+                                    last_datetime = datetime.fromtimestamp(pool_data["last"], tz=timezone.utc)
+                                    if last_datetime > datetime.now(tz=timezone.utc) - timedelta(hours=4):
                                         if full_ipv6 in ipv6_addresses:
-                                            if pool is not None and pool not in ipv6_addresses[full_ipv6]:
-                                                ipv6_addresses[full_ipv6].append(pool)
+                                            if mypool is not None and mypool not in ipv6_addresses[full_ipv6]:
+                                                ipv6_addresses[full_ipv6].append(mypool)
                                         else:
-                                            ipv6_addresses[full_ipv6] = [pool]
+                                            ipv6_addresses[full_ipv6] = [mypool]
         # Filter the dictionary to include only the IPv6 addresses present in multiple pools
         return {value: value_pools for value, value_pools in ipv6_addresses.items() if len(value_pools) > 1}
 
@@ -1278,7 +1280,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        homepages = {}
+        homepages: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a list of values and the ids containing them
             registered_pools = [
@@ -1336,7 +1338,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        meta_urls = {}
+        meta_urls: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a list of values and the ids containing them
             registered_pools = [
@@ -1384,7 +1386,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        owners = {}
+        owners: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a list of values and the ids containing them
             registered_pools = [
@@ -1432,7 +1434,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        addresses = {}
+        addresses: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a list of values and the ids containing them
             registered_pools = [
@@ -1482,7 +1484,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        hostnames = {}
+        hostnames: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1545,7 +1547,7 @@ class CardanoPoolChecker:
             translations = {}
         if register is None:
             register = []
-        ipv4_addresses = {}
+        ipv4_addresses: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1572,16 +1574,16 @@ class CardanoPoolChecker:
         # iterate the list of relay hostname translations to also look among the
         # resolved IPs for sharing conditions
         if isinstance(translations, dict) and translations.get("4") is not None:
-            for _hostname, hostname_data in translations:
+            for hostname_data in translations.values():
                 if isinstance(hostname_data, dict) and hostname_data.get("4") is not None:
-                    for resolved_ip, resolved_ip_data in hostname_data["4"]:
+                    for resolved_ip, resolved_ip_data in hostname_data["4"].items():
                         if isinstance(resolved_ip_data, dict) == dict:
-                            for pool in resolved_ip_data:
+                            for mypool in resolved_ip_data:
                                 if resolved_ip in ipv4_addresses:
-                                    if pool is not None and pool not in ipv4_addresses[resolved_ip]:
-                                        ipv4_addresses[resolved_ip].append(pool)
+                                    if mypool is not None and mypool not in ipv4_addresses[resolved_ip]:
+                                        ipv4_addresses[resolved_ip].append(mypool)
                                 else:
-                                    ipv4_addresses[resolved_ip] = [pool]
+                                    ipv4_addresses[resolved_ip] = [mypool]
         # Filter the dictionary to include only the IPv4 addresses present in multiple pools
         return {value: value_pools for value, value_pools in ipv4_addresses.items() if len(value_pools) > 1}
 
@@ -1631,7 +1633,7 @@ class CardanoPoolChecker:
             translations = {}
         if register is None:
             register = []
-        ipv6_addresses = {}
+        ipv6_addresses: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1660,17 +1662,17 @@ class CardanoPoolChecker:
         # iterate the list of relay hostname translations to also look among the
         # resolved IPs for sharing conditions
         if isinstance(translations, dict) and translations.get("6") is not None:
-            for _hostname, hostname_data in translations:
+            for hostname_data in translations.values():
                 if isinstance(hostname_data, dict) and hostname_data.get("6") is not None:
-                    for resolved_ip, resolved_ip_data in hostname_data["6"]:
+                    for resolved_ip, resolved_ip_data in hostname_data["6"].items():
                         full_ipv6 = cls._unshorten_ipv6(resolved_ip)
                         if isinstance(resolved_ip_data, dict):
-                            for pool in resolved_ip_data:
+                            for mypool in resolved_ip_data:
                                 if full_ipv6 in ipv6_addresses:
-                                    if pool is not None and pool not in ipv6_addresses[full_ipv6]:
-                                        ipv6_addresses[full_ipv6].append(pool)
+                                    if mypool is not None and mypool not in ipv6_addresses[full_ipv6]:
+                                        ipv6_addresses[full_ipv6].append(mypool)
                                 else:
-                                    ipv6_addresses[full_ipv6] = [pool]
+                                    ipv6_addresses[full_ipv6] = [mypool]
         # Filter the dictionary to include only the IPv6 addresses present in multiple pools
         return {value: value_pools for value, value_pools in ipv6_addresses.items() if len(value_pools) > 1}
 
@@ -1713,7 +1715,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        homepages = {}
+        homepages: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1774,7 +1776,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        urls = {}
+        urls: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1833,7 +1835,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        owners = {}
+        owners: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1888,7 +1890,7 @@ class CardanoPoolChecker:
         # init result dict
         if register is None:
             register = []
-        addresses = {}
+        addresses: dict[str, list[str]] = {}
         if isinstance(register, list):
             # iterate the registered pools to create a dict with values and a list with the ids containing them
             registered_pools = [
@@ -1945,15 +1947,18 @@ class CardanoPoolChecker:
         # Return False if any key is a non allowed word or if values are not bool, otherwise return True
         return all(not (not isinstance(my_vars[my_var], bool) or str(my_var) not in allowed) for my_var in my_vars)
 
-    def build_classified_pools(
-        self, pools_path: str, pools_list: list[dict[str, str]], config_rules: dict[str, str | dict[str, str]]
+    def build_classified_pools(  # noqa: C901
+        self,
+        pools_path: str,
+        pools_list: list[dict[str, str | list[str]]],
+        config_rules: list[dict[str, str | dict[str, str]]],
     ) -> dict[str, list[dict[str, str | list[str]]]]:
         """Builds lists of stake pools by classifying them using the provided rules.
 
         Args:
             pools_path (str): The path where the pool resources listings are stored.
-            pools_list (list[dict[str, str]]): The list of pools to classify.
-            config_rules (dict[str, str  |  dict[str, str]]): The rules to use for classifying.
+            pools_list (list[dict[str, str | list[str]]]): The list of pools to classify.
+            config_rules (list[dict[str, str  |  dict[str, str]]]): The rules to use for classifying.
 
         Returns:
             dict[str, list[dict[str, str|list[str]]]]: The classified lists of pools.
@@ -1967,25 +1972,32 @@ class CardanoPoolChecker:
             matching_ids = []
             non_matching_ids = []
             for pool in pools_list:
-                id_value = pool["pool_id_bech32"]
+                if isinstance(pool["pool_id_bech32"], str):
+                    id_value = pool["pool_id_bech32"]
                 reason = []
                 variables = {}
-                for var, filename in rule["files"].items():
-                    with open(os.path.join(pools_path, filename)) as file:
-                        file_content = json.load(file)
-                    variables[var] = id_value in str(file_content)
-                if self._is_rule_safe(rule["rule"]) and self._are_rule_vars_safe(variables):
+                if isinstance(rule["files"], dict):
+                    for var, filename in rule["files"].items():
+                        with open(os.path.join(pools_path, filename)) as file:
+                            file_content = json.load(file)
+                        variables[var] = id_value in str(file_content)
+                if (
+                    isinstance(rule["rule"], str)
+                    and self._is_rule_safe(rule["rule"])
+                    and self._are_rule_vars_safe(variables)
+                ):
                     if eval(rule["rule"], variables):  # noqa: S307, PGH001
                         for var in variables:
-                            if variables[var] and (var in allowed):
-                                reason.append(self.CPC_POOLS_URL + rule["files"].get(var))  # noqa: PERF401
+                            if variables[var] and (var in allowed) and isinstance(rule["files"], dict):
+                                reason.append(self.CPC_POOLS_URL + str(rule["files"].get(var)))  # noqa: PERF401
                         my_pool = pool.copy()
                         my_pool["reason"] = reason
                         matching_ids.append(my_pool)
                     else:
                         non_matching_ids.append(pool)
-            result_files[rule["matching_file"]] = matching_ids
-            result_files[rule["non_matching_file"]] = non_matching_ids
+            if isinstance(rule["matching_file"], str) and isinstance(rule["non_matching_file"], str):
+                result_files[rule["matching_file"]] = matching_ids
+                result_files[rule["non_matching_file"]] = non_matching_ids
         return result_files
 
     def set_classified_pools(self) -> None:

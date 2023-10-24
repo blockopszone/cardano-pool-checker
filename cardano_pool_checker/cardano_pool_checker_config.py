@@ -10,7 +10,7 @@ CPC_POOLS_URL: str = (
     "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/"
 )
 # Multi Stake Pool Operators definitions
-CPC_MSPO_RULES = [
+CPC_MSPO_RULES: list[dict[str, str | dict[str, str]]] = [
     {
         # cardano-pool-checker default definition
         "rule": "wwwc or mtac or ownc or hstc or ip4c or ip6c or rwdc",
@@ -43,7 +43,7 @@ CPC_MSPO_RULES = [
 ]
 
 # Keywords allowed inside the rules definition.
-CPC_MSPO_RULES_ALLOWED_KEYWORDS = [
+CPC_MSPO_RULES_ALLOWED_KEYWORDS: list[str] = [
     "and",
     "or",
     "www",

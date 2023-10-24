@@ -4,7 +4,7 @@
 from cardano_pool_checker.cardano_pool_checker_class import CardanoPoolChecker
 
 
-def main():
+def main() -> None:
     """Run the main entry point of the program.
 
     This function is responsible for initializing the application,

@@ -1115,6 +1115,14 @@
         "pool10d6mmw3mn9ku3r7uqqye672dz3sv76lh5kvh5rdpr9l5ug5yknr",
         "pool1gaztx97t53k47fr7282d70tje8323vvzx8pshgts30t9krw62tm"
     ],
+    "mainnet-cardano-relayer-2.cardano.mainnet.kiln.fi": [
+        "pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k",
+        "pool1fcp4d2pxh0e7q5ju63sjqcdpxpr3pvxg6ykl23t6c97d7dnvjvw",
+        "pool1v62c7d92xv6gyh4x9rhfpkwzlpw2ypxk92xvzavakg3xypatklv",
+        "pool1mtxmk0skqkr5y0wxnxps4n35j6wn9q8dfr82y423vvlp53vccux",
+        "pool10d6mmw3mn9ku3r7uqqye672dz3sv76lh5kvh5rdpr9l5ug5yknr",
+        "pool1gaztx97t53k47fr7282d70tje8323vvzx8pshgts30t9krw62tm"
+    ],
     "relay1.tlaib.com": [
         "pool1yw05sn4p9972p6lsdw9g4twvwxdf72rqtfuvwn0wp736vh4azfn",
         "pool10fsg5ykzcjuzq5fzm9vj6d3yd0jjqgg6qnza6u8wtq0677vam2t"
@@ -1170,9 +1178,5 @@
         "pool1lf2u2m27y9lsu342xvmyxjfvuyzua487whmddt883kmay4mxjeg",
         "pool1lfwwrwm3hrrv0s0ttf8t23p65xru35f7lvty8q0dhq90wudsp66",
         "pool1kttdj98xlssts4kzwyvsuj905f30q096ptzcses2ze25ca9uerx"
-    ],
-    "mainnet-cardano-relayer-2.cardano.mainnet.kiln.fi": [
-        "pool10d6mmw3mn9ku3r7uqqye672dz3sv76lh5kvh5rdpr9l5ug5yknr",
-        "pool1gaztx97t53k47fr7282d70tje8323vvzx8pshgts30t9krw62tm"
     ]
 }

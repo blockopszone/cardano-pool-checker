@@ -702,6 +702,14 @@
         "pool1ksh2u6kktx74ugv8jadrdqttwyjz9074ke82xt6j0qgfvdn43a5",
         "pool1wnshjhwqv9j7fgd4tkynpsqr0xczns4pghljy5j4z4qjj7qy4d4"
     ],
+    "relay-de1.topopool.com": [
+        "pool1nhd907krga9dh69kf0jg4tl0764rravepy337gptvsknxyyx94k",
+        "pool137j9xuzycq4jxfpsmjnc75w2wnpz68khlwvsh69kt5negg6ldhg"
+    ],
+    "relay-us1.topopool.com": [
+        "pool1nhd907krga9dh69kf0jg4tl0764rravepy337gptvsknxyyx94k",
+        "pool137j9xuzycq4jxfpsmjnc75w2wnpz68khlwvsh69kt5negg6ldhg"
+    ],
     "relays.goldcoaststaking.com": [
         "pool1qqqq58jy30weq2an3px3maljdmawcwh6ml4hr8m9euq9z2n7wyz",
         "pool1qqqq02jxq3q9j93devp9pts90ctm8w3r0rgek97ngujpjgpw46j"

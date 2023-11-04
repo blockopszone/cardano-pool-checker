@@ -441,6 +441,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool12uu4d74fut72kav7ltxf8ut7w9hzey2k0ee0z9r92f3hjpw73ay",
+        "ticker": "PRX",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool12v7aukl49ehf9ysagq960ek26jeywnq3yzv5hgl4ecvhvyax5p6",
         "ticker": "WIN",
         "reason": [
@@ -2044,7 +2051,7 @@
     },
     {
         "pool_id_bech32": "pool1c55n72ag3tz8g7rntzuu9a86u7eugsy008xl3xsje8kwgvz2vdz",
-        "ticker": "EMUR4",
+        "ticker": null,
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
         ]

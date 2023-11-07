@@ -1900,13 +1900,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool19zhl50qqzpfvvhdytqg6qx0cthummjyunfyvkfqx9uxrsp7k8ek",
-        "ticker": "BKV",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool1a2nh3ktswllhwf07fjahpdg5mpqyq7j950pyftq9765r6t4cefl",
         "ticker": "OCEAN",
         "reason": [
@@ -3648,7 +3641,6 @@
         "pool_id_bech32": "pool1ksz6vfc4xqdxyhp06h4n7kckh60370cy2t6m3wfgdxtug7ph4x0",
         "ticker": "ARF2",
         "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
         ]
     },
@@ -5414,13 +5406,6 @@
         "ticker": "MANA",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
-        ]
-    },
-    {
-        "pool_id_bech32": "pool1tx6e7gewsrcceejwpa69vrhlhay6862amaks095pmw9jxulwhvx",
-        "ticker": "BLACK",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
         ]
     },
     {

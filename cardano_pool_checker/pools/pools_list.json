@@ -6037,7 +6037,7 @@
     },
     {
         "pool_id_bech32": "pool1h9jr0f9evk3raxlljq6mt4gj7ej4v82afvnlc2wh28rwy2d8lsy",
-        "ticker": "BAG"
+        "ticker": "ENX"
     },
     {
         "pool_id_bech32": "pool1ha4z9zne9z7he43qf0tzv9pdq8cdj63xfrj8s246u89lkcwmq7w",
@@ -9936,10 +9936,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1t3r5pxfpy6rkylenh64dc43uncsddrxp2e55dr2pzv66zh5hp6f",
-        "ticker": "GROK"
-    },
-    {
         "pool_id_bech32": "pool1t3xele4dr85qz797gv9n4gdcwtcmsv9wvn9jyavxhpc3qzu50fx",
         "ticker": null
     },
@@ -10418,10 +10414,6 @@
     {
         "pool_id_bech32": "pool1ua5exfeju4jc95yy595cykjh4x46998g8hrrvw2v5h9k7987a44",
         "ticker": "UPBIT"
-    },
-    {
-        "pool_id_bech32": "pool1uaa3le5zjzjtzacvglgv9sha2pz8zlegl8udy9z8lhddcgufzlx",
-        "ticker": "GIR"
     },
     {
         "pool_id_bech32": "pool1uae2f4eg8mhzuur43w9l8vpk4dur58w600x0cy2ef5angazhg3x",

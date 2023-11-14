@@ -3009,7 +3009,7 @@
     },
     {
         "pool_id_bech32": "pool1ccyfxwl4nfy0whmcmhxwn066lnrguja33ayjrg2mkdvqxkuzhne",
-        "ticker": "BOLEH"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1cd7u9yenr0vkzh9kj7nhhy28ye289muhcdgnhyvz7r3z7jwcxl9",
@@ -3317,7 +3317,7 @@
     },
     {
         "pool_id_bech32": "pool1dl4695wfl79k7gtzt87gsf8gsqeq97yzuvaq0d4zxhz6c0nlf4g",
-        "ticker": "BD2"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1dlzpcfmnn727lfsav0x8jmdwjz70sy429xfxjwnzk7r9wm6stws",
@@ -3377,7 +3377,7 @@
     },
     {
         "pool_id_bech32": "pool1dswpls43u0s6cpt0dh2d6npm0rnxh5qcjm9xax9y6fp3uq880xm",
-        "ticker": "RELAY"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1dts0h87pntgmsffp6mjtnahfht2dz5zjjeeujhzmtn6wgctcuzd",
@@ -3741,7 +3741,7 @@
     },
     {
         "pool_id_bech32": "pool1f297l6rl99h5v56x48j4pgza70ya3lm37yzu0njpcnsljqdd4dl",
-        "ticker": "DACH"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1f2pf8da5vxq8mams3gdqhs2m2yk8wngdesu0cjxkpd9jk7a5v0m",
@@ -3777,7 +3777,7 @@
     },
     {
         "pool_id_bech32": "pool1f6ltd3rd3e69klr32r0xw7h59lc76lhc9l705d380lj76d926du",
-        "ticker": "MTSK"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1f6zwfx8a8pnfusuv7fj8h8uusln49sl45hdpzfz7965ag00wycf",
@@ -3785,7 +3785,7 @@
     },
     {
         "pool_id_bech32": "pool1f9934hk9awd25mmxl0dd2haqvda9nlquwnh5pv64hs42znl07zj",
-        "ticker": "BD5"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1f9hmg8geal90dfsz3jph2uddj080w5s4ugykl0pktud26dd82s4",
@@ -3821,7 +3821,7 @@
     },
     {
         "pool_id_bech32": "pool1ff2hr0sukqqd75jr2rh3wrmnesxqgpq42dgd6rm3ungnqp904ue",
-        "ticker": "BD3"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1ff8xnapzllnlwh3zevzktqmjx5dhq2uxxz4e4xnu878xqgmfghx",
@@ -4477,7 +4477,7 @@
     },
     {
         "pool_id_bech32": "pool1haus36sw7cwyg8jdeg882mentse5txac7fmeew8ketuwky6q602",
-        "ticker": "BD1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1hd5r62ktu43k53tskpr8xja8pyt5k6vws2fxylqm7hp5ye954ea",
@@ -4949,7 +4949,7 @@
     },
     {
         "pool_id_bech32": "pool1k6u3rdl30ruf85q3jpzcfyq4ta0umrxdlt30rcpxqqasumcnkgu",
-        "ticker": "DEVIO"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1k7asvr2vd28jxw25fsh9pxckt5ykadhn8ua4x88vu39dzquvqvh",
@@ -5101,7 +5101,7 @@
     },
     {
         "pool_id_bech32": "pool1knwd92dnngrypyvj3egguuxtl8g8elxarlvaqsyjewvh7sjla2g",
-        "ticker": "ADAG"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kprt6l4quz03dhqx8jw22spdjvp5dkshdnn567vlexqkj35hd8a",
@@ -5629,7 +5629,7 @@
     },
     {
         "pool_id_bech32": "pool1mfyzxyggryp0jhgghvzas7qjdyz2rcfnm5rfq8s9uefvukrlps5",
-        "ticker": "BD6"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1mg37s4w4uzsmw27nsnz2mwfll8sdawngvy3n657t7nd0yjcd77e",
@@ -6105,7 +6105,7 @@
     },
     {
         "pool_id_bech32": "pool1p8ap6v2k60kkav3hqcchwltxhuwpfw2qtj8txcw4scp76hdvgmc",
-        "ticker": null
+        "ticker": "JNGL"
     },
     {
         "pool_id_bech32": "pool1p8cgpwp63e08jsckma4y83x4ehc3ynt0tuameh99hmreg0hf7mx",
@@ -6681,7 +6681,7 @@
     },
     {
         "pool_id_bech32": "pool1qznyv8g4vxv8ys05rs6dgtzutqc2z9gs6vq85vkn8uq8u0c83we",
-        "ticker": "ADAX1"
+        "ticker": "ONE\u2764\ufe0f"
     },
     {
         "pool_id_bech32": "pool1qzz0flh92qkg0mjufaw9j2zk72lmvf5n2kuaslk4f8j4ze362w4",
@@ -6909,7 +6909,7 @@
     },
     {
         "pool_id_bech32": "pool1rrzlme4g2r49x7tcesdkuk5wqv5ks2dkq3ptapgnclgvkcxy9sc",
-        "ticker": null
+        "ticker": "DDP"
     },
     {
         "pool_id_bech32": "pool1rscmngzy9mzyy98kl7h38scshgmk4cw0cs6ed58mq68mw4uustm",
@@ -7065,7 +7065,7 @@
     },
     {
         "pool_id_bech32": "pool1sef3gznduge5q2e5wcjzav2nuk7nv07t49wsa8y0wy8m2fhjfj9",
-        "ticker": null
+        "ticker": "MV100"
     },
     {
         "pool_id_bech32": "pool1sf784g6eje8vzq9f5wu583eurhfq2ee9hzyhl46yezkuqqtmw07",
@@ -7261,7 +7261,7 @@
     },
     {
         "pool_id_bech32": "pool1t6ek99u2dzj8sr606uqm3uz0tt4ejr4cpvwtqfwen6p2z57rrst",
-        "ticker": null
+        "ticker": "BD0"
     },
     {
         "pool_id_bech32": "pool1t6mnkhwj99hm0ckt8fkf85r84le9p95v2a3l874vfn947g5ajmu",
@@ -7705,7 +7705,7 @@
     },
     {
         "pool_id_bech32": "pool1uu5ve3qdv7zxpmger77u0kw7pm8l4apmgr5xy6wspceayl05vsd",
-        "ticker": null
+        "ticker": "COOLP"
     },
     {
         "pool_id_bech32": "pool1uup47u5lmet469pmaym077hvewcp30larj9ugap8580uya3rtuw",
@@ -8333,7 +8333,7 @@
     },
     {
         "pool_id_bech32": "pool1wwjj0tcr6w9nvk0jpvnrqq9p7ukn7wux0h669wcw25t0zmx3zfh",
-        "ticker": null
+        "ticker": "5HARE"
     },
     {
         "pool_id_bech32": "pool1wwzctexlp70mj00vv65mlhwhwresn58s9x7jl4tswvkg77eu7n7",
@@ -8569,7 +8569,7 @@
     },
     {
         "pool_id_bech32": "pool1xt2nyju82ea3pz33e5sqwgjx05ks623tkmuw8jvlca3kzmz9mud",
-        "ticker": "KNB"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1xucruwwxsym3u9v0m4ex3az5d4vpz9xu877vsl9udpt0q237e9m",
@@ -8617,7 +8617,7 @@
     },
     {
         "pool_id_bech32": "pool1xzsckz6hd64pnle2c88e3gccccyfs7w6eauxuffpcc5sx2mtekx",
-        "ticker": "ITRG"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1xzu4pva0k4y6geukd9uvvl3t3s8q8alzwahf575y5fj6cnkd5y2",
@@ -8773,7 +8773,7 @@
     },
     {
         "pool_id_bech32": "pool1yrqqa03ea5fdh5hnap99k4actjtj6ypeeauuwrvf8d3zw9ywvye",
-        "ticker": null
+        "ticker": "NODO"
     },
     {
         "pool_id_bech32": "pool1yrycp4fjyd0al60xw826jdju35zazqmfny53r07efucuvlvnej7",
@@ -8869,7 +8869,7 @@
     },
     {
         "pool_id_bech32": "pool1z2m3n779dyqjat2m8a5vl94nrl43xm2tlk8dtey6txggx0a6fyp",
-        "ticker": null
+        "ticker": "BIG"
     },
     {
         "pool_id_bech32": "pool1z39sker5renxhep9m7z8aae2yh56940gwykptfcf053473mwy8t",

@@ -1575,6 +1575,10 @@
         "pool1ekyuhd48h9nnymqpx0c00taz6ygnsge4502r7e67clp7zy9cegv",
         "pool1v8pu7txqydjmfhusgrfzvan4pragec3wu066cfmq2xpuvm2m8r5"
     ],
+    "relays.mainnet.pools.fivebinaries.com": [
+        "pool1z5rt6kn6yvuczj44qla73mfyln9l55lw0jkz6x4kjw00u32zec3",
+        "pool1z9m2kxeat06t30yf6ar7sqpert0cjdgxzcv2dv36dcwcqcqtgk4"
+    ],
     "cardano.staking.copper.co": [
         "pool146fn2mcz0f9npcuqwvr3xjn93840jzueja973uc03xkqvl2w36c",
         "pool1vresred49vtwxm87v0gg0dxfrdhfv6rz826u36ts9a60unw2nrk",

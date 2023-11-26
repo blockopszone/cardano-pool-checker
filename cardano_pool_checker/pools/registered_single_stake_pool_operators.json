@@ -1365,7 +1365,7 @@
     },
     {
         "pool_id_bech32": "pool15zn2lqq4849ujttuthaycpamnyr8ae9k2pn2fkrlfzzsx4ek0tc",
-        "ticker": "THC"
+        "ticker": "LABO"
     },
     {
         "pool_id_bech32": "pool15zrj43nldc357nas0g7glm09wqhtyexxs64skq52mtg6sdrsjzd",
@@ -2030,6 +2030,10 @@
     {
         "pool_id_bech32": "pool189ysyxejgdu0d5u323cajq40ec6wsacq3yav3ul7fdxs6mhdhr0",
         "ticker": "PIE"
+    },
+    {
+        "pool_id_bech32": "pool18a8vhtlcz7t0mahmfdlgtpsspvae62egz936j3dt7f9ykr4j2av",
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool18aklqwussc7j6y9nap8vxst4ht8s6sv76ge9799rzv3lcrau7yg",

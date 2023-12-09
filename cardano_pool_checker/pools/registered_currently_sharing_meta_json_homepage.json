@@ -133,21 +133,9 @@
         "pool1ffrre548h22n68ln29xph3qezrag3z8ad0kg8yzu6epds3qr58k",
         "pool1xaudqyen24fz02vhu9qa2ry44suzfk8z3lh7sc6qx7c3gpweww2"
     ],
-    "https://wavepool.digital": [
-        "pool1g5gmej3cj67td4pmvmacnls8nuq0gjld2pwfeg3jwpxujdx6lmu",
-        "pool10kya8ug3wr6cwnzm0qdcppjtuwfwmnvusu2uenscz4dg7pl07qv",
-        "pool1u99x2rr6trfznwakv0959llmxmtgc2nvanc067uugl3ejuvvnc8",
-        "pool1840k62s50neuj7hdp4l2julx49dtm72z25p9hh68pjvqjhhw602",
-        "pool19hrn8me383w9atvmjwukjxqsdvr8udpmyxau956hdc53x669j8p",
-        "pool17jss6muzegagwnlju4t0mxsk875eu6r0uwr7mfamf2xcvrwk4tc"
-    ],
     "https://xstakepool.com": [
         "pool10zyf32q3w3n9x940j6yqgkwuegzn77p94wcmpku6gvmrqw8a97d",
         "pool14fjmlppz76667ws3jl5luejf2wgztuhpsftulvh3ucc65anqgve"
-    ],
-    "https://skylightpool.com": [
-        "pool1vafsg5t78rnx3qr3fv7ys9h50pnvxqhd4l8tj629l5zk7tc39ch",
-        "pool14atewgzlv6nl2e8k3ndrzwt9y07sepuplj9vuxk3trzzj5lmg64"
     ],
     "https://cardanoland.com": [
         "pool1pshqcksxywy68lt04lw6uf35f4yssekh5dx2mxqmyrukke2z5y3",
@@ -644,6 +632,13 @@
         "pool1mh4ng2ldxk4sqfppzu6r4knxrk6e87e9c4wgrred84uy7xauzlh",
         "pool1jq7r3evstu2c040vlry8tgvpwf0mfvft86cxecwjpwcuvvqfu2r",
         "pool1yvf4nxph69ztm0tgj73ummxq45kfjhecyad26e3xc2002xgzalg"
+    ],
+    "https://wavepool.digital": [
+        "pool10kya8ug3wr6cwnzm0qdcppjtuwfwmnvusu2uenscz4dg7pl07qv",
+        "pool1u99x2rr6trfznwakv0959llmxmtgc2nvanc067uugl3ejuvvnc8",
+        "pool1840k62s50neuj7hdp4l2julx49dtm72z25p9hh68pjvqjhhw602",
+        "pool19hrn8me383w9atvmjwukjxqsdvr8udpmyxau956hdc53x669j8p",
+        "pool17jss6muzegagwnlju4t0mxsk875eu6r0uwr7mfamf2xcvrwk4tc"
     ],
     "https://wavegp.com": [
         "pool14ga04y2dec7vmahzstd2c5mjsw7vq0v62mwclqynvy2wsc5g40p",

@@ -247,6 +247,7 @@
     ],
     "relays.wavepool.digital": [
         "pool1g5gmej3cj67td4pmvmacnls8nuq0gjld2pwfeg3jwpxujdx6lmu",
+        "pool1vafsg5t78rnx3qr3fv7ys9h50pnvxqhd4l8tj629l5zk7tc39ch",
         "pool1axzm26vduyuxgw0x9ddh4vkvn7q5hyd558l0t9c08p556lf2zaj",
         "pool10kya8ug3wr6cwnzm0qdcppjtuwfwmnvusu2uenscz4dg7pl07qv",
         "pool1u99x2rr6trfznwakv0959llmxmtgc2nvanc067uugl3ejuvvnc8",
@@ -280,10 +281,6 @@
     "relay4-ae.xstakepool.com": [
         "pool10zyf32q3w3n9x940j6yqgkwuegzn77p94wcmpku6gvmrqw8a97d",
         "pool14fjmlppz76667ws3jl5luejf2wgztuhpsftulvh3ucc65anqgve"
-    ],
-    "relays.skylightpool.com": [
-        "pool1vafsg5t78rnx3qr3fv7ys9h50pnvxqhd4l8tj629l5zk7tc39ch",
-        "pool14atewgzlv6nl2e8k3ndrzwt9y07sepuplj9vuxk3trzzj5lmg64"
     ],
     "ACLrelay1.cardanoland.com": [
         "pool1pshqcksxywy68lt04lw6uf35f4yssekh5dx2mxqmyrukke2z5y3",

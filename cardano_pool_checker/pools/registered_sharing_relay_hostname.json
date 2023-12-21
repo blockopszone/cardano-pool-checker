@@ -1479,6 +1479,14 @@
         "pool15l7f5vd5sqchjqys6x5ygmdgs88q4y6ndwc7xy9a05y2jfced93",
         "pool15v22rpfg6qx9l0gx0m955gfv7tes0jpa9sy0gjs3a04lv6x9jdr"
     ],
+    "relays-10a.cardano.2k2aa.com": [
+        "pool1njhlmv87adsanft5sjuvz5a9pgyew76mxqa0w9c762af570g5ht",
+        "pool1f2wfjqkf2wx6jq93pdck6hgmy9zgw32lmvrq9zejl7scqxjqfze"
+    ],
+    "relays-10b.cardano.aeq5f.com": [
+        "pool1njhlmv87adsanft5sjuvz5a9pgyew76mxqa0w9c762af570g5ht",
+        "pool1f2wfjqkf2wx6jq93pdck6hgmy9zgw32lmvrq9zejl7scqxjqfze"
+    ],
     "relay.neighborlypool.xyz": [
         "pool1kf6n7rmuwpcxxxqd27wsz05pkpqgdgea94kfk7vw9njs2nhccmw",
         "pool1va0dv0map5dqhaj8pyc3rg0500drqs0m5smcxme6xghnc7ygmw8",

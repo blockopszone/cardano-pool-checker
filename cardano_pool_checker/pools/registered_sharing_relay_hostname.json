@@ -635,6 +635,18 @@
         "pool1g5k0fks847av9zdayg05htnj8wx0ah7jmnwwqlt63rjdzyjr93n",
         "pool1gu33fszp9ek0w9fkdt2xpnp4vznvvv2vhktc0dypa8fr53lc9pc"
     ],
+    "relay1.arcadia-relays.com": [
+        "pool1g5k0fks847av9zdayg05htnj8wx0ah7jmnwwqlt63rjdzyjr93n",
+        "pool1gu33fszp9ek0w9fkdt2xpnp4vznvvv2vhktc0dypa8fr53lc9pc"
+    ],
+    "relay2.arcadia-relays.com": [
+        "pool1g5k0fks847av9zdayg05htnj8wx0ah7jmnwwqlt63rjdzyjr93n",
+        "pool1gu33fszp9ek0w9fkdt2xpnp4vznvvv2vhktc0dypa8fr53lc9pc"
+    ],
+    "relay3.arcadia-relays.com": [
+        "pool1g5k0fks847av9zdayg05htnj8wx0ah7jmnwwqlt63rjdzyjr93n",
+        "pool1gu33fszp9ek0w9fkdt2xpnp4vznvvv2vhktc0dypa8fr53lc9pc"
+    ],
     "relay1-gh.wadalliance.org": [
         "pool18hkq2t8ss45h4fkr92f52flhc4mpzedx5mcz4xhnpj0dzp76028",
         "pool1wlmyl6csyc5m9sxezcladq3ttty4hja9mue63dwdh5g7ymucukl"

@@ -6840,10 +6840,6 @@
         "ticker": "CSPS1"
     },
     {
-        "pool_id_bech32": "pool1kezxjgklzx3zf83y9wzsa63esajfgaz0wyjjyag44lmz22ptvks",
-        "ticker": "PUNKZ"
-    },
-    {
         "pool_id_bech32": "pool1kf6n7rmuwpcxxxqd27wsz05pkpqgdgea94kfk7vw9njs2nhccmw",
         "ticker": "LILY"
     },
@@ -6893,7 +6889,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -11098,10 +11094,6 @@
     {
         "pool_id_bech32": "pool1w4k38v33hm00f488leycy7x4r77c6zgax2w30whtrkf4uh9agpy",
         "ticker": "ROOT"
-    },
-    {
-        "pool_id_bech32": "pool1w4xhfnhuenzgqqzuldnzrcm4kgpsjv8l0re3p574vg5lv4er0k7",
-        "ticker": "DEVTM"
     },
     {
         "pool_id_bech32": "pool1w50f20mpxwtal3plsqmgrx2xxlg84hn7ep0fhlcajkhu77k8tfp",

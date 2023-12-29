@@ -6889,7 +6889,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -12285,7 +12285,7 @@
     },
     {
         "pool_id_bech32": "pool1zjecj80kehtj88py42j9hxvfspqnvc7vcqrev5kcsfyzyn0a4kn",
-        "ticker": "LIMO"
+        "ticker": "LIMO\u2b50"
     },
     {
         "pool_id_bech32": "pool1zjjr7qm06ywwwd03fpc40u24uxt3kruesr6knpmdzj3ejxytjf0",

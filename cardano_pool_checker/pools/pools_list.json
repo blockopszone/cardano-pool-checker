@@ -4700,10 +4700,6 @@
         "ticker": "1PCT8"
     },
     {
-        "pool_id_bech32": "pool1e4vkh07ttnzxqp06xs8tzprtgrgufxh24hcr76msp7lvzxymhxk",
-        "ticker": "CERP"
-    },
-    {
         "pool_id_bech32": "pool1e556526sqwugxwnmeumt9lhj5jukklg8vv3ynk75xt9vs7adr5y",
         "ticker": "CHEAP"
     },
@@ -7304,10 +7300,6 @@
         "ticker": "JOY"
     },
     {
-        "pool_id_bech32": "pool1lkuwrel3s8er6v0snw69gumsaugydz9n0vl87n7mygh576mwcy0",
-        "ticker": "ATFF"
-    },
-    {
         "pool_id_bech32": "pool1ll5mu4rgne203spelzdgrse0v7yk9rfzkp243rtt60rgu8mh3q8",
         "ticker": "WAN"
     },
@@ -9276,10 +9268,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1raldyr4a6lkrkakds9y5kxgwdu2cnue6wze4gqaukk9dw0kuw0e",
-        "ticker": "TEST7"
-    },
-    {
         "pool_id_bech32": "pool1ralkckmup253k79hap4chku450qyshezh4sasjqh0ltxu2gytlq",
         "ticker": "OYAJI"
     },
@@ -11050,10 +11038,6 @@
     {
         "pool_id_bech32": "pool1w0jjajfvur53nxrlc4nnm73087lm39qfumeq8r449jwvz3wdx05",
         "ticker": "TAPNC"
-    },
-    {
-        "pool_id_bech32": "pool1w280s7zjysnn80mgu2qvvjw9c5pk4dwl70xvc7yk4aq4xaxdfqq",
-        "ticker": "NECTO"
     },
     {
         "pool_id_bech32": "pool1w2alpqttaulpukcrz0j902kk8wmq68q9qm50c6npaypk7yypy5a",

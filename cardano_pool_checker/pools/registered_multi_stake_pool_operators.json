@@ -2397,6 +2397,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool1e59h5m5vyggszyafel7zvcnsayt2de7wyxyezlrsmm4a679q3zr",
+        "ticker": "IAGL2",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool1e6rjpsl42hsc52zc9s2awhv2df50yzw43xtc7d0vranpc9ej8uj",
         "ticker": "RAY7",
         "reason": [
@@ -6609,6 +6616,13 @@
         "ticker": "SPH",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool1ztk6dcj2nc3plnujf3ek6jqngtx8hcryufz56lyumemlcy2xxn0",
+        "ticker": "IAGL1",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
         ]
     },
     {

@@ -4704,6 +4704,10 @@
         "ticker": "CHEAP"
     },
     {
+        "pool_id_bech32": "pool1e59h5m5vyggszyafel7zvcnsayt2de7wyxyezlrsmm4a679q3zr",
+        "ticker": "IAGL2"
+    },
+    {
         "pool_id_bech32": "pool1e5dxsm5ckaq0k9fg9hkclcrdj740757w4tqf9sk35wt22swypdu",
         "ticker": null
     },
@@ -6885,7 +6889,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

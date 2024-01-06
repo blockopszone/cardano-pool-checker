@@ -188,6 +188,10 @@
         "pool166dkk9kx5y6ug9tnvh0dnvxhwt2yca3g5pd5jaqa8t39cgyqqlr",
         "pool1qvvn2l690zm3v2p0f3vd66ly6cfs2wjqx34zpqcx5pwsx3eprtp"
     ],
+    "relay0.viperstaking.com": [
+        "pool166dkk9kx5y6ug9tnvh0dnvxhwt2yca3g5pd5jaqa8t39cgyqqlr",
+        "pool18qmfd3ljn2dynsw6f8knt04m6cyhe6jmtz54mfw8mun7u9vqqx6"
+    ],
     "relay-cluster.eastus.managedpool.com": [
         "pool1uq8l234306m76unyz8kuwnkvmtvazaks6vuvyx3a3khngavvcw0",
         "pool1j6zqawj6f58lp4p00t26eqe58gxx4pa3cudlzpkv23y92nlxjzd"

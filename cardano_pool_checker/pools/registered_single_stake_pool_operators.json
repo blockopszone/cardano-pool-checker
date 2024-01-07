@@ -6468,6 +6468,10 @@
         "ticker": "AMOON"
     },
     {
+        "pool_id_bech32": "pool1qkt8xdcvw7yt4mzhjscqkceau4039e0k548veu4fvaz4vrdn0fz",
+        "ticker": "MIDI"
+    },
+    {
         "pool_id_bech32": "pool1qku2yhky7sv4dfjfv42uyvauhehuqevk25aw952d7ulzqzx3jcu",
         "ticker": "ASPEN"
     },
@@ -7276,6 +7280,10 @@
         "ticker": "RATS"
     },
     {
+        "pool_id_bech32": "pool1tdh56dcqs0sjeq4ehfdamlnzvxkrr5zgsysnhlkphzdzwmw4nvw",
+        "ticker": "CHRY"
+    },
+    {
         "pool_id_bech32": "pool1te6e6yc3p46yvdakrpngk49npvfvkcutk0z5qpj5xwx9gswkkpz",
         "ticker": null
     },
@@ -7673,7 +7681,7 @@
     },
     {
         "pool_id_bech32": "pool1uy2z02pn4lczk7p2plvnkzrmltxmqs2t04d9ghx5t0vw6e4t0qn",
-        "ticker": null
+        "ticker": "AMS01"
     },
     {
         "pool_id_bech32": "pool1uyfg8ysc2fpmx8aclq3u06xx5u9rete5kq68aysfdvxj5a5wcza",

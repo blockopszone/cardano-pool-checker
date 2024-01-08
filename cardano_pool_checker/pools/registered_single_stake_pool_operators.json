@@ -1188,10 +1188,6 @@
         "ticker": "RAVEP"
     },
     {
-        "pool_id_bech32": "pool15ftrqf7j80w57leflatx66x00qfhu483a290gmp7q85pjxrf480",
-        "ticker": "ISPP"
-    },
-    {
         "pool_id_bech32": "pool15fxktqvd92sq8plh3rjdrksumt9p8rzsayfk4akv2hng5r8ukha",
         "ticker": "HAWAK"
     },
@@ -3062,10 +3058,6 @@
     {
         "pool_id_bech32": "pool1cjz6kg9a8ug9uk0nc59q60a67c2628ms58rd98gq587jwa2x5qt",
         "ticker": "GENS1"
-    },
-    {
-        "pool_id_bech32": "pool1ck8rqpxp7j8kyzutk856fnvgm8xsqmuh922wkeeg32ekjjrvtc0",
-        "ticker": "ISPF"
     },
     {
         "pool_id_bech32": "pool1ckxdmhmt252pd0yz2r9wr60y0t4we2j8lz4qnv5jdz5sgrxc3vn",
@@ -5045,7 +5037,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -7786,10 +7778,6 @@
     {
         "pool_id_bech32": "pool1vcc9lngr8g2j8xh0kgy84nne026adr5zmvwagkda99spy23993l",
         "ticker": "HIGER"
-    },
-    {
-        "pool_id_bech32": "pool1vce30junxx06g2ha8ww02cqgy644yj69ehhg2x95qe7323zfznp",
-        "ticker": "ISPJ"
     },
     {
         "pool_id_bech32": "pool1vcmqgcykx4k3ngj2upkyhu424dsn85ansepz2xmdxg4mqw7w6ac",

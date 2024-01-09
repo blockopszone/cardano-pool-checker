@@ -4488,6 +4488,10 @@
         "ticker": "AMINT"
     },
     {
+        "pool_id_bech32": "pool1hfzfx33ffjcma9xautgrg4ka0u32s062mmu8gw6fmf2zxftmp66",
+        "ticker": null
+    },
+    {
         "pool_id_bech32": "pool1hgksl8y3637f88zhet6g8j8seq2kzp6v2qt4ct2maxaxzt0pmmj",
         "ticker": "FMSP"
     },
@@ -5037,7 +5041,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

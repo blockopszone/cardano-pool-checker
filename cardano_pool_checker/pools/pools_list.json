@@ -6073,7 +6073,7 @@
     },
     {
         "pool_id_bech32": "pool1hfzfx33ffjcma9xautgrg4ka0u32s062mmu8gw6fmf2zxftmp66",
-        "ticker": null
+        "ticker": "AFICA"
     },
     {
         "pool_id_bech32": "pool1hg8vu74hyaj5qm66ys83c0gmr44j66g2k8s9sns4htw27whsqwf",
@@ -6897,7 +6897,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

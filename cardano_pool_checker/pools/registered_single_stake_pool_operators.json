@@ -808,10 +808,6 @@
         "ticker": "QUASR"
     },
     {
-        "pool_id_bech32": "pool1437c0ngxm5wdywc6ltc2kwp7hvn6r0wu6km5nr8kl5fluc6utun",
-        "ticker": "NBC"
-    },
-    {
         "pool_id_bech32": "pool143d6z506u6yfufgzrtx8ywcwx3j4s29lxv5tdugcpcwk2l83gck",
         "ticker": null
     },
@@ -2686,10 +2682,6 @@
     {
         "pool_id_bech32": "pool1aawkmkg7vg0x0vxaqh4gr0lwp4fekwsqrjduylx0et3tuz9hfn4",
         "ticker": "AEGIS"
-    },
-    {
-        "pool_id_bech32": "pool1adhpjj009c0jekumqswj5jux6nvrw7v2k0wlu57vfjh7gd5wyh9",
-        "ticker": "ADATA"
     },
     {
         "pool_id_bech32": "pool1adryduxm4puhn67tuxys7rhvdleee6gw5pc9ufnwwzp8k2wjc2z",
@@ -8398,10 +8390,6 @@
     {
         "pool_id_bech32": "pool1xfj4dazvq0fszalwm30zr85ka9t65mwpq3vfrprdw35mwan3vq9",
         "ticker": "CNFTA"
-    },
-    {
-        "pool_id_bech32": "pool1xgwvxpas3r8nvg9z0f5cdcyr56whynkl9dpa0ukpq4ztjfspk9r",
-        "ticker": "QUEST"
     },
     {
         "pool_id_bech32": "pool1xj5f7a79lnc9v0gjn00fkf2lyzexngka59tpcew5rrkyqveagpt",

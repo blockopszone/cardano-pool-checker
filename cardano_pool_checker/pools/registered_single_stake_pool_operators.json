@@ -2872,10 +2872,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1axngzl8clfn6pnjaf4w5r0q4tgcwktv0zcuxnn32hl995pthddr",
-        "ticker": "NOSP"
-    },
-    {
         "pool_id_bech32": "pool1aznnuv8rx07e6djpheq3kh05r7zwm0z672u8vd8tr3yxsnegkp4",
         "ticker": "SURGE"
     },
@@ -5033,7 +5029,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -6122,10 +6118,6 @@
     {
         "pool_id_bech32": "pool1pgdw8zfuwjkqhkl5fycfkdplkwqkmwvx7gsr2rkvvpnf23wwg8r",
         "ticker": null
-    },
-    {
-        "pool_id_bech32": "pool1pgmuramw9waw9ckxsvpxmcn9p6fd4xl5jmavu8jje0x5vuc00l0",
-        "ticker": "ATRMN"
     },
     {
         "pool_id_bech32": "pool1ph3u549evvr8626xav25vk3sgcwa9llhvcp65q0m0gvz6q2klz3",

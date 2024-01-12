@@ -2001,6 +2001,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool1axngzl8clfn6pnjaf4w5r0q4tgcwktv0zcuxnn32hl995pthddr",
+        "ticker": "NOSP",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool1axzm26vduyuxgw0x9ddh4vkvn7q5hyd558l0t9c08p556lf2zaj",
         "ticker": "WAV1",
         "reason": [
@@ -4385,6 +4392,13 @@
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool1pgmuramw9waw9ckxsvpxmcn9p6fd4xl5jmavu8jje0x5vuc00l0",
+        "ticker": "ATRMN",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
         ]
     },
     {

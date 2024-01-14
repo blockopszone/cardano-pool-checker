@@ -3784,6 +3784,10 @@
         "ticker": "BUNNY"
     },
     {
+        "pool_id_bech32": "pool1fcgm2ae0j3rmvghwa2064rfxcvugwa2qt89cc4jwtj0ecgh8na8",
+        "ticker": "CSPHD"
+    },
+    {
         "pool_id_bech32": "pool1fd6geyevpsg26s7q58fvuv2eh559n5p9vv3ctxjs74v6g7lkew4",
         "ticker": "ECO"
     },
@@ -5029,7 +5033,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

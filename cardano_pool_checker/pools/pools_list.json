@@ -5897,7 +5897,7 @@
     },
     {
         "pool_id_bech32": "pool1h0v99elmvl50rqk778ue6g49r3mtgq3z4draq6pzy0nqv000frd",
-        "ticker": "SKULL"
+        "ticker": "OMEN"
     },
     {
         "pool_id_bech32": "pool1h26acqctjzuzk04uxc35mt5eavnlr5wyaqavmdqhd3s2zr8v7nm",
@@ -6893,7 +6893,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

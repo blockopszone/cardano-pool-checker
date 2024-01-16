@@ -1046,6 +1046,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool15z87p296y3m7eq8pwuu8qs6h2v4d2ctnx3yd2vqpl6txkkdvl5h",
+        "ticker": "MUEN",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool15zrkyr0f80hxlt4scv72tej8l8zwrcphmrega9wutqchjekceal",
         "ticker": "ZETE",
         "reason": [
@@ -2460,6 +2467,13 @@
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool1e9wmzv9r2pkvhwddc3ay42axm9aggheae6u4e52tgx6326krg03",
+        "ticker": "MUEN3",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
         ]
     },
     {

@@ -1348,10 +1348,6 @@
         "ticker": "ZOHAR"
     },
     {
-        "pool_id_bech32": "pool15z87p296y3m7eq8pwuu8qs6h2v4d2ctnx3yd2vqpl6txkkdvl5h",
-        "ticker": "MUEN"
-    },
-    {
         "pool_id_bech32": "pool15ze5nu27jma6ynnrtnfqktsqun265sar5vlfx4m5mhvmy0mnjvj",
         "ticker": "P2P"
     },
@@ -2068,10 +2064,6 @@
         "ticker": "N/A"
     },
     {
-        "pool_id_bech32": "pool18elg7uhk8ge2yvwcywvqykfwn2wfv5ktwv0yt5jmh0wr5vl0hzm",
-        "ticker": "OGRE"
-    },
-    {
         "pool_id_bech32": "pool18f4d5kj6n3ex7vl9udw3qczf3aye0qcuusgg0tkdja5sqm3604s",
         "ticker": "TOT"
     },
@@ -2146,10 +2138,6 @@
     {
         "pool_id_bech32": "pool18lwlvq4j8yxgrsuvyqntmyq7wyeql5t9nhmtg0cx0uqa6n5hplm",
         "ticker": null
-    },
-    {
-        "pool_id_bech32": "pool18m27lqkjpsaa6u4zj233v2zur5r6xujx8cyfcvtnrrn35r04dte",
-        "ticker": "SMB"
     },
     {
         "pool_id_bech32": "pool18me06fpnm53xylyg59n8yvhy3xtvjetra3tan5trrvr6yuvm8pd",
@@ -2601,7 +2589,7 @@
     },
     {
         "pool_id_bech32": "pool1a2gt2mvuf5zvtqlvw2xgks2efze3p4r985ft62q64lua7gx7lal",
-        "ticker": null
+        "ticker": "SALT"
     },
     {
         "pool_id_bech32": "pool1a3ekt9me035qgju0en2w39vjns9ggtewnc9fugsmpgczvgtl6u9",
@@ -3486,10 +3474,6 @@
     {
         "pool_id_bech32": "pool1e9tp0emvvg9sc4ds9h4nhwk8qpn6869qwnas2qywu9ep2reaaxe",
         "ticker": "LORDB"
-    },
-    {
-        "pool_id_bech32": "pool1e9wmzv9r2pkvhwddc3ay42axm9aggheae6u4e52tgx6326krg03",
-        "ticker": "MUEN3"
     },
     {
         "pool_id_bech32": "pool1ea34czsr90yc63fmv4gj4tetp7ds7c4jhpj6vqg4yw40wvygdl3",

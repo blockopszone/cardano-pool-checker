@@ -1171,6 +1171,14 @@
         "pool1yjeekxeu402msk7pnj9vkrtr9glf95jd2tzwwrld309m2flq7yu",
         "pool1tn49xn2jpq62uwff9lt8d25kfzhu3nzjkkytq8pc062n6c7h6tg"
     ],
+    "relaynode1.kaldano.work": [
+        "pool1vc3tk2s8xe5kvtldpmlhkgjnnt6nkllevyyszevapg0qwn0ch29",
+        "pool1pjmqlsyny06w0x60rfd3seul5xc9pluh3t08y55ylhks28jeh7c"
+    ],
+    "relaynode2.kaldano.work": [
+        "pool1vc3tk2s8xe5kvtldpmlhkgjnnt6nkllevyyszevapg0qwn0ch29",
+        "pool1pjmqlsyny06w0x60rfd3seul5xc9pluh3t08y55ylhks28jeh7c"
+    ],
     "111.111.111.11": [
         "pool1h5xdez7j0ncewgxs4m8fykjt9jzuy86t8e0m7m7m2l79w4jzzk2",
         "pool1t69ww3neaf5z5jy3a3fjuw2drz50sw593u6gp00kq5fqz3n58h4"
@@ -1566,7 +1574,12 @@
         "pool1sjnh0ymk9fhhnusm7uksux5yhpfyhjfmseq5nuupsj6ezskc0pj",
         "pool1k2224hj6uhdgkflj6ncqvmfhqvhlhj0t8crhqux5mphwwumupec",
         "pool1859zslu3scj23wxcamw0slkhn80waxwkdl4k8k0asyw7sfa8dv5",
-        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn"
+        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn",
+        "pool1hnaps49hfe3uljp4cleu4amhes6wvatufyvgt2tjdtj3xjrgknk",
+        "pool1fgp4f4afdrq26axqlnm80fz49hdkyq4am3ca3r33w0w8sw2x8ap",
+        "pool1jldj0znj8rltkuj4sumqq5z6p8sdt3yk4qde90q42daru5kgfl6",
+        "pool13mxx49xrq4hp6mca8qrzxxmjhfrts0ayh5n6ff9uyuusq9cx4d8",
+        "pool1wthsvhhxueqfd9eqjdj8pgyprhr4gptn5g63z9rdrtelcfumnvg"
     ],
     "cardano-relay-2.upbit.com": [
         "pool1r9kse9x8ja0ajkyw8w96zw5c2aqeey6j85nmyqxhwt0rs090fu4",
@@ -1578,7 +1591,12 @@
         "pool1sjnh0ymk9fhhnusm7uksux5yhpfyhjfmseq5nuupsj6ezskc0pj",
         "pool1k2224hj6uhdgkflj6ncqvmfhqvhlhj0t8crhqux5mphwwumupec",
         "pool1859zslu3scj23wxcamw0slkhn80waxwkdl4k8k0asyw7sfa8dv5",
-        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn"
+        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn",
+        "pool1hnaps49hfe3uljp4cleu4amhes6wvatufyvgt2tjdtj3xjrgknk",
+        "pool1fgp4f4afdrq26axqlnm80fz49hdkyq4am3ca3r33w0w8sw2x8ap",
+        "pool1jldj0znj8rltkuj4sumqq5z6p8sdt3yk4qde90q42daru5kgfl6",
+        "pool13mxx49xrq4hp6mca8qrzxxmjhfrts0ayh5n6ff9uyuusq9cx4d8",
+        "pool1wthsvhhxueqfd9eqjdj8pgyprhr4gptn5g63z9rdrtelcfumnvg"
     ],
     "cardano-relay-3.upbit.com": [
         "pool1r9kse9x8ja0ajkyw8w96zw5c2aqeey6j85nmyqxhwt0rs090fu4",
@@ -1590,7 +1608,12 @@
         "pool1sjnh0ymk9fhhnusm7uksux5yhpfyhjfmseq5nuupsj6ezskc0pj",
         "pool1k2224hj6uhdgkflj6ncqvmfhqvhlhj0t8crhqux5mphwwumupec",
         "pool1859zslu3scj23wxcamw0slkhn80waxwkdl4k8k0asyw7sfa8dv5",
-        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn"
+        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn",
+        "pool1hnaps49hfe3uljp4cleu4amhes6wvatufyvgt2tjdtj3xjrgknk",
+        "pool1fgp4f4afdrq26axqlnm80fz49hdkyq4am3ca3r33w0w8sw2x8ap",
+        "pool1jldj0znj8rltkuj4sumqq5z6p8sdt3yk4qde90q42daru5kgfl6",
+        "pool13mxx49xrq4hp6mca8qrzxxmjhfrts0ayh5n6ff9uyuusq9cx4d8",
+        "pool1wthsvhhxueqfd9eqjdj8pgyprhr4gptn5g63z9rdrtelcfumnvg"
     ],
     "r1.adasimba.click": [
         "pool1ekyuhd48h9nnymqpx0c00taz6ygnsge4502r7e67clp7zy9cegv",

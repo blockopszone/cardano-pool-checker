@@ -980,6 +980,10 @@
         "ticker": "MIHOP"
     },
     {
+        "pool_id_bech32": "pool13mxx49xrq4hp6mca8qrzxxmjhfrts0ayh5n6ff9uyuusq9cx4d8",
+        "ticker": "UPBIT"
+    },
+    {
         "pool_id_bech32": "pool13njpuytryujfz5csc8f0mlx3rc666jx9fl2e302c4cdpxaghfnm",
         "ticker": "W3C"
     },
@@ -5200,6 +5204,10 @@
         "ticker": "CUJO"
     },
     {
+        "pool_id_bech32": "pool1fgp4f4afdrq26axqlnm80fz49hdkyq4am3ca3r33w0w8sw2x8ap",
+        "ticker": "UPBIT"
+    },
+    {
         "pool_id_bech32": "pool1fh4sh2telea0tfdy39h0drx6uq566yt9gf24edpz7335sclx39z",
         "ticker": "CANUK"
     },
@@ -6144,6 +6152,10 @@
         "ticker": "BLOC"
     },
     {
+        "pool_id_bech32": "pool1hnaps49hfe3uljp4cleu4amhes6wvatufyvgt2tjdtj3xjrgknk",
+        "ticker": "UPBIT"
+    },
+    {
         "pool_id_bech32": "pool1hnnfvsq3xlln6vz7d2xmk6kqekd5z4ctmfpdad8g8kr0yk8kdfd",
         "ticker": "AZDFM"
     },
@@ -6446,6 +6458,10 @@
     {
         "pool_id_bech32": "pool1jkltjlyk484wpdrhe20sjmgqgxhw0zx8lx6tml4wkprt5z28tvw",
         "ticker": "ETO19"
+    },
+    {
+        "pool_id_bech32": "pool1jldj0znj8rltkuj4sumqq5z6p8sdt3yk4qde90q42daru5kgfl6",
+        "ticker": "UPBIT"
     },
     {
         "pool_id_bech32": "pool1jm220zs5txnxe6nt89hajtm6hwsf902e2dwjrtfuq33uw835g65",
@@ -6885,7 +6901,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -8406,6 +8422,10 @@
     {
         "pool_id_bech32": "pool1pj7r0wlu29sa56t2ujdm2vfl2yx77jaxwyw7wrptatuq65skf66",
         "ticker": "HGK"
+    },
+    {
+        "pool_id_bech32": "pool1pjmqlsyny06w0x60rfd3seul5xc9pluh3t08y55ylhks28jeh7c",
+        "ticker": "RIZIN"
     },
     {
         "pool_id_bech32": "pool1pk6q8vjxu0404jzq0dpt7fceyz9yu57lmx5csne8tmce5nx523m",
@@ -11350,6 +11370,10 @@
     {
         "pool_id_bech32": "pool1wt0pf4u2xktp0f7apveu242w6nkm4ltk3m8g039lvuhwq4zdtf3",
         "ticker": "ECO"
+    },
+    {
+        "pool_id_bech32": "pool1wthsvhhxueqfd9eqjdj8pgyprhr4gptn5g63z9rdrtelcfumnvg",
+        "ticker": "UPBIT"
     },
     {
         "pool_id_bech32": "pool1wu4f8u7apml5nke7mjcvj2fvn0apfychx2957lf9gcuzxa07w6g",

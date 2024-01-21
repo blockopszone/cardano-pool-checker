@@ -899,13 +899,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool1568zhphxsnj5mfszwgta5zlvulu67g8f4jn6d3xs2tvas8ffu76",
-        "ticker": "PSPJ",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool15723rmfj9yw88yj3vjhh4f82xlwkqrwthmgw79zt6v7ukx3zv2y",
         "ticker": null,
         "reason": [
@@ -6667,13 +6660,6 @@
     {
         "pool_id_bech32": "pool1zc7vxe3ymyej76h8wu8gm79chtt7w9c3adkza4uhrjvagr9w4zp",
         "ticker": null,
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
-        ]
-    },
-    {
-        "pool_id_bech32": "pool1zdtqtsu3l3ytatzyvrq48d4mpnll9c5evwfq6taxkmn9vvdz839",
-        "ticker": "RANKT",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
         ]

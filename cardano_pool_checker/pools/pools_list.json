@@ -1776,6 +1776,10 @@
         "ticker": "DOXA"
     },
     {
+        "pool_id_bech32": "pool15mkly3gw008dmxfrh9eycl5aguyfm0rhdlup2hzukjkrsfdxqew",
+        "ticker": "SPCOL"
+    },
+    {
         "pool_id_bech32": "pool15mv5w2vvfv2kplkrt40ylylyvdudv5axq5nyw6ln3v0gkd2auew",
         "ticker": null
     },

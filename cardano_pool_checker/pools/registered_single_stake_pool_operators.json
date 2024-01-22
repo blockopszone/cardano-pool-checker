@@ -7080,10 +7080,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1sq7pf76nn7wx40g3hufdwc9g5x8eu0x8un0gkjhz9rwhjcyfsrn",
-        "ticker": "SPCOL"
-    },
-    {
         "pool_id_bech32": "pool1sqjyrgm94jfm2s6y6utvrf7msewpcrfne7qylrffekc0jtvwdlk",
         "ticker": "CMAN1"
     },

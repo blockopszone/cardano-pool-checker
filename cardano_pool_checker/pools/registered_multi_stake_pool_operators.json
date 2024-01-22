@@ -986,6 +986,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool15mkly3gw008dmxfrh9eycl5aguyfm0rhdlup2hzukjkrsfdxqew",
+        "ticker": "SPCOL",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool15r7xg0vrrv2yu8wj3866eap8ftkuxvdk5rjz2lh4xajjq5v3p5d",
         "ticker": "NUFI0",
         "reason": [
@@ -5225,6 +5232,13 @@
     {
         "pool_id_bech32": "pool1spus7k8cy5qcs82xhw60dwwk2d4vrfs0m5vr2zst04gtq700gjn",
         "ticker": "ZZZ4",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool1sq7pf76nn7wx40g3hufdwc9g5x8eu0x8un0gkjhz9rwhjcyfsrn",
+        "ticker": "SPCOL",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
         ]

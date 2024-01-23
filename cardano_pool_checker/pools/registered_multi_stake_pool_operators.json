@@ -2498,7 +2498,8 @@
         "pool_id_bech32": "pool1eapprh7uyz8f90maft8r2k2v3a6jyv58eatgyz3lsfrqggkc8fq",
         "ticker": "RAMC",
         "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
         ]
     },
     {

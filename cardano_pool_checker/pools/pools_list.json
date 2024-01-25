@@ -1352,6 +1352,10 @@
         "ticker": "HEX"
     },
     {
+        "pool_id_bech32": "pool14klr0hf5chszxhqt72nqxl57q4eemz0ys83pcpnc8nmy68fx5vc",
+        "ticker": "BPT"
+    },
+    {
         "pool_id_bech32": "pool14ku0z9rx9yx34zl00jtxtpyv6ehytfl8fewztavx7qvju7nrtr8",
         "ticker": "BOT"
     },
@@ -1781,7 +1785,7 @@
     },
     {
         "pool_id_bech32": "pool15mv5w2vvfv2kplkrt40ylylyvdudv5axq5nyw6ln3v0gkd2auew",
-        "ticker": null
+        "ticker": "NLD"
     },
     {
         "pool_id_bech32": "pool15nww4436eq733eypdq7vnllsnqyrwftw434xkvpm2mc2kfue2ux",
@@ -2933,7 +2937,7 @@
     },
     {
         "pool_id_bech32": "pool18lc5x7fma0zsdwl56fa9rw97ayzc4kdue37sncrtdz2e7xfa8y6",
-        "ticker": "BM1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool18lc8uxyrnuurer7hr77xqh83cp667jazlghe2qetvzfqvxjtdqc",
@@ -12038,6 +12042,10 @@
     {
         "pool_id_bech32": "pool1yr0cv3dtmhcfgqa6yetvmf769ngk89e6tepecmjrmjl2jzcw2lm",
         "ticker": "EASY1"
+    },
+    {
+        "pool_id_bech32": "pool1yraracv4ntq9azvjw2nkw8g4xluujalz8fpt2stz8rw6k0zueuv",
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1yrqqa03ea5fdh5hnap99k4actjtj6ypeeauuwrvf8d3zw9ywvye",

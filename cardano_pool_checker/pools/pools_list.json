@@ -1228,6 +1228,10 @@
         "ticker": "TERA3"
     },
     {
+        "pool_id_bech32": "pool14ajz2t680q2c7tekek3eqazhnapfl3l4w3cep9tnh9ym6jhph8m",
+        "ticker": "CST"
+    },
+    {
         "pool_id_bech32": "pool14akj80fz4z2zpxfld2jwvzdelvctck52uavy2kjv0l925nmj37t",
         "ticker": "LXN"
     },
@@ -6889,7 +6893,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

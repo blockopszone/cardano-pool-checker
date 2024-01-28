@@ -1953,7 +1953,7 @@
     },
     {
         "pool_id_bech32": "pool180fejev4xgwe2y53ky0pxvgxr3wcvkweu6feq5mdljfzcsmtg6u",
-        "ticker": "EURO"
+        "ticker": "CHIEN"
     },
     {
         "pool_id_bech32": "pool18243r3ncukrk54jrx3mnr2k6lvu30dy7y6uj252cyldhqze7qe3",
@@ -5009,7 +5009,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -5085,7 +5085,7 @@
     },
     {
         "pool_id_bech32": "pool1kveecu8hx4dk8pe9rmv4q4tjwr9xmq30nacu2pafeljhypcn4wt",
-        "ticker": null
+        "ticker": "TFP"
     },
     {
         "pool_id_bech32": "pool1kxedw6c34730h344lz0s0z6848005qrs096l8l2whcwly3rcl27",

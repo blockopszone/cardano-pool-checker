@@ -1810,6 +1810,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool19n4qe42fvkxs8f95t6tas8cgvc0ukem87en9g0aave4aj4y57e3",
+        "ticker": "FOMO",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool19pyfv4xnln8x4l7auw0n0skk3hd97shun707hrw5d4s553ys74x",
         "ticker": "TITAN",
         "reason": [

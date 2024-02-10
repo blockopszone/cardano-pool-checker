@@ -2716,10 +2716,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1840k62s50neuj7hdp4l2julx49dtm72z25p9hh68pjvqjhhw602",
-        "ticker": "ARF3"
-    },
-    {
         "pool_id_bech32": "pool18499qzkx0gcsa92ykrv84yr9pycqrje2dndcg2xxq7pxyadvwjj",
         "ticker": null
     },
@@ -3690,10 +3686,6 @@
     {
         "pool_id_bech32": "pool1agk62kg0s9606v78exurl53mqsdu44d6qeuzypur5e7ku6gpgzp",
         "ticker": "SoPHi"
-    },
-    {
-        "pool_id_bech32": "pool1agq2knlhqpxvn2h70gepq6hare2atuwxkknryfppnfutv2av4ej",
-        "ticker": "WAV8"
     },
     {
         "pool_id_bech32": "pool1ah5jv4mrq0z7g4wuhjjnc24kfwqekwcap0wqmsr57thfg8mpr4n",
@@ -7256,10 +7248,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1lhgjma5lejn65er7lxfsqxa0lgcv9r9wrntse9wjm834qp89chh",
-        "ticker": null
-    },
-    {
         "pool_id_bech32": "pool1lhvpgr8lhsf6h03v9zqxm74pa63rdxx4yuvkqfw4tv9fua8t37a",
         "ticker": "OSAKA"
     },
@@ -9768,10 +9756,6 @@
         "ticker": "ZZZ4"
     },
     {
-        "pool_id_bech32": "pool1sq7pf76nn7wx40g3hufdwc9g5x8eu0x8un0gkjhz9rwhjcyfsrn",
-        "ticker": "SPCOL"
-    },
-    {
         "pool_id_bech32": "pool1sqjyrgm94jfm2s6y6utvrf7msewpcrfne7qylrffekc0jtvwdlk",
         "ticker": "CMAN1"
     },
@@ -11978,10 +11962,6 @@
     {
         "pool_id_bech32": "pool1yl76e0fhq0kcfy2jqs2mt6hl9xeyrnesehqp0p4s896lwv7hrta",
         "ticker": "1PCT9"
-    },
-    {
-        "pool_id_bech32": "pool1yl9plldxt500xfkfu6n3wggvnzcs5rshjyxq4dkea6m0kt7qg9v",
-        "ticker": "N/A"
     },
     {
         "pool_id_bech32": "pool1ylcl727memzjqypjaxg0jl0l40l3gy3vmtt0llwpjufwwdmptks",

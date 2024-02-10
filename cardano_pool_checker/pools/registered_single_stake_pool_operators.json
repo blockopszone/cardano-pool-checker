@@ -5280,10 +5280,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1lhgjma5lejn65er7lxfsqxa0lgcv9r9wrntse9wjm834qp89chh",
-        "ticker": null
-    },
-    {
         "pool_id_bech32": "pool1lhwzsyhh7dmw9wuz7qxnml2z5ef5303lp7jxgss2qnat22sprgx",
         "ticker": "UNION"
     },
@@ -8630,10 +8626,6 @@
     {
         "pool_id_bech32": "pool1yjz9nhtlvnl9rx46t2kfufwxd338m0kw0jxaj86pqfthse837z8",
         "ticker": "ADM"
-    },
-    {
-        "pool_id_bech32": "pool1yl9plldxt500xfkfu6n3wggvnzcs5rshjyxq4dkea6m0kt7qg9v",
-        "ticker": "N/A"
     },
     {
         "pool_id_bech32": "pool1ylcl727memzjqypjaxg0jl0l40l3gy3vmtt0llwpjufwwdmptks",

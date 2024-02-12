@@ -2317,7 +2317,7 @@
     },
     {
         "pool_id_bech32": "pool194lhpd5e6a8n8n0zce5hg9f5279pqecd86yl0ytf8nztk2x9unv",
-        "ticker": null
+        "ticker": "ARTMS"
     },
     {
         "pool_id_bech32": "pool194rde70lnsrdu692j6hzrth2ka08l2t4g9mj0xl8tyfmuny7faj",
@@ -4630,6 +4630,10 @@
     {
         "pool_id_bech32": "pool1j6dh3ynys827j38976q0q3s3c9hpzgx40kjcq4472h6m7d3t0hm",
         "ticker": "KIND"
+    },
+    {
+        "pool_id_bech32": "pool1j6uz7hz3mzd5hncsnvdw04q7785kpxx4vfze686zekdly7jz7gl",
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1j6zqawj6f58lp4p00t26eqe58gxx4pa3cudlzpkv23y92nlxjzd",

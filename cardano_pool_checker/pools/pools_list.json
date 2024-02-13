@@ -3141,7 +3141,7 @@
     },
     {
         "pool_id_bech32": "pool192pfftt48zc4x5aellvpufk6l6zxllpldw0rx82vrhqrqfhhqs2",
-        "ticker": "SWM16"
+        "ticker": "EMURC"
     },
     {
         "pool_id_bech32": "pool192ve6p5958dam7hr3e656cuq5cucz5gnpfazlqr9kpc962gj07z",
@@ -7001,7 +7001,7 @@
     },
     {
         "pool_id_bech32": "pool1kx0jm9ycs3t99tnwafw6w72jkdlzhj5ltxe2nrzkd9x2u5x343h",
-        "ticker": "SWM17"
+        "ticker": "EMURD"
     },
     {
         "pool_id_bech32": "pool1kxedw6c34730h344lz0s0z6848005qrs096l8l2whcwly3rcl27",
@@ -7497,7 +7497,7 @@
     },
     {
         "pool_id_bech32": "pool1m0drnjxsvnlesq0rwmur2rh6lenuql57jfzd6cf6aegj2cv7ugy",
-        "ticker": "SWM14"
+        "ticker": "EMURA"
     },
     {
         "pool_id_bech32": "pool1m0zqmgewqwt4pd3amxtjug7ukjq4svgsqeam0h7d2tt6jfcxzk9",
@@ -11613,7 +11613,7 @@
     },
     {
         "pool_id_bech32": "pool1xkwnlr34tjrnkz6u4c0p36cju3xuls4dyynsdkf6cv22ksuhz6q",
-        "ticker": "SWM15"
+        "ticker": "EMURB"
     },
     {
         "pool_id_bech32": "pool1xlfty06hg6q23qvcaxwv3p9ke7ff9n34qpr8tpxt2zflyq20ceh",

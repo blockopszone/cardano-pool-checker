@@ -5656,10 +5656,6 @@
         "ticker": "BNSP"
     },
     {
-        "pool_id_bech32": "pool1glgf2t0wp6ktpf7arvzelhfuqkqpwttdsxjf0684rhg7vwmvpv2",
-        "ticker": "KMADA"
-    },
-    {
         "pool_id_bech32": "pool1glll6eskvg5f4jcep5trqcgqa8zpekfv8d8a6jrprvcwum6u5jn",
         "ticker": "MZS"
     },
@@ -9156,10 +9152,6 @@
         "ticker": "DND"
     },
     {
-        "pool_id_bech32": "pool1r022ksa687sqt23yt42s59y78qjarcs00zhuyhjl5rwsv9uy9sv",
-        "ticker": "2MARS"
-    },
-    {
         "pool_id_bech32": "pool1r04czz6aq4qnd8a3x2klzd6g20mrxns0ksrac0z0jn7uycgl7l2",
         "ticker": "VIRGO"
     },
@@ -9270,10 +9262,6 @@
     {
         "pool_id_bech32": "pool1r9rc8f6xtl8fxmrvz3et9en0p8tp9aq0rzslfczawq6m7udqd33",
         "ticker": "ETO17"
-    },
-    {
-        "pool_id_bech32": "pool1r9zrp0hpy3dj6lse5vl9yc672v5w7fzrrp62pjcersqe2djm409",
-        "ticker": null
     },
     {
         "pool_id_bech32": "pool1ralkckmup253k79hap4chku450qyshezh4sasjqh0ltxu2gytlq",

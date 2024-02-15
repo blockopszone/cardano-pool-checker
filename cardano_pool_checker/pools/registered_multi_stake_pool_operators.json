@@ -3157,13 +3157,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool1hnnfvsq3xlln6vz7d2xmk6kqekd5z4ctmfpdad8g8kr0yk8kdfd",
-        "ticker": "AZDFM",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool1hntu7agmt8u5j9c20ejen7dvq0jfkvkpnul3mrdd8tppqvwfvt2",
         "ticker": "BLOOM",
         "reason": [

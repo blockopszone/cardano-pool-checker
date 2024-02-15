@@ -4156,10 +4156,6 @@
         "ticker": "BNSP"
     },
     {
-        "pool_id_bech32": "pool1glgf2t0wp6ktpf7arvzelhfuqkqpwttdsxjf0684rhg7vwmvpv2",
-        "ticker": "KMADA"
-    },
-    {
         "pool_id_bech32": "pool1glll6eskvg5f4jcep5trqcgqa8zpekfv8d8a6jrprvcwum6u5jn",
         "ticker": "MZS"
     },
@@ -4522,6 +4518,10 @@
     {
         "pool_id_bech32": "pool1hn7hlwrschqykupwwrtdfkvt2u4uaxvsgxyh6z63703p2knj288",
         "ticker": "BLOC"
+    },
+    {
+        "pool_id_bech32": "pool1hnnfvsq3xlln6vz7d2xmk6kqekd5z4ctmfpdad8g8kr0yk8kdfd",
+        "ticker": "AZDFM"
     },
     {
         "pool_id_bech32": "pool1hnp560z9e5acwux8tjguxq36j9r255zuf02u7z2d46dvcf5zhns",
@@ -6632,10 +6632,6 @@
         "ticker": "DND"
     },
     {
-        "pool_id_bech32": "pool1r022ksa687sqt23yt42s59y78qjarcs00zhuyhjl5rwsv9uy9sv",
-        "ticker": "2MARS"
-    },
-    {
         "pool_id_bech32": "pool1r04czz6aq4qnd8a3x2klzd6g20mrxns0ksrac0z0jn7uycgl7l2",
         "ticker": "VIRGO"
     },
@@ -6710,10 +6706,6 @@
     {
         "pool_id_bech32": "pool1r9qyjstrc050njg8lm7wxy5874mgu322vyljntdsm5qgxvjcewv",
         "ticker": "SHEIN"
-    },
-    {
-        "pool_id_bech32": "pool1r9zrp0hpy3dj6lse5vl9yc672v5w7fzrrp62pjcersqe2djm409",
-        "ticker": null
     },
     {
         "pool_id_bech32": "pool1ralkckmup253k79hap4chku450qyshezh4sasjqh0ltxu2gytlq",

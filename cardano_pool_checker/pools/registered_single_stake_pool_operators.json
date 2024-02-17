@@ -1608,10 +1608,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool16r6g7plyuh4cqs9f3qy97l4rh5edwx3w9xvd205mhj2e58cpp28",
-        "ticker": "LQWD"
-    },
-    {
         "pool_id_bech32": "pool16rahfu936wdfq34wf6t8rqxvdjxayra5f7y80xq0udnqglrqel9",
         "ticker": "4KOMA"
     },

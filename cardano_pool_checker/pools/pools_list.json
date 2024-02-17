@@ -5616,6 +5616,10 @@
         "ticker": "CSPMX"
     },
     {
+        "pool_id_bech32": "pool1gecx8vya3f8lyre2gn9w53547p0rhkmq0x78zrw956lkcvn8uyp",
+        "ticker": "LQWD"
+    },
+    {
         "pool_id_bech32": "pool1gerlsm26qanj8wv9xc48rmmx0e7gvu3k5sp9tvy8l67lw3l3w3p",
         "ticker": "CKEYS"
     },

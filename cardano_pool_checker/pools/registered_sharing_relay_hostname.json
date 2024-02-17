@@ -1643,5 +1643,9 @@
     "44.194.169.48": [
         "pool16l00309tdqza9606rltqtrqejx7tcr2swa86jrmz459txfnkgq7",
         "pool1g7757qwvwzpqn35xfxqmhmw3nz8xe8rcptuqqwkv3cfzk38gedd"
+    ],
+    "relays.liqwid.finance": [
+        "pool16r6g7plyuh4cqs9f3qy97l4rh5edwx3w9xvd205mhj2e58cpp28",
+        "pool1gecx8vya3f8lyre2gn9w53547p0rhkmq0x78zrw956lkcvn8uyp"
     ]
 }

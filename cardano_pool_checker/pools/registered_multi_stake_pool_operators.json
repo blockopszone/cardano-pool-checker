@@ -1315,13 +1315,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool178yk6ddgn3z0d04mmdcth430hpp4pyx06jyelvh6xdkngm68rmk",
-        "ticker": "VOGUE",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool17c4u37tjcjaeym0cs5mffvdkyyv74rkhczhnsgplef4sjglkwpj",
         "ticker": "BNP",
         "reason": [
@@ -6511,13 +6504,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool1yqzyhuvspkzpjsnlm4rervl76y0wgc3mvuyc2x45r3j4scmufmv",
-        "ticker": "CREST",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool1ys6fndfj9r6e2waeqmy27raejcqzm4u8ztjrp2naz95kgwyv9qu",
         "ticker": "BNP",
         "reason": [
@@ -6712,13 +6698,6 @@
         "ticker": "SPF1",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
-        ]
-    },
-    {
-        "pool_id_bech32": "pool1zwgnmfxj9nkqdfxxq6dxfe68hqn7mjl2gk2tk5hvu9uxqrtdw5e",
-        "ticker": "MUGEN",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
         ]
     },
     {

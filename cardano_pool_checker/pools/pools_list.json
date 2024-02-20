@@ -2452,10 +2452,6 @@
         "ticker": "ROLL"
     },
     {
-        "pool_id_bech32": "pool178yk6ddgn3z0d04mmdcth430hpp4pyx06jyelvh6xdkngm68rmk",
-        "ticker": "VOGUE"
-    },
-    {
         "pool_id_bech32": "pool1796kveuwxrquwhwnne5g99er50q6alcaf7yjf3kd6xr5vemfaqc",
         "ticker": "YLGA"
     },
@@ -6889,7 +6885,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -7550,10 +7546,6 @@
     {
         "pool_id_bech32": "pool1m7mmef85qylqdqa3skut8a7akklp5myaanrn0gqzsfg37j3vms8",
         "ticker": "REM"
-    },
-    {
-        "pool_id_bech32": "pool1m7rvxkzc6rseh8axp7ckk7kwlqzctnvqc4lqq5w84sn4g4j4e90",
-        "ticker": "DSIT"
     },
     {
         "pool_id_bech32": "pool1m80jrruqnynpuqvmm5cyhxjqy2q8pnnpyu40sd02z0gkzehqxua",
@@ -10008,6 +10000,10 @@
         "ticker": "RPLC"
     },
     {
+        "pool_id_bech32": "pool1tcjzs5lp05ze2af8tk0pk3e3w6ey9ec0jpu9hxvck32mwxj9xwq",
+        "ticker": "EARN"
+    },
+    {
         "pool_id_bech32": "pool1tcmk6at0dmkytxgq5j4u7fgsx9kytvfu7gz22lrs8hp9ztu7arw",
         "ticker": "RATS"
     },
@@ -11992,10 +11988,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1yqzyhuvspkzpjsnlm4rervl76y0wgc3mvuyc2x45r3j4scmufmv",
-        "ticker": "CREST"
-    },
-    {
         "pool_id_bech32": "pool1yr0cv3dtmhcfgqa6yetvmf769ngk89e6tepecmjrmjl2jzcw2lm",
         "ticker": "EASY1"
     },
@@ -12378,10 +12370,6 @@
     {
         "pool_id_bech32": "pool1zwftnuzv7rtssdj3kn5j9m2al5t36hjexps7snzu7fzvzjjn95x",
         "ticker": "SPF1"
-    },
-    {
-        "pool_id_bech32": "pool1zwgnmfxj9nkqdfxxq6dxfe68hqn7mjl2gk2tk5hvu9uxqrtdw5e",
-        "ticker": "MUGEN"
     },
     {
         "pool_id_bech32": "pool1zwqrrwpr5zx7c3f4ukpu4r4fz5c2hkwx9vwqka5068urgqvpjzr",

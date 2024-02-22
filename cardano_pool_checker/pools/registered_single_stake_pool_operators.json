@@ -384,10 +384,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool12fclephansjkz0qn339w7mu9jwef2ty439as08avaw7fuyk56j6",
-        "ticker": "RDLRT"
-    },
-    {
         "pool_id_bech32": "pool12fr472y9lwzjy055gpuvpxdy5slpe0ej20pykdeatl59zg9ren2",
         "ticker": "CARDX"
     },
@@ -2578,10 +2574,6 @@
     {
         "pool_id_bech32": "pool1a26gnntcj3j5v7ng599qncn7uuav2sp560xwlkvp3pqlj822jtl",
         "ticker": "NASA1"
-    },
-    {
-        "pool_id_bech32": "pool1a2ffl2d20yransp2p4hqys5vy6hys8kmtchdvlfqale7ywxssjh",
-        "ticker": "ZUND"
     },
     {
         "pool_id_bech32": "pool1a2gt2mvuf5zvtqlvw2xgks2efze3p4r985ft62q64lua7gx7lal",
@@ -5021,7 +5013,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -8246,6 +8238,10 @@
     {
         "pool_id_bech32": "pool1wxpzjtfr79pdfs6m6vg6xmcqjh79ff9d6sgzfdpvs2q26swahew",
         "ticker": "DMOON"
+    },
+    {
+        "pool_id_bech32": "pool1wxzumlr95mjxhgxnd6cmxcey38pwe5zwu0ly2mlme07qy8n00r9",
+        "ticker": "STRIP"
     },
     {
         "pool_id_bech32": "pool1wydmv34dnmz4ek9s3p9jwaslwuutfyt8wlxt0mkunjkcufznl97",

@@ -1621,7 +1621,7 @@
         "pool_id_bech32": "pool18v9r8afalh50l4lstct2awdc3zspnvurcs7t45nv29uc2mnxc6c",
         "ticker": "LONDN",
         "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
         ]
     },
     {
@@ -5284,7 +5284,7 @@
         "pool_id_bech32": "pool1sx4e8rvx2xdxgkww2fpjtmvrnaftfrtfge29xcn72hh7kch5snf",
         "ticker": "UK1",
         "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
         ]
     },
     {

@@ -725,7 +725,7 @@
     },
     {
         "pool_id_bech32": "pool13s6u5zjngelr5uddhqygqqf5tcup0g3ajenma6amy9zuu7e97gm",
-        "ticker": null
+        "ticker": "CTL"
     },
     {
         "pool_id_bech32": "pool13ss25l908k5vqfw0aq2t66xr3hrvlqlsf4tfsmp59kyfxhfmah3",
@@ -1426,6 +1426,10 @@
     {
         "pool_id_bech32": "pool167n02n48l5hfgfu6e46xq8n3yefccm9dcnmefkmxuymhc8ncrjm",
         "ticker": null
+    },
+    {
+        "pool_id_bech32": "pool167qekemyleju9g7eugaguqxh5telvmmmrs3a7sp897f6za308hg",
+        "ticker": "HOT"
     },
     {
         "pool_id_bech32": "pool167r4k4twa3lrqzpzdd44hl4ahc9rnt4x7rjtwz60gtf7j7pnk5x",
@@ -4997,7 +5001,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -6208,10 +6212,6 @@
         "ticker": "NUTS"
     },
     {
-        "pool_id_bech32": "pool1pv4hhvy8dkvllr706q0lpyu9py6lcf6zddl4wlynwx3cglxajmg",
-        "ticker": "DOD"
-    },
-    {
         "pool_id_bech32": "pool1pvg7uqf9a0ms24xcdfq8f48p72csfslgz3gzwlmfee5szuda0du",
         "ticker": "BLOQ"
     },
@@ -6582,10 +6582,6 @@
     {
         "pool_id_bech32": "pool1qwn9l4vzm4rsrd5kexuafqlsgg4ap877vsunqpm4yq89crm4aqr",
         "ticker": null
-    },
-    {
-        "pool_id_bech32": "pool1qy4t7rc2v5vjljaruh3stlsng78se4v0yuv88v8jphd3qmcmff4",
-        "ticker": "N/A"
     },
     {
         "pool_id_bech32": "pool1qzg0lsft8d6zz5vytz5td3f383ra8f46zsdnsa93dgrg2nf7ckf",
@@ -7390,10 +7386,6 @@
     {
         "pool_id_bech32": "pool1tyfdyg85t50lj69ehgmg90e4xr6y42he6pt8pvmau8v5x46fy67",
         "ticker": "AMANT"
-    },
-    {
-        "pool_id_bech32": "pool1tzfqal2n80z9zejfxlgrc9qhdvrf8gvqqvnfx0e6h0rws4gqyxj",
-        "ticker": "FLOW"
     },
     {
         "pool_id_bech32": "pool1u0u2s080a5plun4acn6s70xa3q98ct7skt88l7w6nnwwyl9ecym",
@@ -8414,10 +8406,6 @@
     {
         "pool_id_bech32": "pool1xs34q2z06a46nk7hl48d27dj5gzc6hh9trugw2ehs9ajsevqffx",
         "ticker": "SNAKE"
-    },
-    {
-        "pool_id_bech32": "pool1xsrcztc0td5cx2wafkumwayw02nq0z67ta6vpte3swz7g4ta2f2",
-        "ticker": "N/A"
     },
     {
         "pool_id_bech32": "pool1xt0gxs63r5vgjsrzhm7jfuhuqzga9pf8kqvp38qmdzn3wjxudvr",

@@ -204,13 +204,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool10vhns8fup6pe9xvjxf4w6h5y66tckgvtjy9ayld6mcg8vv4crdk",
-        "ticker": "TVV1N",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool10x7rsal3ldumkycuc7f7rslx3vc5axhz5jzwngfcg7hd6t2p7sc",
         "ticker": "BNP",
         "reason": [
@@ -1681,7 +1674,7 @@
     },
     {
         "pool_id_bech32": "pool192pfftt48zc4x5aellvpufk6l6zxllpldw0rx82vrhqrqfhhqs2",
-        "ticker": "EMURC",
+        "ticker": "YORO1",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
@@ -3351,13 +3344,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool1jg4awqhdz454uylkhwxsnghfy00yz3ehzmz2mq6q5xvsudav482",
-        "ticker": "KNY12",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool1jgwu8lq3dqddnnx7prymcgcyrqy0fdlghg33he2hmw9t2gma3zd",
         "ticker": "KIWI",
         "reason": [
@@ -3622,13 +3608,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool1kf6n7rmuwpcxxxqd27wsz05pkpqgdgea94kfk7vw9njs2nhccmw",
-        "ticker": "LILY",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool1kgwaa6fhpaqu8v4hrk35lzjhjsa6typ55ammszhd2q7zkxv5v40",
         "ticker": "BNP",
         "reason": [
@@ -3716,7 +3695,7 @@
     },
     {
         "pool_id_bech32": "pool1kx0jm9ycs3t99tnwafw6w72jkdlzhj5ltxe2nrzkd9x2u5x343h",
-        "ticker": "EMURD",
+        "ticker": "YORO2",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
@@ -5454,13 +5433,6 @@
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_url.json",
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json",
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_reward_addr.json"
-        ]
-    },
-    {
-        "pool_id_bech32": "pool1tjkkuqdx2hy5cdy7vyamnyprglylcz5206zevfvtc28mx8nvsw4",
-        "ticker": "TVV2N",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
         ]
     },
     {

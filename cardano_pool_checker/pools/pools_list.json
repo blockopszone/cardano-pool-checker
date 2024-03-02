@@ -10224,6 +10224,10 @@
         "ticker": null
     },
     {
+        "pool_id_bech32": "pool1u3d2q48xqdge5kejkctwehlcz40vwm65rc0jed974zc6vfd4clc",
+        "ticker": "CASL"
+    },
+    {
         "pool_id_bech32": "pool1u3despkvw4sqeq2fv9ufrh5dxacf8vm0aax00elkdeelymg7f38",
         "ticker": null
     },

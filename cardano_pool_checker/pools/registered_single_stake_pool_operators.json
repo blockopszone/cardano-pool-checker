@@ -3472,6 +3472,10 @@
         "ticker": null
     },
     {
+        "pool_id_bech32": "pool1eapprh7uyz8f90maft8r2k2v3a6jyv58eatgyz3lsfrqggkc8fq",
+        "ticker": "RAMC"
+    },
+    {
         "pool_id_bech32": "pool1ecqt8vmkmu2mteqlkcxl4v6hp0ngzmgpx6k6wp2hp8tguq88u4l",
         "ticker": null
     },

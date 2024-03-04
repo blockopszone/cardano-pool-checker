@@ -2475,13 +2475,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool1eapprh7uyz8f90maft8r2k2v3a6jyv58eatgyz3lsfrqggkc8fq",
-        "ticker": "RAMC",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool1ec5lvdyd9dghpezzeqfzn48yvw34ff6u6m9tlh08kjjaxx4nxmk",
         "ticker": "RAID2",
         "reason": [

@@ -7660,6 +7660,10 @@
         "ticker": null
     },
     {
+        "pool_id_bech32": "pool1mn50ptwxn5q4rgrwqe3tn9536umt9xf09cjg0wawuepqgk80d6r",
+        "ticker": "RELAY"
+    },
+    {
         "pool_id_bech32": "pool1mn6relcs7dn2fqzfq5yjlwxa49d900p5sdpw62jlx45k2djgwe4",
         "ticker": "RED"
     },

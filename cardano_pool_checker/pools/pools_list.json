@@ -6857,7 +6857,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -7650,6 +7650,10 @@
     {
         "pool_id_bech32": "pool1mltwh4elef39dkuuz058lgfuvx79c5wcnz3szau3arhsyq22ace",
         "ticker": "PARTY"
+    },
+    {
+        "pool_id_bech32": "pool1mlw3uh4m8qy0jlc8x0amx58gwt5xz277ya60xk6xv5daxjzt2gs",
+        "ticker": "ASTRL"
     },
     {
         "pool_id_bech32": "pool1mmrh2l3t5r7w5l7e82ven0e595vhgvu0hyf4ttrgcyejq8gwqcm",

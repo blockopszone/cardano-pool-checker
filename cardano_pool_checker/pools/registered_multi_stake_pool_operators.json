@@ -1082,6 +1082,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool165zu45p489lpuypt4fsuc5g8l9g9ha4dddlls84jlsp3k4vsw9p",
+        "ticker": "SWEET",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool166dkk9kx5y6ug9tnvh0dnvxhwt2yca3g5pd5jaqa8t39cgyqqlr",
         "ticker": "VIPER",
         "reason": [
@@ -3068,6 +3075,13 @@
     {
         "pool_id_bech32": "pool1h66njz7qg7p3sa9dd8mptfhsy04pyxr9ca0v8zwkcz3eyg3g3au",
         "ticker": null,
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool1h707wwzd9a3wlsz2x2dwng0rn7vep6mggxlgww9u7szagx8elcn",
+        "ticker": "SOUR",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
         ]

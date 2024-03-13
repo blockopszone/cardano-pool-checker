@@ -6120,6 +6120,10 @@
         "ticker": "BROCK"
     },
     {
+        "pool_id_bech32": "pool1pj5jnehwjtt4esfl0325hr338n98v3kcww3sggce59ugyf2f883",
+        "ticker": "MIMSA"
+    },
+    {
         "pool_id_bech32": "pool1pj5wv8tvu5f5dpmx6w5wthqy4sg3vs4qjvumg439v0plxgnu8a6",
         "ticker": null
     },

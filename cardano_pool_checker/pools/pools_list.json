@@ -1777,7 +1777,7 @@
     },
     {
         "pool_id_bech32": "pool15mv5w2vvfv2kplkrt40ylylyvdudv5axq5nyw6ln3v0gkd2auew",
-        "ticker": "NLD"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool15nww4436eq733eypdq7vnllsnqyrwftw434xkvpm2mc2kfue2ux",
@@ -2026,10 +2026,6 @@
     {
         "pool_id_bech32": "pool169mewaur9ma6ffw6x90xhjj0sk9j8yu3ynqz20jh03dj20syqwc",
         "ticker": null
-    },
-    {
-        "pool_id_bech32": "pool169ys5c50sk66ayy99jtjfmj0a367wkv3hm9c5d0qg7w2u7ya5zz",
-        "ticker": "FNBK"
     },
     {
         "pool_id_bech32": "pool16a23pum2srw5xmkknvw8dtc8ynqedx3wecmhacez4chrv9huvyg",
@@ -2540,10 +2536,6 @@
         "ticker": "PIXB"
     },
     {
-        "pool_id_bech32": "pool17jss6muzegagwnlju4t0mxsk875eu6r0uwr7mfamf2xcvrwk4tc",
-        "ticker": "WAV12"
-    },
-    {
         "pool_id_bech32": "pool17k2dpgvx8spkdhgf5j7x5u7pqjpvlwa76sugwen8l3xtk7kq3c4",
         "ticker": "FRSC"
     },
@@ -2913,7 +2905,7 @@
     },
     {
         "pool_id_bech32": "pool18lc5x7fma0zsdwl56fa9rw97ayzc4kdue37sncrtdz2e7xfa8y6",
-        "ticker": null
+        "ticker": "BM1"
     },
     {
         "pool_id_bech32": "pool18lc8uxyrnuurer7hr77xqh83cp667jazlghe2qetvzfqvxjtdqc",
@@ -5977,7 +5969,7 @@
     },
     {
         "pool_id_bech32": "pool1h9jr0f9evk3raxlljq6mt4gj7ej4v82afvnlc2wh28rwy2d8lsy",
-        "ticker": "Ship"
+        "ticker": "SHIP"
     },
     {
         "pool_id_bech32": "pool1ha4z9zne9z7he43qf0tzv9pdq8cdj63xfrj8s246u89lkcwmq7w",
@@ -7592,10 +7584,6 @@
         "ticker": "HOOAH"
     },
     {
-        "pool_id_bech32": "pool1mdtkvurnjyh079s45jtscls55trr6t0xazf7g2rp3nse59avrxl",
-        "ticker": "MUC"
-    },
-    {
         "pool_id_bech32": "pool1mdyuct0kgd0hcjjnea999me5dxqpepr4y8du4smegfm3vlr37w5",
         "ticker": null
     },
@@ -8032,10 +8020,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool1nn7tmm2antyp4879henta5ysg7a8g4pa02d6es2s2zc9jhpdptl",
-        "ticker": null
-    },
-    {
         "pool_id_bech32": "pool1nnfwte5lhr8rxjye4a8m8krt5fsu6fs2g39g6ccq09nqqf8sekw",
         "ticker": null
     },
@@ -8318,10 +8302,6 @@
     {
         "pool_id_bech32": "pool1pclcqwg45da00d4py9qfry3k86w7vkzjgfmvyrpx75g7u8t9nwf",
         "ticker": "OZZY"
-    },
-    {
-        "pool_id_bech32": "pool1pcsj4zltacqzdjefsqsyysgk3hkrusxdp4uyt0delernwcusn2g",
-        "ticker": "LIGHT"
     },
     {
         "pool_id_bech32": "pool1pd7x30trlcd86h9x8ya5ch3j4729wudgdh4qrmr6fulh5zm24w9",

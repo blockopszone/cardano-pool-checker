@@ -670,10 +670,6 @@
         "pool1ksh2u6kktx74ugv8jadrdqttwyjz9074ke82xt6j0qgfvdn43a5",
         "pool1wnshjhwqv9j7fgd4tkynpsqr0xczns4pghljy5j4z4qjj7qy4d4"
     ],
-    "relays.goldcoaststaking.com": [
-        "pool1qqqq58jy30weq2an3px3maljdmawcwh6ml4hr8m9euq9z2n7wyz",
-        "pool1qqqq02jxq3q9j93devp9pts90ctm8w3r0rgek97ngujpjgpw46j"
-    ],
     "relays.saludstaking.com": [
         "pool1qqqqvmpm9v2l0tkwx4dpzth3g85lapxjug2j6sucnphyqlt4fuu",
         "pool1qqqqwg5y9jj6uet4amx3mkmzneaxrlhczmpz5admlvddgyhtnug"
@@ -944,6 +940,16 @@
     "cardano-relays.atomicwallet.io": [
         "pool15wkxegrfflzcyhurrjxsm9ljqtz09xr5rtnqsarnp7hmsz5um3t",
         "pool14enw2643rn9nn6yzv60jyz3hj4kxs0jvap87lkgsqykh508jxm6"
+    ],
+    "relays.xray.app": [
+        "pool1rjxdqghfjw5rv6lxg8qhedkechvfgnsqhl8rrzwck9g45n43yql",
+        "pool1ntfxj2jgvhzen8e86ed679ctukar3vj538ywyyq8ryld66jj4sx",
+        "pool1yt868wrp9s2x5pehe96del9m3nwasme62yw02vww3kg6zwzspcz",
+        "pool19ru9alj7n5anmzs0f9gpzlj8kaq44yhcp45mldjvldxck8f6yg6",
+        "pool1szy2tdjj8a4av365wk3q2fqg9srllmt0383e6v9p664ng076x9e",
+        "pool1r650ja5y4jy7xd6srjz8ujkumy8xpk8kqgrxu92g3nwyk5jf4zq",
+        "pool1e6rjpsl42hsc52zc9s2awhv2df50yzw43xtc7d0vranpc9ej8uj",
+        "pool16erldmmx5nvrwncujtp6lxs9tmvgxcpthd600pe6axm5z3p6522"
     ],
     "relays.wavelovelace.com": [
         "pool1qd3hwt2hvkt2jn9lktcjqpdk9cz0mk8qdue35x00p7ud5g0268s",

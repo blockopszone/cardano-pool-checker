@@ -4733,7 +4733,7 @@
     },
     {
         "pool_id_bech32": "pool1jpezycd8q3l6a255dv8wt7vpt4aay8llqakdn7vkum5swes4hu3",
-        "ticker": null
+        "ticker": "BOLT"
     },
     {
         "pool_id_bech32": "pool1jphnr6n8v7hg4rhsmel2s6yunjalthar07vv7rwvgsky5q8k49h",
@@ -5005,7 +5005,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -5649,6 +5649,10 @@
     },
     {
         "pool_id_bech32": "pool1mv7z7jzats0g3s36rd6sk08ew6wg4pf7ulu9uvd6grpdc0mh7e0",
+        "ticker": null
+    },
+    {
+        "pool_id_bech32": "pool1mvk6eup390pja32f2r9fgeus5sr5u8l6x9ver65tf7q76t6309z",
         "ticker": null
     },
     {
@@ -6692,10 +6696,6 @@
         "ticker": "WDHB"
     },
     {
-        "pool_id_bech32": "pool1rc5a3yqa4w692649vnazcw5h9azeldc3gc6gkdk9ctlnzwsgqtd",
-        "ticker": "ASLAB"
-    },
-    {
         "pool_id_bech32": "pool1rcdq9r6f0nwv376afk5dx3ugaumlhm4kx7g8tue74dlwgwsmd4l",
         "ticker": "GALT1"
     },
@@ -7522,6 +7522,10 @@
     {
         "pool_id_bech32": "pool1ufh42ppqnet625mqql2fkc79p3emuqsnmf6s6ugxygqa75xgc8c",
         "ticker": "NEMO"
+    },
+    {
+        "pool_id_bech32": "pool1ug9jx8agskwvy3804cdt6lh8pgtccfqsyca3g35ggwxccvmeq5c",
+        "ticker": "SDCE"
     },
     {
         "pool_id_bech32": "pool1ugwj76z4cx6sywscud8ntd2m9tg3gyesmnnl35qr2l5mu06pe3x",

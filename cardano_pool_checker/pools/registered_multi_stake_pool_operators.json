@@ -3468,6 +3468,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool1jyutduy73e5u9877uns3k9rm0tf4r24j8lrn4xtkjpl3q5sn5mw",
+        "ticker": "KOALA",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool1jz5ljsnj4fzmk84j0wcw9ldy866dn07nzqg2ktyuyjvfvr3jgtq",
         "ticker": "DIGI4",
         "reason": [
@@ -6588,6 +6595,13 @@
     {
         "pool_id_bech32": "pool1zeya2r53sxmqh2ux3ssfsrqerergnw2hjxmp63r83ntwverpqwm",
         "ticker": null,
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool1zfhww5y28t303z6uyq3w47pkhfmxww9dsn89vrxteplg2zjkekl",
+        "ticker": "CARE4",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
         ]

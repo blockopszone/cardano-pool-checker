@@ -1592,6 +1592,10 @@
         "ticker": null
     },
     {
+        "pool_id_bech32": "pool16qr7dz5q4vwf3n87t4lmr0d2zlr5knexpdzkuk4trc8dwed7aw3",
+        "ticker": "YASP"
+    },
+    {
         "pool_id_bech32": "pool16qsddpnjv5msjp62lxam4erurckks98t2e6k7tuqw5e4u5xcmc5",
         "ticker": null
     },
@@ -4840,10 +4844,6 @@
         "ticker": "ATEAM"
     },
     {
-        "pool_id_bech32": "pool1jyutduy73e5u9877uns3k9rm0tf4r24j8lrn4xtkjpl3q5sn5mw",
-        "ticker": "KOALA"
-    },
-    {
         "pool_id_bech32": "pool1jz4vmzq5zkedem6wep8c99fxatxgvymlvdzs9qxxn7xsuv4m8um",
         "ticker": "Wecan"
     },
@@ -5005,7 +5005,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -8806,10 +8806,6 @@
     {
         "pool_id_bech32": "pool1zf7aswkv5ll0ej9fcg45jf6cqt2ee7tn3l2wq6zyx05t7a5srus",
         "ticker": null
-    },
-    {
-        "pool_id_bech32": "pool1zfhww5y28t303z6uyq3w47pkhfmxww9dsn89vrxteplg2zjkekl",
-        "ticker": "CARE4"
     },
     {
         "pool_id_bech32": "pool1zga7fc8swn5l4rha04ddq07m2rc8rh9vxqmc56j4k2l2xy4lw22",

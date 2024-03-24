@@ -2220,6 +2220,10 @@
         "ticker": null
     },
     {
+        "pool_id_bech32": "pool16qr7dz5q4vwf3n87t4lmr0d2zlr5knexpdzkuk4trc8dwed7aw3",
+        "ticker": "YASP"
+    },
+    {
         "pool_id_bech32": "pool16qsddpnjv5msjp62lxam4erurckks98t2e6k7tuqw5e4u5xcmc5",
         "ticker": null
     },
@@ -6865,7 +6869,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

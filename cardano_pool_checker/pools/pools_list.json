@@ -6869,7 +6869,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -10893,7 +10893,7 @@
     },
     {
         "pool_id_bech32": "pool1vtpn0drn5t39frknedmqq2jkhsfstwketsnvdm7cjzz674s30v2",
-        "ticker": "Bliss"
+        "ticker": "BLISS"
     },
     {
         "pool_id_bech32": "pool1vuhc5fl733g3twn856xsfjqusczvk68r6pvs6lqgtadzsf6fue2",
@@ -12101,7 +12101,7 @@
     },
     {
         "pool_id_bech32": "pool1z39jrvangdxs22el83snvqgclcyjpj6jcxcjk5x73lzn27059m6",
-        "ticker": "Bliss"
+        "ticker": "BLISS"
     },
     {
         "pool_id_bech32": "pool1z39sker5renxhep9m7z8aae2yh56940gwykptfcf053473mwy8t",

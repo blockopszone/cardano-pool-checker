@@ -6240,6 +6240,10 @@
         "ticker": "REDH"
     },
     {
+        "pool_id_bech32": "pool1j5zdx73kk2w53vd5qqw3wqehywh2tpljltfy3rdmuuge5k7pg8m",
+        "ticker": "CERRA"
+    },
+    {
         "pool_id_bech32": "pool1j6490a90qefvsqxdurf99z9ld50rtthaz9ms6c8xh78s52veuq2",
         "ticker": "CETH"
     },
@@ -6841,7 +6845,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",

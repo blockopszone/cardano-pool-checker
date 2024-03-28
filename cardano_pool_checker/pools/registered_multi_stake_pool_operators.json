@@ -857,7 +857,8 @@
         "pool_id_bech32": "pool15676jwlm6gancffzs2jg9vf5xwzmspyktw75dl4kaucyst4qt8q",
         "ticker": "RAMA",
         "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
         ]
     },
     {
@@ -3202,6 +3203,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool1j5zdx73kk2w53vd5qqw3wqehywh2tpljltfy3rdmuuge5k7pg8m",
+        "ticker": "CERRA",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool1j6490a90qefvsqxdurf99z9ld50rtthaz9ms6c8xh78s52veuq2",
         "ticker": "CETH",
         "reason": [
@@ -3617,7 +3625,8 @@
         "pool_id_bech32": "pool1kruxznxaqgramllcc4c5sxm6wlsn9auah46xyawkek74u8aurxd",
         "ticker": "RAMB",
         "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json"
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
         ]
     },
     {

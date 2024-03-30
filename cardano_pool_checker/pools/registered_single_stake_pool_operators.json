@@ -396,10 +396,6 @@
         "ticker": "RENEW"
     },
     {
-        "pool_id_bech32": "pool12ktz62g9d32nq0cdk9jyyqg6kquj7lnmx776at5h598supql0t2",
-        "ticker": "CTEC2"
-    },
-    {
         "pool_id_bech32": "pool12m7z9p7jqymxrvvp6z7vmfdu6j6u6y43p0m6y4xalz43sc8s4t9",
         "ticker": "N/A"
     },
@@ -1106,10 +1102,6 @@
     {
         "pool_id_bech32": "pool153lhpqpcms4a73metcjd439h8yzvht2yyjluuav9vfsv75gtf7l",
         "ticker": "AGG1"
-    },
-    {
-        "pool_id_bech32": "pool154hq0j6u6ydz62mtlu7xaj78mhreyp0zsv2kq7f0qmne2fu4t7y",
-        "ticker": "CTEC"
     },
     {
         "pool_id_bech32": "pool154sjkrwdu80wp6mnjvkwk55aj53l4v37z4zwulfak74vcxg60x0",

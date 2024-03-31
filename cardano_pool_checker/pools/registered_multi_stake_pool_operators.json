@@ -1022,13 +1022,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool15xt9rwxzgunwhhue548q3q22mclumqz5al9umanl8tn269sr66m",
-        "ticker": null,
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_url.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool15yyxtkhz64p7a8cnax9l7u82s9t9hdhyxsa3tdm977qhgpnsuhq",
         "ticker": "SECUR",
         "reason": [

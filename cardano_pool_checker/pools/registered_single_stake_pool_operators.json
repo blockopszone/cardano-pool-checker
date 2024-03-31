@@ -1876,10 +1876,6 @@
         "ticker": "HEPHY"
     },
     {
-        "pool_id_bech32": "pool17ntzw85gdf9zefhy60y3z43qfv8zv4569vq7m2pjewrzc02dz4f",
-        "ticker": "HKCLD"
-    },
-    {
         "pool_id_bech32": "pool17p8a9e5ljeucdvmsl62a667y7lwwx9xzwzjulwu7df2q7854mh4",
         "ticker": "AGC"
     },
@@ -2466,10 +2462,6 @@
     {
         "pool_id_bech32": "pool19rs2895l5ghjn4d38c9qpqn2d44amqx7cqd3easdav5m786w6ng",
         "ticker": "IRF"
-    },
-    {
-        "pool_id_bech32": "pool19seeqvu6hfr3qru6kx3rp4khymssa82j00jfm3d6k3ua590wdwv",
-        "ticker": "RUBY"
     },
     {
         "pool_id_bech32": "pool19sk7acvpdxszed5hmckt0wmqxljalartue7d7d4a7qhwuw0n0ws",
@@ -7870,10 +7862,6 @@
     {
         "pool_id_bech32": "pool1vvesqladm29fuzrv93px5qse0upw82a579lz9063xsfrz7yef7z",
         "ticker": "8SQRD"
-    },
-    {
-        "pool_id_bech32": "pool1vvzajfqpfltmprgnrdgx3qu2yqj68ujg3g3pllpvst89gfw575w",
-        "ticker": "SUDO"
     },
     {
         "pool_id_bech32": "pool1vw0rqsvfx0ngct7gfmlz5j2e4gap6sd9pwrmemhd488eyxvm88r",

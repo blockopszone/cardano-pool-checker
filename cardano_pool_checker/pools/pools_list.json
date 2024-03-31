@@ -1852,10 +1852,6 @@
         "ticker": "1PCT5"
     },
     {
-        "pool_id_bech32": "pool15xt9rwxzgunwhhue548q3q22mclumqz5al9umanl8tn269sr66m",
-        "ticker": null
-    },
-    {
         "pool_id_bech32": "pool15xy7ljyr733vtpvh65mpaq0lt5u9jqsr6u8urmjq7rxh6ne904c",
         "ticker": "YGEN"
     },
@@ -2562,10 +2558,6 @@
     {
         "pool_id_bech32": "pool17n47upcpnzsdks0yd409nf79sg6hqy73twg87eddwh24uj745rt",
         "ticker": "HEPHY"
-    },
-    {
-        "pool_id_bech32": "pool17ntzw85gdf9zefhy60y3z43qfv8zv4569vq7m2pjewrzc02dz4f",
-        "ticker": "HKCLD"
     },
     {
         "pool_id_bech32": "pool17p4syst04f92ylfzlcn8qwq8w5muxkwqn0a5fl98ksxhwj6y7g7",
@@ -3402,10 +3394,6 @@
     {
         "pool_id_bech32": "pool19rz6ve8nz6uvq97yspwh3fvt7w03dsjsnmft6du83hvtc324dus",
         "ticker": "DGK"
-    },
-    {
-        "pool_id_bech32": "pool19seeqvu6hfr3qru6kx3rp4khymssa82j00jfm3d6k3ua590wdwv",
-        "ticker": "RUBY"
     },
     {
         "pool_id_bech32": "pool19sk7acvpdxszed5hmckt0wmqxljalartue7d7d4a7qhwuw0n0ws",
@@ -10890,10 +10878,6 @@
     {
         "pool_id_bech32": "pool1vvesqladm29fuzrv93px5qse0upw82a579lz9063xsfrz7yef7z",
         "ticker": "8SQRD"
-    },
-    {
-        "pool_id_bech32": "pool1vvzajfqpfltmprgnrdgx3qu2yqj68ujg3g3pllpvst89gfw575w",
-        "ticker": "SUDO"
     },
     {
         "pool_id_bech32": "pool1vw0rqsvfx0ngct7gfmlz5j2e4gap6sd9pwrmemhd488eyxvm88r",

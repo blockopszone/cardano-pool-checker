@@ -4734,7 +4734,7 @@
     },
     {
         "pool_id_bech32": "pool1qqqqwg5y9jj6uet4amx3mkmzneaxrlhczmpz5admlvddgyhtnug",
-        "ticker": "WEPA",
+        "ticker": "HEAL",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_hostname.json"
         ]

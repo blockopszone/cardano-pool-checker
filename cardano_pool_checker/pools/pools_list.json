@@ -6833,7 +6833,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": null
+        "ticker": "PBST1"
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -10912,6 +10912,10 @@
         "ticker": "AGROT"
     },
     {
+        "pool_id_bech32": "pool1vy9qerf9fenp893mqrdm58uj45w3etutv4n0vdh8669uvqenkqr",
+        "ticker": "KINA"
+    },
+    {
         "pool_id_bech32": "pool1vygvrczrlzapm25qf8w3cxz4gxv2azrp43xj6538tt225jjfcpw",
         "ticker": "1BEST"
     },
@@ -12322,6 +12326,10 @@
     {
         "pool_id_bech32": "pool1zydxfglzuvv6septzwzfgyslcdjsytealqmflft7kc57j9tqcvz",
         "ticker": "DWORX"
+    },
+    {
+        "pool_id_bech32": "pool1zyjvzvvkppsepsv4d75t2lmxt5p3cpn73pw7jk9gstxh78aa9ah",
+        "ticker": "MYR"
     },
     {
         "pool_id_bech32": "pool1zytydvyy3qztrs8l2xyggvkfcjctp23m2hc3aj7sudnzgny79cg",

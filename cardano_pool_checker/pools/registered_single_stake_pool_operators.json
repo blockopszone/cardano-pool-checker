@@ -2312,6 +2312,10 @@
         "ticker": "VERGE"
     },
     {
+        "pool_id_bech32": "pool197e83k4u53l6txk8yr83007efgavngua8wnwp00w3xrqw3pmr4x",
+        "ticker": "CREUS"
+    },
+    {
         "pool_id_bech32": "pool197rexraxmzk5mv36h2yfy8p4lwxzlqyenjk50r0q8dchz4gp26j",
         "ticker": "AADA"
     },
@@ -4356,10 +4360,6 @@
         "ticker": "JANUS"
     },
     {
-        "pool_id_bech32": "pool1h8uur6gvtcsw0cdjgnt5njc33ajefgg756xllkd45w7zsml6ydd",
-        "ticker": null
-    },
-    {
         "pool_id_bech32": "pool1h92047jmdgtp4ft2cw8gkf3a5745vffca97ay5stt72rkxm37kl",
         "ticker": null
     },
@@ -5842,10 +5842,6 @@
     {
         "pool_id_bech32": "pool1nqveuw4q2yw9u9x6yzy260skdwc309krsx32hmgvpyp962mu996",
         "ticker": null
-    },
-    {
-        "pool_id_bech32": "pool1nr2pl3yqx65hq6y2r8unlnrejfkypeh84zezf44u7glcz50yzet",
-        "ticker": "KHAN"
     },
     {
         "pool_id_bech32": "pool1nrmlaqy77txzd4lrayx92x76hmv97sldqgntqc49a820sf4ment",

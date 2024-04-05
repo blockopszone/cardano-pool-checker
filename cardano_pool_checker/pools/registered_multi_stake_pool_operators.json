@@ -1709,13 +1709,6 @@
         ]
     },
     {
-        "pool_id_bech32": "pool197e83k4u53l6txk8yr83007efgavngua8wnwp00w3xrqw3pmr4x",
-        "ticker": "CREUS",
-        "reason": [
-            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
-        ]
-    },
-    {
         "pool_id_bech32": "pool19asxjgd6ah9ddzauwede4wpt9vsp6s4ax5nz297wt47evc9sn7z",
         "ticker": "HODL\u20b3",
         "reason": [

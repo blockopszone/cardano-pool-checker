@@ -1636,10 +1636,6 @@
         "ticker": null
     },
     {
-        "pool_id_bech32": "pool16wkx7ajj8wlsjtarmy4p3a2qpsq7qah6p8pnevtz5v09kqe4ygy",
-        "ticker": "MOGA"
-    },
-    {
         "pool_id_bech32": "pool16wt6mzvytu9key68efv7cx6zfkqn0d9kzlnt746cyuv0zj3nxh8",
         "ticker": "BANAN"
     },
@@ -4977,7 +4973,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -8842,6 +8838,10 @@
     {
         "pool_id_bech32": "pool1zrkwh7cmhvx3zvkyr9f0nhnpxscaflhky6edaqzsux5qkj7r5v6",
         "ticker": "FRN"
+    },
+    {
+        "pool_id_bech32": "pool1zs05tm6pmtk9l7xdhzvd9jshdkzax32ejqn8fftfmmn4xfualye",
+        "ticker": "DREAM"
     },
     {
         "pool_id_bech32": "pool1zsfyca7vnftr3ywzhwq07whjev9nau2j65mq6kehnpvvccstlzz",

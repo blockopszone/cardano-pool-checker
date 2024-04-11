@@ -4832,6 +4832,10 @@
         "ticker": null
     },
     {
+        "pool_id_bech32": "pool1k2cj852umvq5f527x9u7p58mnletdzx29gr4e4npv4nc6m3hch9",
+        "ticker": "A4EVR"
+    },
+    {
         "pool_id_bech32": "pool1k2rhjxppp87k488zfeu9t24hl4jgjrjcqxwfg4q7jcu6wvkfwpn",
         "ticker": "ACHN1"
     },
@@ -5777,7 +5781,7 @@
     },
     {
         "pool_id_bech32": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
-        "ticker": "FUNGI"
+        "ticker": "DCENT"
     },
     {
         "pool_id_bech32": "pool1nhd907krga9dh69kf0jg4tl0764rravepy337gptvsknxyyx94k",

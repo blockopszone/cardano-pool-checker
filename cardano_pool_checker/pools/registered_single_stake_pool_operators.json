@@ -52,10 +52,6 @@
         "ticker": "WORLD"
     },
     {
-        "pool_id_bech32": "pool1085up093vl7qgwnqsuset7kdt3yflscdp6h8eeakuhyzwlhmq68",
-        "ticker": "BPE"
-    },
-    {
         "pool_id_bech32": "pool109k0t72eh8txza4ptnagnfyqkjnmfe60afmtm4dvj9lz7dy78lh",
         "ticker": null
     },
@@ -4973,7 +4969,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -5253,7 +5249,7 @@
     },
     {
         "pool_id_bech32": "pool1llfrhf0htc528jcmp9dr2tzsjnt93y2gkjfjn5znjh9a79avwv7",
-        "ticker": "METAL"
+        "ticker": "BLSTR"
     },
     {
         "pool_id_bech32": "pool1llknxwa7zzugc52mnv3lpxgh7az8wnqylrxxfqhzzm9e2eufug3",

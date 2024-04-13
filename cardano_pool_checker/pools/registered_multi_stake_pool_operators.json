@@ -80,6 +80,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool1085up093vl7qgwnqsuset7kdt3yflscdp6h8eeakuhyzwlhmq68",
+        "ticker": "BPE",
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool108zdflss3ayqlm5c7vr6mtqj2uwl99vk28ur8dv4zswdzt6yauc",
         "ticker": "AZUR",
         "reason": [
@@ -1435,6 +1442,13 @@
         "ticker": "MS10",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool183q4r42upty765dakf62na5lqm4u2d0gnj2dmeqc5y5qsz39s4p",
+        "ticker": "1AAA",
+        "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
         ]
     },

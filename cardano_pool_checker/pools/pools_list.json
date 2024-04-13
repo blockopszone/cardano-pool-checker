@@ -2672,6 +2672,10 @@
         "ticker": "MS10"
     },
     {
+        "pool_id_bech32": "pool183q4r42upty765dakf62na5lqm4u2d0gnj2dmeqc5y5qsz39s4p",
+        "ticker": "1AAA"
+    },
+    {
         "pool_id_bech32": "pool183usq53j55v86q3eguw37xaqy67au9n5terk474sevuu6jy7266",
         "ticker": null
     },
@@ -6829,7 +6833,7 @@
     },
     {
         "pool_id_bech32": "pool1kl7qlqtzxamrj8qwutn6ww0ksw3m7chwuewztqr6uu6yz0nuqtn",
-        "ticker": "PBST1"
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1kllc67fn00yqpffw8e9dqnlcaa733h9u5nwx97vhtjlw2t5e56j",
@@ -7233,7 +7237,7 @@
     },
     {
         "pool_id_bech32": "pool1llfrhf0htc528jcmp9dr2tzsjnt93y2gkjfjn5znjh9a79avwv7",
-        "ticker": "METAL"
+        "ticker": "BLSTR"
     },
     {
         "pool_id_bech32": "pool1llknxwa7zzugc52mnv3lpxgh7az8wnqylrxxfqhzzm9e2eufug3",

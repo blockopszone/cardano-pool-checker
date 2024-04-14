@@ -1405,6 +1405,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool17veadtunvw0kkyxhzpls0auwyqhny8a6m7lcvcmgvg0ys0mm7yd",
+        "ticker": null,
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool17wdqcn6xjym38wlry6t2ull00fg7ghqejd0xuy4p20djyua800c",
         "ticker": "RPLC",
         "reason": [

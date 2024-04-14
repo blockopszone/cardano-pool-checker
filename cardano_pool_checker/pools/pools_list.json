@@ -2600,6 +2600,10 @@
         "ticker": "PSB"
     },
     {
+        "pool_id_bech32": "pool17veadtunvw0kkyxhzpls0auwyqhny8a6m7lcvcmgvg0ys0mm7yd",
+        "ticker": null
+    },
+    {
         "pool_id_bech32": "pool17wdqcn6xjym38wlry6t2ull00fg7ghqejd0xuy4p20djyua800c",
         "ticker": "RPLC"
     },

@@ -5296,6 +5296,10 @@
         "ticker": "SESH"
     },
     {
+        "pool_id_bech32": "pool1lr02c9krwmtzr29e9h2w5e7crr9elss7qfflkr42j0ke6de4vh7",
+        "ticker": "nmk"
+    },
+    {
         "pool_id_bech32": "pool1lr54356svvdz4yeqrq69wn6la2025l9r65pm26xxl466gxqqs83",
         "ticker": null
     },
@@ -6442,10 +6446,6 @@
     {
         "pool_id_bech32": "pool1qqlf3epa7m8780p2jx5689u2ql06tw026l5377tptk2zswrc645",
         "ticker": "CPS"
-    },
-    {
-        "pool_id_bech32": "pool1qqmvjqwzcg3p0x89a9hd6lgwvqq8wy2w6mcx0csaxq4x6xz7qyn",
-        "ticker": "CLIMA"
     },
     {
         "pool_id_bech32": "pool1qqq0c53vaf5ju0n3fvujmyxwca0yhp65930evw9lngmr5705csz",
@@ -8418,10 +8418,6 @@
     {
         "pool_id_bech32": "pool1xxvcz8dem4xufzn74v2y7fs709mfw3tpq963thzg5en5jrkv67a",
         "ticker": "DUBAI"
-    },
-    {
-        "pool_id_bech32": "pool1xyx655q6ch4d99fuewwtkdwjx5tvfr0rzqvmwehm2cpzj7e2wgl",
-        "ticker": "PARIS"
     },
     {
         "pool_id_bech32": "pool1xzpjn9f5nk52lnfzskuxey3r3h5fh8z78389qsd6vwyfcqum796",

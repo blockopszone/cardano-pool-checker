@@ -3340,6 +3340,10 @@
         "ticker": "BNP"
     },
     {
+        "pool_id_bech32": "pool19mhs4xzr0trqx7ge9wtx2zxnqvhtjn2xpgyc9un5hus8jeq352s",
+        "ticker": null
+    },
+    {
         "pool_id_bech32": "pool19n2rjlddd0afs02cgd86mehptwaajv5kndtfcuqzdmgzq06lq0n",
         "ticker": "NAO"
     },
@@ -11542,6 +11546,10 @@
     {
         "pool_id_bech32": "pool1xkwnlr34tjrnkz6u4c0p36cju3xuls4dyynsdkf6cv22ksuhz6q",
         "ticker": "EMURB"
+    },
+    {
+        "pool_id_bech32": "pool1xl394gcvg3gv8g6mdrdna7tu88uee740vgp03hkf559vkmunstt",
+        "ticker": null
     },
     {
         "pool_id_bech32": "pool1xlfty06hg6q23qvcaxwv3p9ke7ff9n34qpr8tpxt2zflyq20ceh",

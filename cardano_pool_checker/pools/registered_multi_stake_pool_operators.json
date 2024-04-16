@@ -1820,6 +1820,13 @@
         ]
     },
     {
+        "pool_id_bech32": "pool19mhs4xzr0trqx7ge9wtx2zxnqvhtjn2xpgyc9un5hus8jeq352s",
+        "ticker": null,
+        "reason": [
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
         "pool_id_bech32": "pool19n4qe42fvkxs8f95t6tas8cgvc0ukem87en9g0aave4aj4y57e3",
         "ticker": "FOMO",
         "reason": [
@@ -6272,6 +6279,13 @@
         "ticker": "EMURB",
         "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_meta_json_homepage.json",
+            "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
+        ]
+    },
+    {
+        "pool_id_bech32": "pool1xl394gcvg3gv8g6mdrdna7tu88uee740vgp03hkf559vkmunstt",
+        "ticker": null,
+        "reason": [
             "https://raw.githubusercontent.com/blockopszone/cardano-pool-checker/main/cardano_pool_checker/pools/registered_currently_sharing_relay_ipv4.json"
         ]
     },
